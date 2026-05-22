@@ -2,5 +2,5 @@
 /effect @p 9999 10		duration 9999 potency 10
 /tp 302 92 474			moor park
 /tp 249 130 267			Watford
-/tp 307 102 312			carpet
+/tp 321 108 333 		I&I centre
 /kill @e[type=!Player]		kill all mobs
