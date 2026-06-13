@@ -4,3 +4,4 @@
 /tp 249 130 267			Watford
 /tp 321 108 333 		I&I centre
 /kill @e[type=!Player]		kill all mobs
+/give @p aetherblock:aether_block    - we'll get to this
