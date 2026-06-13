@@ -1,23 +1,23 @@
-[09:04:17] [Client thread/INFO]: Setting user: chancellor77
-[09:04:21] [Client thread/INFO]: LWJGL Version: 2.9.4
-[09:04:24] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Mo'Bends, FMLFileResourcePack:WorldEdit
-[09:04:25] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[09:04:26] [Thread-8/INFO]: Initializing LWJGL OpenAL
-[09:04:26] [Thread-8/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[09:04:26] [Thread-8/INFO]: OpenAL initialized.
-[09:04:26] [Sound Library Loader/INFO]: Sound engine started
-[09:04:27] [Client thread/INFO]: Created: 16x16 textures-atlas
-[09:04:30] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Mo'Bends, FMLFileResourcePack:WorldEdit
-[09:04:31] [Client thread/INFO]: SoundSystem shutting down...
-[09:04:31] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
-[09:04:31] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[09:04:31] [Thread-10/INFO]: Initializing LWJGL OpenAL
-[09:04:31] [Thread-10/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[09:04:31] [Thread-10/INFO]: OpenAL initialized.
-[09:04:31] [Sound Library Loader/INFO]: Sound engine started
-[09:04:32] [Client thread/INFO]: Created: 1024x512 textures-atlas
-[09:04:35] [Realms Notification Availability checker #1/ERROR]: Could not parse RealmsError: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 12
-[09:04:35] [Realms Notification Availability checker #1/ERROR]: The error was: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+[09:07:27] [Client thread/INFO]: Setting user: chancellor77
+[09:07:31] [Client thread/INFO]: LWJGL Version: 2.9.4
+[09:07:35] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Mo'Bends, FMLFileResourcePack:WorldEdit, snevypackcherrybloomelytra
+[09:07:38] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[09:07:39] [Thread-8/INFO]: Initializing LWJGL OpenAL
+[09:07:39] [Thread-8/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[09:07:39] [Thread-8/INFO]: OpenAL initialized.
+[09:07:39] [Sound Library Loader/INFO]: Sound engine started
+[09:07:45] [Client thread/INFO]: Created: 16x16 textures-atlas
+[09:07:47] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Mo'Bends, FMLFileResourcePack:WorldEdit, snevypackcherrybloomelytra
+[09:07:50] [Client thread/INFO]: SoundSystem shutting down...
+[09:07:50] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[09:07:50] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[09:07:51] [Thread-10/INFO]: Initializing LWJGL OpenAL
+[09:07:51] [Thread-10/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[09:07:51] [Thread-10/INFO]: OpenAL initialized.
+[09:07:51] [Sound Library Loader/INFO]: Sound engine started
+[09:07:59] [Client thread/INFO]: Created: 1024x512 textures-atlas
+[09:08:02] [Realms Notification Availability checker #1/ERROR]: Could not parse RealmsError: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 12
+[09:08:02] [Realms Notification Availability checker #1/ERROR]: The error was: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
 <html><head>
 <title>404 Not Found</title>
 </head><body>
@@ -27,7 +27,7 @@
 <address>Apache Server at mcoapi.minecraft.net Port 443</address>
 </body></html>
 
-[09:04:35] [Realms Notification Availability checker #1/ERROR]: Realms http code: 404 -  error code: 0 -  message: null - raw body: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+[09:08:02] [Realms Notification Availability checker #1/ERROR]: Realms http code: 404 -  error code: 0 -  message: null - raw body: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
 <html><head>
 <title>404 Not Found</title>
 </head><body>
@@ -37,44 +37,72 @@
 <address>Apache Server at mcoapi.minecraft.net Port 443</address>
 </body></html>
 
-[09:05:02] [Server thread/INFO]: Starting integrated minecraft server version 1.9
-[09:05:02] [Server thread/INFO]: Generating keypair
-[09:05:03] [Server thread/INFO]: Preparing start region for level 0
-[09:05:04] [Server thread/INFO]: Preparing spawn area: 70%
-[09:05:04] [Server thread/INFO]: Changing view distance to 8, from 10
-[09:05:05] [Server thread/INFO]: chancellor77[local:E:6d499bb7] logged in with entity id 304 at (325.95226610956377, 117.0, 334.8093638411199)
-[09:05:05] [Server thread/INFO]: chancellor77 joined the game
-[09:05:06] [Server thread/INFO]: Saving and pausing game...
-[09:05:06] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
-[09:05:06] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
-[09:05:06] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
-[09:05:07] [Server thread/INFO]: Saving and pausing game...
-[09:05:07] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
-[09:05:07] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
-[09:05:07] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
-[09:05:11] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Mo'Bends, FMLFileResourcePack:WorldEdit, snevypackcherrybloomelytra
-[09:05:13] [Client thread/INFO]: SoundSystem shutting down...
-[09:05:13] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
-[09:05:13] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[09:05:13] [Thread-14/INFO]: Initializing LWJGL OpenAL
-[09:05:13] [Thread-14/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[09:05:13] [Thread-14/INFO]: OpenAL initialized.
-[09:05:14] [Sound Library Loader/INFO]: Sound engine started
-[09:05:18] [Client thread/INFO]: Created: 1024x512 textures-atlas
-[09:05:32] [Server thread/INFO]: Saving and pausing game...
-[09:05:32] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
-[09:05:32] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
-[09:05:32] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
-[09:05:47] [Server thread/INFO]: Saving and pausing game...
-[09:05:47] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
-[09:05:47] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
-[09:05:47] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
-[09:05:48] [Server thread/INFO]: Stopping server
-[09:05:48] [Server thread/INFO]: Saving players
-[09:05:48] [Server thread/INFO]: Saving worlds
-[09:05:48] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
-[09:05:48] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
-[09:05:48] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
-[09:05:50] [Client thread/INFO]: Stopping!
-[09:05:50] [Client thread/INFO]: SoundSystem shutting down...
-[09:05:50] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[09:08:07] [Server thread/INFO]: Starting integrated minecraft server version 1.9
+[09:08:07] [Server thread/INFO]: Generating keypair
+[09:08:08] [Server thread/INFO]: Preparing start region for level 0
+[09:08:09] [Server thread/INFO]: Preparing spawn area: 36%
+[09:08:10] [Server thread/INFO]: Changing view distance to 8, from 10
+[09:08:11] [Server thread/INFO]: chancellor77[local:E:8fbaf0af] logged in with entity id 305 at (326.82343759480483, 117.0, 335.2044340173631)
+[09:08:11] [Server thread/INFO]: chancellor77 joined the game
+[09:08:12] [Server thread/INFO]: Saving and pausing game...
+[09:08:12] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
+[09:08:12] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
+[09:08:12] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
+[09:08:13] [Server thread/INFO]: Saving and pausing game...
+[09:08:13] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
+[09:08:13] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
+[09:08:13] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
+[09:08:13] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2064ms behind, skipping 41 tick(s)
+[09:08:37] [Server thread/INFO]: Saving and pausing game...
+[09:08:37] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
+[09:08:37] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
+[09:08:37] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
+[09:08:41] [Server thread/INFO]: Saving and pausing game...
+[09:08:41] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
+[09:08:41] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
+[09:08:41] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
+[09:08:54] [Server thread/INFO]: Saving and pausing game...
+[09:08:54] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
+[09:08:54] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
+[09:08:54] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
+[09:10:08] [Server thread/INFO]: Saving and pausing game...
+[09:10:08] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
+[09:10:08] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
+[09:10:08] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
+[09:10:56] [Server thread/INFO]: Saving and pausing game...
+[09:10:56] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
+[09:10:56] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
+[09:10:56] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
+[09:11:04] [Server thread/INFO]: Saving and pausing game...
+[09:11:04] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
+[09:11:04] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
+[09:11:04] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
+[09:11:24] [Server thread/INFO]: Saving and pausing game...
+[09:11:24] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
+[09:11:24] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
+[09:11:24] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
+[09:12:25] [Server thread/INFO]: Saving and pausing game...
+[09:12:25] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
+[09:12:26] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
+[09:12:26] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
+[09:14:28] [Server thread/INFO]: Saving and pausing game...
+[09:14:28] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
+[09:14:28] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
+[09:14:28] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
+[09:14:51] [Server thread/INFO]: Saving and pausing game...
+[09:14:51] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
+[09:14:51] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
+[09:14:51] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
+[09:14:52] [Server thread/INFO]: Saving and pausing game...
+[09:14:52] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
+[09:14:52] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
+[09:14:52] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
+[09:14:53] [Server thread/INFO]: Stopping server
+[09:14:53] [Server thread/INFO]: Saving players
+[09:14:53] [Server thread/INFO]: Saving worlds
+[09:14:53] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
+[09:14:53] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
+[09:14:53] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
+[09:14:54] [Client thread/INFO]: Stopping!
+[09:14:54] [Client thread/INFO]: SoundSystem shutting down...
+[09:14:54] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
