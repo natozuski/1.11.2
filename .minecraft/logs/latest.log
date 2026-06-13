@@ -1,23 +1,23 @@
-[15:56:51] [Client thread/INFO]: Setting user: chancellor77
-[15:56:53] [Client thread/INFO]: LWJGL Version: 2.9.4
-[15:56:57] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:WorldEdit
-[15:56:58] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[15:56:58] [Thread-8/INFO]: Initializing LWJGL OpenAL
-[15:56:58] [Thread-8/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[15:56:59] [Thread-8/INFO]: OpenAL initialized.
-[15:56:59] [Sound Library Loader/INFO]: Sound engine started
-[15:57:01] [Client thread/INFO]: Created: 16x16 textures-atlas
-[15:57:02] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:WorldEdit
-[15:57:03] [Client thread/INFO]: SoundSystem shutting down...
-[15:57:04] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
-[15:57:04] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[15:57:04] [Thread-10/INFO]: Initializing LWJGL OpenAL
-[15:57:04] [Thread-10/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[15:57:04] [Thread-10/INFO]: OpenAL initialized.
-[15:57:04] [Sound Library Loader/INFO]: Sound engine started
-[15:57:05] [Client thread/INFO]: Created: 1024x512 textures-atlas
-[15:57:08] [Realms Notification Availability checker #1/ERROR]: Could not parse RealmsError: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 12
-[15:57:08] [Realms Notification Availability checker #1/ERROR]: The error was: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+[09:04:17] [Client thread/INFO]: Setting user: chancellor77
+[09:04:21] [Client thread/INFO]: LWJGL Version: 2.9.4
+[09:04:24] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Mo'Bends, FMLFileResourcePack:WorldEdit
+[09:04:25] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[09:04:26] [Thread-8/INFO]: Initializing LWJGL OpenAL
+[09:04:26] [Thread-8/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[09:04:26] [Thread-8/INFO]: OpenAL initialized.
+[09:04:26] [Sound Library Loader/INFO]: Sound engine started
+[09:04:27] [Client thread/INFO]: Created: 16x16 textures-atlas
+[09:04:30] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Mo'Bends, FMLFileResourcePack:WorldEdit
+[09:04:31] [Client thread/INFO]: SoundSystem shutting down...
+[09:04:31] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[09:04:31] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[09:04:31] [Thread-10/INFO]: Initializing LWJGL OpenAL
+[09:04:31] [Thread-10/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[09:04:31] [Thread-10/INFO]: OpenAL initialized.
+[09:04:31] [Sound Library Loader/INFO]: Sound engine started
+[09:04:32] [Client thread/INFO]: Created: 1024x512 textures-atlas
+[09:04:35] [Realms Notification Availability checker #1/ERROR]: Could not parse RealmsError: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 12
+[09:04:35] [Realms Notification Availability checker #1/ERROR]: The error was: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
 <html><head>
 <title>404 Not Found</title>
 </head><body>
@@ -27,7 +27,7 @@
 <address>Apache Server at mcoapi.minecraft.net Port 443</address>
 </body></html>
 
-[15:57:08] [Realms Notification Availability checker #1/ERROR]: Realms http code: 404 -  error code: 0 -  message: null - raw body: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+[09:04:35] [Realms Notification Availability checker #1/ERROR]: Realms http code: 404 -  error code: 0 -  message: null - raw body: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
 <html><head>
 <title>404 Not Found</title>
 </head><body>
@@ -37,52 +37,44 @@
 <address>Apache Server at mcoapi.minecraft.net Port 443</address>
 </body></html>
 
-[15:57:10] [Server thread/INFO]: Starting integrated minecraft server version 1.9
-[15:57:10] [Server thread/INFO]: Generating keypair
-[15:57:11] [Server thread/INFO]: Preparing start region for level 0
-[15:57:12] [Server thread/INFO]: Preparing spawn area: 59%
-[15:57:12] [Server thread/INFO]: Changing view distance to 8, from 10
-[15:57:13] [Server thread/INFO]: chancellor77[local:E:74600758] logged in with entity id 305 at (319.52098200951895, 105.98516720556528, 322.95110723206864)
-[15:57:13] [Server thread/INFO]: chancellor77 joined the game
-[15:57:14] [Server thread/INFO]: Saving and pausing game...
-[15:57:14] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
-[15:57:14] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
-[15:57:14] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
-[15:57:38] [Client thread/INFO]: [CHAT] Saved screenshot as 2026-06-12_15.57.38.png
-[15:57:39] [Client thread/INFO]: [CHAT] Saved screenshot as 2026-06-12_15.57.38_2.png
-[15:57:40] [Client thread/INFO]: [CHAT] Saved screenshot as 2026-06-12_15.57.40.png
-[15:57:43] [Client thread/INFO]: [CHAT] Saved screenshot as 2026-06-12_15.57.43.png
-[15:57:47] [Server thread/INFO]: Saving and pausing game...
-[15:57:47] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
-[15:57:48] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
-[15:57:48] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
-[15:58:16] [Server thread/INFO]: Stopping server
-[15:58:16] [Server thread/INFO]: Saving players
-[15:58:16] [Server thread/INFO]: Saving worlds
-[15:58:16] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
-[15:58:16] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
-[15:58:16] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
-[15:58:17] [Realms Notification Availability checker #1/ERROR]: Could not parse RealmsError: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 12
-[15:58:17] [Realms Notification Availability checker #1/ERROR]: The error was: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
-<html><head>
-<title>404 Not Found</title>
-</head><body>
-<h1>Not Found</h1>
-<p>The requested URL was not found on this server.</p>
-<hr>
-<address>Apache Server at mcoapi.minecraft.net Port 443</address>
-</body></html>
-
-[15:58:17] [Realms Notification Availability checker #1/ERROR]: Realms http code: 404 -  error code: 0 -  message: null - raw body: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
-<html><head>
-<title>404 Not Found</title>
-</head><body>
-<h1>Not Found</h1>
-<p>The requested URL was not found on this server.</p>
-<hr>
-<address>Apache Server at mcoapi.minecraft.net Port 443</address>
-</body></html>
-
-[15:58:18] [Client thread/INFO]: Stopping!
-[15:58:18] [Client thread/INFO]: SoundSystem shutting down...
-[15:58:18] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[09:05:02] [Server thread/INFO]: Starting integrated minecraft server version 1.9
+[09:05:02] [Server thread/INFO]: Generating keypair
+[09:05:03] [Server thread/INFO]: Preparing start region for level 0
+[09:05:04] [Server thread/INFO]: Preparing spawn area: 70%
+[09:05:04] [Server thread/INFO]: Changing view distance to 8, from 10
+[09:05:05] [Server thread/INFO]: chancellor77[local:E:6d499bb7] logged in with entity id 304 at (325.95226610956377, 117.0, 334.8093638411199)
+[09:05:05] [Server thread/INFO]: chancellor77 joined the game
+[09:05:06] [Server thread/INFO]: Saving and pausing game...
+[09:05:06] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
+[09:05:06] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
+[09:05:06] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
+[09:05:07] [Server thread/INFO]: Saving and pausing game...
+[09:05:07] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
+[09:05:07] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
+[09:05:07] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
+[09:05:11] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Mo'Bends, FMLFileResourcePack:WorldEdit, snevypackcherrybloomelytra
+[09:05:13] [Client thread/INFO]: SoundSystem shutting down...
+[09:05:13] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[09:05:13] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[09:05:13] [Thread-14/INFO]: Initializing LWJGL OpenAL
+[09:05:13] [Thread-14/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[09:05:13] [Thread-14/INFO]: OpenAL initialized.
+[09:05:14] [Sound Library Loader/INFO]: Sound engine started
+[09:05:18] [Client thread/INFO]: Created: 1024x512 textures-atlas
+[09:05:32] [Server thread/INFO]: Saving and pausing game...
+[09:05:32] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
+[09:05:32] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
+[09:05:32] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
+[09:05:47] [Server thread/INFO]: Saving and pausing game...
+[09:05:47] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
+[09:05:47] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
+[09:05:47] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
+[09:05:48] [Server thread/INFO]: Stopping server
+[09:05:48] [Server thread/INFO]: Saving players
+[09:05:48] [Server thread/INFO]: Saving worlds
+[09:05:48] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
+[09:05:48] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
+[09:05:48] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
+[09:05:50] [Client thread/INFO]: Stopping!
+[09:05:50] [Client thread/INFO]: SoundSystem shutting down...
+[09:05:50] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com

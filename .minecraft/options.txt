@@ -14,7 +14,7 @@ difficulty:0
 fancyGraphics:true
 ao:2
 renderClouds:true
-resourcePacks:[]
+resourcePacks:["snevypackcherrybloomelytra"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_US
@@ -78,6 +78,7 @@ key_key.hotbar.6:7
 key_key.hotbar.7:8
 key_key.hotbar.8:9
 key_key.hotbar.9:10
+key_Mo'Bends Menu:34
 key_WorldEdit Reference:38
 soundCategory_master:0.0
 soundCategory_music:0.14084508
