@@ -3,13 +3,13 @@
 ## You need:
 - MultiMC
 - Java 1.8.0
-- Worldedit.jar (mod, for minecraft 1.9)
+- Worldedit.jar (mod, for minecraft 1.11.2)
 - a minecraft account (you have one alr)
 
 ## Steps:
 - sign in to minecraft account on multimc
-- create a world in minecraft 1.9
-- install forge in for particular world u created (go to mod settings for particular version, download forge version 12.16.0.x or 12.16.0.1885 for 1.9)
+- create a world in minecraft 1.11.2
+- install forge in for particular world u created (go to mod settings for particular version, download appropriate forge version for 1.11.2)
 - make sure dat worldedit.jar file is in .minecraft/mods
 
 ## Tools:
@@ -39,7 +39,7 @@
 - git add
 - git push
 - clone the repo using https since we'ain got ssh keys set up
-- git clone https://github.com/natozuski/multimc-1.9.git
+- git clone https://github.com/natozuski/multimc-1.9.git (or whatever its called now)
 
 ### Mac
 
@@ -61,4 +61,4 @@
 - git add
 - git push
 - clone the repo using https since we'ain got ssh keys set up
-- git clone https://github.com/natozuski/multimc-1.9.git
+- git clone https://github.com/natozuski/multimc-1.9.git (or whatever its called now)
