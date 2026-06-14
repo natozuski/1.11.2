@@ -1,799 +1,819 @@
-[07:16:36] [main/DEBUG] [FML/]: Injecting tracing printstreams for STDOUT/STDERR.
-[07:16:36] [main/INFO] [FML/]: Forge Mod Loader version 12.16.0.1865 for Minecraft 1.9 loading
-[07:16:36] [main/INFO] [FML/]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_491, running on Windows 11:amd64:10.0, installed at C:\Program Files\Java\jre1.8.0_491
-[07:16:36] [main/DEBUG] [FML/]: Java classpath at launch is C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/jars/NewLaunch.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/net/java/jinput/jinput/2.0.5/jinput-2.0.5.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/net/java/jutils/jutils/1.0.0/jutils-1.0.0.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/org/lwjgl/lwjgl/lwjgl/2.9.4-nightly-20150209/lwjgl-2.9.4-nightly-20150209.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/org/lwjgl/lwjgl/lwjgl_util/2.9.4-nightly-20150209/lwjgl_util-2.9.4-nightly-20150209.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/com/mojang/netty/1.8.8/netty-1.8.8.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/oshi-project/oshi-core/1.1/oshi-core-1.1.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/net/java/dev/jna/jna/3.4.0/jna-3.4.0.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/net/java/dev/jna/platform/3.4.0/platform-3.4.0.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/com/ibm/icu/icu4j-core-mojang/51.2/icu4j-core-mojang-51.2.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/net/sf/jopt-simple/jopt-simple/4.6/jopt-simple-4.6.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/com/paulscode/codecjorbis/20101023/codecjorbis-20101023.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/com/paulscode/codecwav/20101023/codecwav-20101023.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/com/paulscode/libraryjavasound/20101123/libraryjavasound-20101123.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/com/paulscode/librarylwjglopenal/20100824/librarylwjglopenal-20100824.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/com/paulscode/soundsystem/20120107/soundsystem-20120107.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/io/netty/netty-all/4.0.23.Final/netty-all-4.0.23.Final.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/com/google/guava/guava/17.0/guava-17.0.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/commons-io/commons-io/2.4/commons-io-2.4.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/commons-codec/commons-codec/1.9/commons-codec-1.9.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/com/mojang/authlib/1.5.22/authlib-1.5.22.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/com/mojang/realms/1.8.7/realms-1.8.7.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/org/apache/httpcomponents/httpclient/4.3.3/httpclient-4.3.3.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/org/apache/logging/log4j/log4j-api/2.0-beta9-fixed/log4j-api-2.0-beta9-fixed.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/org/apache/logging/log4j/log4j-core/2.0-beta9-fixed/log4j-core-2.0-beta9-fixed.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/net/minecraftforge/forge/1.9-12.16.0.1865-1.9/forge-1.9-12.16.0.1865-1.9-universal.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/org/ow2/asm/asm-all/5.0.3/asm-all-5.0.3.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/jline/jline/2.13/jline-2.13.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/com/typesafe/config/1.2.1/config-1.2.1.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2/scala-continuations-library_2.11-1.0.2.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2/scala-continuations-plugin_2.11.1-1.0.2.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/org/scala-lang/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/org/scala-lang/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/org/scala-lang/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/lzma/lzma/0.0.1/lzma-0.0.1.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/java3d/vecmath/1.5.2/vecmath-1.5.2.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/com/mojang/minecraft/1.9/minecraft-1.9-client.jar
-[07:16:36] [main/DEBUG] [FML/]: Java library path at launch is C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/instances/1.9/natives
-[07:16:36] [main/DEBUG] [FML/]: Enabling runtime deobfuscation
-[07:16:36] [main/DEBUG] [FML/]: Instantiating coremod class FMLCorePlugin
-[07:16:36] [main/DEBUG] [FML/]: Added access transformer class net.minecraftforge.fml.common.asm.transformers.AccessTransformer to enqueued access transformers
-[07:16:36] [main/DEBUG] [FML/]: Enqueued coremod FMLCorePlugin
-[07:16:36] [main/DEBUG] [FML/]: Instantiating coremod class FMLForgePlugin
-[07:16:36] [main/DEBUG] [FML/]: Enqueued coremod FMLForgePlugin
-[07:16:36] [main/DEBUG] [FML/]: All fundamental core mods are successfully located
-[07:16:36] [main/DEBUG] [FML/]: Attempting to load commandline specified mods, relative to C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\instances\1.9\.minecraft
-[07:16:36] [main/DEBUG] [FML/]: Discovering coremods
-[07:16:36] [main/DEBUG] [FML/]: Examining for coremod candidacy aetherblock-1.0.2.jar
-[07:16:36] [main/DEBUG] [FML/]: Not found coremod data in aetherblock-1.0.2.jar
-[07:16:36] [main/DEBUG] [FML/]: Examining for coremod candidacy mobends-0.22.5_for_MC-1.9.jar
-[07:16:36] [main/DEBUG] [FML/]: Not found coremod data in mobends-0.22.5_for_MC-1.9.jar
-[07:16:36] [main/DEBUG] [FML/]: Examining for coremod candidacy worldedit-forge-mc1.9-6.1.2-dist.jar
-[07:16:36] [main/DEBUG] [FML/]: Not found coremod data in worldedit-forge-mc1.9-6.1.2-dist.jar
-[07:16:36] [main/INFO] [LaunchWrapper/]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[07:16:36] [main/INFO] [LaunchWrapper/]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[07:16:36] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[07:16:36] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[07:16:36] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[07:16:36] [main/DEBUG] [FML/]: Injecting coremod FMLCorePlugin {net.minecraftforge.fml.relauncher.FMLCorePlugin} class transformers
-[07:16:36] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.BlamingTransformer
-[07:16:36] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.SideTransformer
-[07:16:36] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriptionTransformer
-[07:16:36] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriberTransformer
-[07:16:36] [main/DEBUG] [FML/]: Injection complete
-[07:16:36] [main/DEBUG] [FML/]: Running coremod plugin for FMLCorePlugin {net.minecraftforge.fml.relauncher.FMLCorePlugin}
-[07:16:36] [main/DEBUG] [FML/]: Running coremod plugin FMLCorePlugin
-[07:16:37] [main/DEBUG] [FML/]: Read 846 binary patches
-[07:16:37] [main/DEBUG] [FML/]: Loading deobfuscation resource /deobfuscation_data-1.9.lzma with 31805 records
-[07:16:37] [main/INFO] [FML/]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
-[07:16:37] [main/ERROR] [FML/]: FML appears to be missing any signature data. This is not a good thing
-[07:16:37] [main/DEBUG] [FML/]: Coremod plugin class FMLCorePlugin run successfully
-[07:16:37] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[07:16:37] [main/DEBUG] [FML/]: Injecting coremod FMLForgePlugin {net.minecraftforge.classloading.FMLForgePlugin} class transformers
-[07:16:37] [main/DEBUG] [FML/]: Injection complete
-[07:16:37] [main/DEBUG] [FML/]: Running coremod plugin for FMLForgePlugin {net.minecraftforge.classloading.FMLForgePlugin}
-[07:16:37] [main/DEBUG] [FML/]: Running coremod plugin FMLForgePlugin
-[07:16:37] [main/DEBUG] [FML/]: Coremod plugin class FMLForgePlugin run successfully
-[07:16:37] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[07:16:37] [main/DEBUG] [FML/]: Loaded 188 rules from AccessTransformer config file forge_at.cfg
-[07:16:37] [main/DEBUG] [FML/]: Loaded 4 rules from AccessTransformer mod jar file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\instances\1.9\.minecraft\mods\worldedit-forge-mc1.9-6.1.2-dist.jar!META-INF/worldedit_at.cfg
+[08:48:35] [main/DEBUG] [FML/]: Injecting tracing printstreams for STDOUT/STDERR.
+[08:48:35] [main/INFO] [FML/]: Forge Mod Loader version 13.20.1.2588 for Minecraft 1.11.2 loading
+[08:48:35] [main/INFO] [FML/]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_491, running on Windows 11:amd64:10.0, installed at C:\Program Files\Java\jre1.8.0_491
+[08:48:35] [main/DEBUG] [FML/]: Java classpath at launch is C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/jars/NewLaunch.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/net/java/jinput/jinput/2.0.5/jinput-2.0.5.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/net/java/jutils/jutils/1.0.0/jutils-1.0.0.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/org/lwjgl/lwjgl/lwjgl/2.9.4-nightly-20150209/lwjgl-2.9.4-nightly-20150209.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/org/lwjgl/lwjgl/lwjgl_util/2.9.4-nightly-20150209/lwjgl_util-2.9.4-nightly-20150209.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/com/mojang/netty/1.8.8/netty-1.8.8.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/oshi-project/oshi-core/1.1/oshi-core-1.1.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/net/java/dev/jna/jna/3.4.0/jna-3.4.0.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/net/java/dev/jna/platform/3.4.0/platform-3.4.0.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/com/ibm/icu/icu4j-core-mojang/51.2/icu4j-core-mojang-51.2.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/net/sf/jopt-simple/jopt-simple/4.6/jopt-simple-4.6.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/com/paulscode/codecjorbis/20101023/codecjorbis-20101023.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/com/paulscode/codecwav/20101023/codecwav-20101023.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/com/paulscode/libraryjavasound/20101123/libraryjavasound-20101123.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/com/paulscode/librarylwjglopenal/20100824/librarylwjglopenal-20100824.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/com/paulscode/soundsystem/20120107/soundsystem-20120107.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/io/netty/netty-all/4.0.23.Final/netty-all-4.0.23.Final.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/com/google/guava/guava/17.0/guava-17.0.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/commons-io/commons-io/2.4/commons-io-2.4.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/commons-codec/commons-codec/1.9/commons-codec-1.9.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/com/mojang/authlib/1.5.24/authlib-1.5.24.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/com/mojang/realms/1.10.16/realms-1.10.16.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/org/apache/httpcomponents/httpclient/4.3.3/httpclient-4.3.3.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/it/unimi/dsi/fastutil/7.0.12_mojang/fastutil-7.0.12_mojang.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/org/apache/logging/log4j/log4j-api/2.0-beta9-fixed/log4j-api-2.0-beta9-fixed.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/org/apache/logging/log4j/log4j-core/2.0-beta9-fixed/log4j-core-2.0-beta9-fixed.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/net/minecraftforge/forge/1.11.2-13.20.1.2588/forge-1.11.2-13.20.1.2588-universal.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/org/ow2/asm/asm-all/5.0.3/asm-all-5.0.3.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/jline/jline/2.13/jline-2.13.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/com/typesafe/config/1.2.1/config-1.2.1.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2/scala-continuations-library_2.11-1.0.2.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2/scala-continuations-plugin_2.11.1-1.0.2.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/org/scala-lang/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/org/scala-lang/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/org/scala-lang/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/lzma/lzma/0.0.1/lzma-0.0.1.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/java3d/vecmath/1.5.2/vecmath-1.5.2.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/com/mojang/minecraft/1.11.2/minecraft-1.11.2-client.jar
+[08:48:35] [main/DEBUG] [FML/]: Java library path at launch is C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/instances/1.9/natives
+[08:48:35] [main/DEBUG] [FML/]: Enabling runtime deobfuscation
+[08:48:35] [main/DEBUG] [FML/]: Instantiating coremod class FMLCorePlugin
+[08:48:35] [main/DEBUG] [FML/]: Added access transformer class net.minecraftforge.fml.common.asm.transformers.AccessTransformer to enqueued access transformers
+[08:48:35] [main/DEBUG] [FML/]: Enqueued coremod FMLCorePlugin
+[08:48:35] [main/DEBUG] [FML/]: Instantiating coremod class FMLForgePlugin
+[08:48:35] [main/DEBUG] [FML/]: Enqueued coremod FMLForgePlugin
+[08:48:35] [main/DEBUG] [FML/]: All fundamental core mods are successfully located
+[08:48:35] [main/DEBUG] [FML/]: Attempting to load commandline specified mods, relative to C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\instances\1.9\.minecraft
+[08:48:35] [main/DEBUG] [FML/]: Discovering coremods
+[08:48:35] [main/DEBUG] [FML/]: Examining for coremod candidacy DynamicLights-1.11.2.jar
+[08:48:35] [main/TRACE] [FML/]: Found FMLCorePluginContainsFMLMod marker in DynamicLights-1.11.2.jar, it will be examined later for regular @Mod instances
+[08:48:35] [main/DEBUG] [FML/]: Instantiating coremod class DLFMLCorePlugin
+[08:48:35] [main/WARN] [FML/]: The coremod atomicstryker.dynamiclights.common.DLFMLCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[08:48:35] [main/DEBUG] [FML/]: Enqueued coremod DLFMLCorePlugin
+[08:48:35] [main/DEBUG] [FML/]: Examining for coremod candidacy mobends-0.23.1_for_MC-1.11.2.jar
+[08:48:35] [main/DEBUG] [FML/]: Not found coremod data in mobends-0.23.1_for_MC-1.11.2.jar
+[08:48:35] [main/DEBUG] [FML/]: Examining for coremod candidacy worldedit-forge-mc1.11-6.1.6-dist.jar
+[08:48:35] [main/DEBUG] [FML/]: Not found coremod data in worldedit-forge-mc1.11-6.1.6-dist.jar
+[08:48:35] [main/INFO] [LaunchWrapper/]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[08:48:35] [main/INFO] [LaunchWrapper/]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[08:48:35] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[08:48:35] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[08:48:35] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[08:48:35] [main/DEBUG] [FML/]: Injecting coremod FMLCorePlugin \{net.minecraftforge.fml.relauncher.FMLCorePlugin\} class transformers
+[08:48:35] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.BlamingTransformer
+[08:48:35] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.SideTransformer
+[08:48:35] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriptionTransformer
+[08:48:35] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriberTransformer
+[08:48:35] [main/DEBUG] [FML/]: Injection complete
+[08:48:35] [main/DEBUG] [FML/]: Running coremod plugin for FMLCorePlugin \{net.minecraftforge.fml.relauncher.FMLCorePlugin\}
+[08:48:35] [main/DEBUG] [FML/]: Running coremod plugin FMLCorePlugin
+[08:48:36] [main/DEBUG] [FML/]: Injecting tracing printstreams for STDOUT/STDERR.
+[08:48:36] [main/DEBUG] [FML/]: Read 992 binary patches
+[08:48:36] [main/DEBUG] [FML/]: Loading deobfuscation resource /deobfuscation_data-1.11.2.lzma with 33539 records
+[08:48:37] [main/INFO] [FML/]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[08:48:37] [main/INFO] [FML/]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
+[08:48:37] [main/DEBUG] [FML/]: Coremod plugin class FMLCorePlugin run successfully
+[08:48:37] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[08:48:37] [main/DEBUG] [FML/]: Injecting coremod FMLForgePlugin \{net.minecraftforge.classloading.FMLForgePlugin\} class transformers
+[08:48:37] [main/DEBUG] [FML/]: Injection complete
+[08:48:37] [main/DEBUG] [FML/]: Running coremod plugin for FMLForgePlugin \{net.minecraftforge.classloading.FMLForgePlugin\}
+[08:48:37] [main/DEBUG] [FML/]: Running coremod plugin FMLForgePlugin
+[08:48:37] [main/DEBUG] [FML/]: Coremod plugin class FMLForgePlugin run successfully
+[08:48:37] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[08:48:37] [main/DEBUG] [FML/]: Injecting coremod DLFMLCorePlugin \{atomicstryker.dynamiclights.common.DLFMLCorePlugin\} class transformers
+[08:48:37] [main/TRACE] [FML/]: Registering transformer atomicstryker.dynamiclights.common.DLTransformer
+[08:48:37] [main/DEBUG] [FML/]: Injection complete
+[08:48:37] [main/DEBUG] [FML/]: Running coremod plugin for DLFMLCorePlugin \{atomicstryker.dynamiclights.common.DLFMLCorePlugin\}
+[08:48:37] [main/DEBUG] [FML/]: Running coremod plugin DLFMLCorePlugin
+[08:48:37] [main/DEBUG] [FML/]: Coremod plugin class DLFMLCorePlugin run successfully
+[08:48:37] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[08:48:37] [main/DEBUG] [FML/]: Loaded 203 rules from AccessTransformer config file forge_at.cfg
+[08:48:37] [main/DEBUG] [FML/]: Loaded 2 rules from AccessTransformer mod jar file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\instances\1.9\.minecraft\mods\worldedit-forge-mc1.11-6.1.6-dist.jar!META-INF/worldedit_at.cfg
 
-[07:16:37] [main/DEBUG] [FML/]: Validating minecraft
-[07:16:38] [main/DEBUG] [FML/]: Minecraft validated, launching...
-[07:16:38] [main/INFO] [LaunchWrapper/]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
-[07:16:38] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
-[07:16:38] [main/INFO] [LaunchWrapper/]: Launching wrapped minecraft {net.minecraft.client.main.Main}
-[07:16:40] [Client thread/DEBUG] [FML/]: Creating vanilla freeze snapshot
-[07:16:40] [Client thread/DEBUG] [FML/]: Vanilla freeze snapshot created
-[07:16:41] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - LanguageManager took 0.001s
-[07:16:41] [Client thread/INFO] [STDOUT/]: [net.minecraftforge.fml.client.SplashProgress:start:200]: ---- Minecraft Crash Report ----
-// Daisy, daisy...
-
-Time: 14/06/26 07:16
-Description: Loading screen debug info
-
-This is just a prompt for computer specs to be printed. THIS IS NOT A ERROR
-
-
-A detailed walkthrough of the error, its code path and all known details is as follows:
----------------------------------------------------------------------------------------
-
--- System Details --
+[08:48:37] [main/DEBUG] [FML/]: Validating minecraft
+[08:48:37] [main/DEBUG] [FML/]: Minecraft validated, launching...
+[08:48:37] [main/INFO] [LaunchWrapper/]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[08:48:37] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[08:48:37] [main/INFO] [LaunchWrapper/]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[08:48:37] [main/INFO] [STDOUT/]: [atomicstryker.dynamiclights.common.DLTransformer:handleWorldTransform:80]: **************** Dynamic Lights transform running on World, obf: true *********************** 
+[08:48:37] [main/INFO] [STDOUT/]: [atomicstryker.dynamiclights.common.DLTransformer:handleWorldTransform:91]: In target method a:(Lco;Lajy;)I, Patching!
+[08:48:37] [main/INFO] [STDOUT/]: [atomicstryker.dynamiclights.common.DLTransformer:handleWorldTransform:140]: Found ASTORE Node at index 19, is writing variable number: 3
+[08:48:40] [Client thread/DEBUG] [FML/]: Creating vanilla freeze snapshot
+[08:48:40] [Client thread/DEBUG] [FML/]: Vanilla freeze snapshot created
+[08:48:41] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - LanguageManager took 0.002s
+[08:48:41] [Client thread/INFO] [FML/]: -- System Details --
 Details:
-	Minecraft Version: 1.9
+	Minecraft Version: 1.11.2
 	Operating System: Windows 11 (amd64) version 10.0
 	Java Version: 1.8.0_491, Oracle Corporation
 	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
-	Memory: 462126808 bytes (440 MB) / 646971392 bytes (617 MB) up to 954728448 bytes (910 MB)
+	Memory: 408097240 bytes (389 MB) / 646971392 bytes (617 MB) up to 954728448 bytes (910 MB)
 	JVM Flags: 3 total; -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xms512m -Xmx1024m
 	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
 	FML: 
 	Loaded coremods (and transformers): 
+DLFMLCorePlugin (DynamicLights-1.11.2.jar)
+  atomicstryker.dynamiclights.common.DLTransformer
 	GL info: ' Vendor: 'Intel' Version: '4.3.0 - Build 20.19.15.5126' Renderer: 'Intel(R) HD Graphics 4600'
-[07:16:41] [Client thread/INFO] [FML/]: MinecraftForge v12.16.0.1865 Initialized
-[07:16:41] [Client thread/INFO] [FML/]: Replaced 207 ore recipes
-[07:16:41] [Client thread/DEBUG] [FML/]: File C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\instances\1.9\.minecraft\config\injectedDependencies.json not found. No dependencies injected
-[07:16:41] [Client thread/DEBUG] [FML/]: Building injected Mod Containers [net.minecraftforge.fml.common.FMLContainer, net.minecraftforge.common.ForgeModContainer]
-[07:16:41] [Client thread/DEBUG] [FML/]: Attempting to load mods contained in the minecraft jar file and associated classes
-[07:16:41] [Client thread/DEBUG] [FML/]: Found a minecraft related file at C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\jars\NewLaunch.jar, examining for mod candidates
-[07:16:41] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar
-[07:16:41] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\net\java\jutils\jutils\1.0.0\jutils-1.0.0.jar
-[07:16:41] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\org\lwjgl\lwjgl\lwjgl\2.9.4-nightly-20150209\lwjgl-2.9.4-nightly-20150209.jar
-[07:16:41] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\org\lwjgl\lwjgl\lwjgl_util\2.9.4-nightly-20150209\lwjgl_util-2.9.4-nightly-20150209.jar
-[07:16:41] [Client thread/DEBUG] [FML/]: Found a minecraft related file at C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\com\mojang\netty\1.8.8\netty-1.8.8.jar, examining for mod candidates
-[07:16:41] [Client thread/DEBUG] [FML/]: Found a minecraft related file at C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\oshi-project\oshi-core\1.1\oshi-core-1.1.jar, examining for mod candidates
-[07:16:41] [Client thread/DEBUG] [FML/]: Found a minecraft related file at C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\net\java\dev\jna\jna\3.4.0\jna-3.4.0.jar, examining for mod candidates
-[07:16:41] [Client thread/DEBUG] [FML/]: Found a minecraft related file at C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\net\java\dev\jna\platform\3.4.0\platform-3.4.0.jar, examining for mod candidates
-[07:16:41] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\com\ibm\icu\icu4j-core-mojang\51.2\icu4j-core-mojang-51.2.jar
-[07:16:41] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\net\sf\jopt-simple\jopt-simple\4.6\jopt-simple-4.6.jar
-[07:16:41] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\com\paulscode\codecjorbis\20101023\codecjorbis-20101023.jar
-[07:16:41] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\com\paulscode\codecwav\20101023\codecwav-20101023.jar
-[07:16:41] [Client thread/DEBUG] [FML/]: Found a minecraft related file at C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\com\paulscode\libraryjavasound\20101123\libraryjavasound-20101123.jar, examining for mod candidates
-[07:16:41] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\com\paulscode\librarylwjglopenal\20100824\librarylwjglopenal-20100824.jar
-[07:16:41] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\com\paulscode\soundsystem\20120107\soundsystem-20120107.jar
-[07:16:41] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\io\netty\netty-all\4.0.23.Final\netty-all-4.0.23.Final.jar
-[07:16:41] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\com\google\guava\guava\17.0\guava-17.0.jar
-[07:16:41] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\org\apache\commons\commons-lang3\3.3.2\commons-lang3-3.3.2.jar
-[07:16:41] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\commons-io\commons-io\2.4\commons-io-2.4.jar
-[07:16:41] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\commons-codec\commons-codec\1.9\commons-codec-1.9.jar
-[07:16:41] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar
-[07:16:41] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\com\mojang\authlib\1.5.22\authlib-1.5.22.jar
-[07:16:41] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\com\mojang\realms\1.8.7\realms-1.8.7.jar
-[07:16:41] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\org\apache\commons\commons-compress\1.8.1\commons-compress-1.8.1.jar
-[07:16:41] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\org\apache\httpcomponents\httpclient\4.3.3\httpclient-4.3.3.jar
-[07:16:41] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\commons-logging\commons-logging\1.1.3\commons-logging-1.1.3.jar
-[07:16:41] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\org\apache\httpcomponents\httpcore\4.3.2\httpcore-4.3.2.jar
-[07:16:41] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\org\apache\logging\log4j\log4j-api\2.0-beta9-fixed\log4j-api-2.0-beta9-fixed.jar
-[07:16:41] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\org\apache\logging\log4j\log4j-core\2.0-beta9-fixed\log4j-core-2.0-beta9-fixed.jar
-[07:16:41] [Client thread/DEBUG] [FML/]: Found a minecraft related file at C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\net\minecraftforge\forge\1.9-12.16.0.1865-1.9\forge-1.9-12.16.0.1865-1.9-universal.jar, examining for mod candidates
-[07:16:41] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\net\minecraft\launchwrapper\1.12\launchwrapper-1.12.jar
-[07:16:41] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\org\ow2\asm\asm-all\5.0.3\asm-all-5.0.3.jar
-[07:16:41] [Client thread/DEBUG] [FML/]: Found a minecraft related file at C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\jline\jline\2.13\jline-2.13.jar, examining for mod candidates
-[07:16:41] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\com\typesafe\akka\akka-actor_2.11\2.3.3\akka-actor_2.11-2.3.3.jar
-[07:16:41] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\com\typesafe\config\1.2.1\config-1.2.1.jar
-[07:16:41] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\org\scala-lang\scala-actors-migration_2.11\1.1.0\scala-actors-migration_2.11-1.1.0.jar
-[07:16:41] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\org\scala-lang\scala-compiler\2.11.1\scala-compiler-2.11.1.jar
-[07:16:41] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\org\scala-lang\plugins\scala-continuations-library_2.11\1.0.2\scala-continuations-library_2.11-1.0.2.jar
-[07:16:41] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\org\scala-lang\plugins\scala-continuations-plugin_2.11.1\1.0.2\scala-continuations-plugin_2.11.1-1.0.2.jar
-[07:16:41] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\org\scala-lang\scala-library\2.11.1\scala-library-2.11.1.jar
-[07:16:41] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\org\scala-lang\scala-parser-combinators_2.11\1.0.1\scala-parser-combinators_2.11-1.0.1.jar
-[07:16:41] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\org\scala-lang\scala-reflect\2.11.1\scala-reflect-2.11.1.jar
-[07:16:41] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\org\scala-lang\scala-swing_2.11\1.0.1\scala-swing_2.11-1.0.1.jar
-[07:16:41] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\org\scala-lang\scala-xml_2.11\1.0.2\scala-xml_2.11-1.0.2.jar
-[07:16:41] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\lzma\lzma\0.0.1\lzma-0.0.1.jar
-[07:16:41] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\java3d\vecmath\1.5.2\vecmath-1.5.2.jar
-[07:16:41] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\net\sf\trove4j\trove4j\3.0.3\trove4j-3.0.3.jar
-[07:16:41] [Client thread/DEBUG] [FML/]: Found a minecraft related file at C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\com\mojang\minecraft\1.9\minecraft-1.9-client.jar, examining for mod candidates
-[07:16:41] [Client thread/DEBUG] [FML/]: Minecraft jar mods loaded successfully
-[07:16:41] [Client thread/INFO] [FML/]: Found 0 mods from the command line. Injecting into mod discoverer
-[07:16:41] [Client thread/INFO] [FML/]: Searching C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\instances\1.9\.minecraft\mods for mods
-[07:16:41] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file aetherblock-1.0.2.jar
-[07:16:41] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file mobends-0.22.5_for_MC-1.9.jar
-[07:16:41] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file worldedit-forge-mc1.9-6.1.2-dist.jar
-[07:16:41] [Client thread/DEBUG] [FML/]: Examining file NewLaunch.jar for potential mods
-[07:16:41] [Client thread/DEBUG] [FML/]: The mod container NewLaunch.jar appears to be missing an mcmod.info file
-[07:16:41] [Client thread/DEBUG] [FML/]: Examining file netty-1.8.8.jar for potential mods
-[07:16:41] [Client thread/DEBUG] [FML/]: The mod container netty-1.8.8.jar appears to be missing an mcmod.info file
-[07:16:41] [Client thread/DEBUG] [FML/]: Examining file oshi-core-1.1.jar for potential mods
-[07:16:41] [Client thread/DEBUG] [FML/]: The mod container oshi-core-1.1.jar appears to be missing an mcmod.info file
-[07:16:41] [Client thread/DEBUG] [FML/]: Examining file jna-3.4.0.jar for potential mods
-[07:16:41] [Client thread/DEBUG] [FML/]: The mod container jna-3.4.0.jar appears to be missing an mcmod.info file
-[07:16:41] [Client thread/DEBUG] [FML/]: Examining file platform-3.4.0.jar for potential mods
-[07:16:41] [Client thread/DEBUG] [FML/]: The mod container platform-3.4.0.jar appears to be missing an mcmod.info file
-[07:16:42] [Client thread/DEBUG] [FML/]: Examining file libraryjavasound-20101123.jar for potential mods
-[07:16:42] [Client thread/DEBUG] [FML/]: The mod container libraryjavasound-20101123.jar appears to be missing an mcmod.info file
-[07:16:42] [Client thread/DEBUG] [FML/]: Examining file forge-1.9-12.16.0.1865-1.9-universal.jar for potential mods
-[07:16:42] [Client thread/DEBUG] [FML/]: The mod container forge-1.9-12.16.0.1865-1.9-universal.jar appears to be missing an mcmod.info file
-[07:16:42] [Client thread/DEBUG] [FML/]: Examining file jline-2.13.jar for potential mods
-[07:16:42] [Client thread/DEBUG] [FML/]: The mod container jline-2.13.jar appears to be missing an mcmod.info file
-[07:16:42] [Client thread/DEBUG] [FML/]: Examining file minecraft-1.9-client.jar for potential mods
-[07:16:42] [Client thread/DEBUG] [FML/]: The mod container minecraft-1.9-client.jar appears to be missing an mcmod.info file
-[07:16:42] [Client thread/DEBUG] [FML/]: Examining file aetherblock-1.0.2.jar for potential mods
-[07:16:42] [Client thread/TRACE] [FML/]: Located mcmod.info file in file aetherblock-1.0.2.jar
-[07:16:42] [Client thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (com.aetherblock.AetherBlockMod) - loading
-[07:16:42] [Client thread/TRACE] [aetherblock/]: Parsed dependency info : [] [] []
-[07:16:42] [Client thread/DEBUG] [FML/]: Examining file mobends-0.22.5_for_MC-1.9.jar for potential mods
-[07:16:42] [Client thread/TRACE] [FML/]: Located mcmod.info file in file mobends-0.22.5_for_MC-1.9.jar
-[07:16:42] [Client thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (net.gobbob.mobends.MoBends) - loading
-[07:16:42] [Client thread/TRACE] [mobends/]: Parsed dependency info : [] [] []
-[07:16:42] [Client thread/DEBUG] [FML/]: Examining file worldedit-forge-mc1.9-6.1.2-dist.jar for potential mods
-[07:16:42] [Client thread/TRACE] [FML/]: Located mcmod.info file in file worldedit-forge-mc1.9-6.1.2-dist.jar
-[07:16:42] [Client thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (com.sk89q.worldedit.forge.ForgeWorldEdit) - loading
-[07:16:42] [Client thread/TRACE] [worldedit/]: Parsed dependency info : [] [] []
-[07:16:43] [Client thread/INFO] [FML/]: Forge Mod Loader has identified 6 mods to load
-[07:16:43] [Client thread/TRACE] [FML/]: Received a system property request ''
-[07:16:43] [Client thread/TRACE] [FML/]: System property request managing the state of 0 mods
-[07:16:43] [Client thread/DEBUG] [FML/]: After merging, found state information for 0 mods
-[07:16:43] [Client thread/DEBUG] [aetherblock/]: Enabling mod aetherblock
-[07:16:43] [Client thread/DEBUG] [mobends/]: Enabling mod mobends
-[07:16:43] [Client thread/DEBUG] [worldedit/]: Enabling mod worldedit
-[07:16:43] [Client thread/TRACE] [FML/]: Verifying mod requirements are satisfied
-[07:16:43] [Client thread/TRACE] [FML/]: All mod requirements are satisfied
-[07:16:43] [Client thread/TRACE] [FML/]: Sorting mods into an ordered list
-[07:16:43] [Client thread/TRACE] [FML/]: Mod sorting completed successfully
-[07:16:43] [Client thread/DEBUG] [FML/]: Mod sorting data
-[07:16:43] [Client thread/DEBUG] [FML/]: 	aetherblock(AetherBlock:1.0.2): aetherblock-1.0.2.jar ()
-[07:16:43] [Client thread/DEBUG] [FML/]: 	mobends(Mo'Bends:0.22.5): mobends-0.22.5_for_MC-1.9.jar ()
-[07:16:43] [Client thread/DEBUG] [FML/]: 	worldedit(WorldEdit:6.1.2): worldedit-forge-mc1.9-6.1.2-dist.jar ()
-[07:16:43] [Client thread/TRACE] [mcp/mcp]: Sending event FMLConstructionEvent to mod mcp
-[07:16:43] [Client thread/TRACE] [mcp/mcp]: Sent event FMLConstructionEvent to mod mcp
-[07:16:43] [Client thread/DEBUG] [FML/]: Bar Step: Construction - Minecraft Coder Pack took 0.002s
-[07:16:43] [Client thread/TRACE] [FML/FML]: Sending event FMLConstructionEvent to mod FML
-[07:16:43] [Client thread/TRACE] [FML/FML]: Mod FML is using network checker : Invoking method checkModLists
-[07:16:43] [Client thread/TRACE] [FML/FML]: Testing mod FML to verify it accepts its own version in a remote connection
-[07:16:43] [Client thread/TRACE] [FML/FML]: The mod FML accepts its own version (8.0.99.99)
-[07:16:43] [Client thread/INFO] [FML/FML]: Attempting connection with missing mods [mcp, FML, Forge, aetherblock, mobends, worldedit] at CLIENT
-[07:16:43] [Client thread/INFO] [FML/FML]: Attempting connection with missing mods [mcp, FML, Forge, aetherblock, mobends, worldedit] at SERVER
-[07:16:43] [Client thread/TRACE] [FML/FML]: Sent event FMLConstructionEvent to mod FML
-[07:16:43] [Client thread/DEBUG] [FML/]: Bar Step: Construction - Forge Mod Loader took 0.282s
-[07:16:43] [Client thread/TRACE] [Forge/Forge]: Sending event FMLConstructionEvent to mod Forge
-[07:16:43] [Client thread/TRACE] [FML/Forge]: Mod Forge is using network checker : No network checking performed
-[07:16:43] [Client thread/TRACE] [FML/Forge]: Testing mod Forge to verify it accepts its own version in a remote connection
-[07:16:43] [Client thread/TRACE] [FML/Forge]: The mod Forge accepts its own version (12.16.0.1865)
-[07:16:43] [Client thread/TRACE] [Forge/Forge]: Sent event FMLConstructionEvent to mod Forge
-[07:16:43] [Client thread/DEBUG] [FML/]: Bar Step: Construction - Minecraft Forge took 0.012s
-[07:16:43] [Client thread/TRACE] [aetherblock/aetherblock]: Sending event FMLConstructionEvent to mod aetherblock
-[07:16:43] [Client thread/TRACE] [FML/aetherblock]: Mod aetherblock is using network checker : Accepting version 1.0.2
-[07:16:43] [Client thread/TRACE] [FML/aetherblock]: Testing mod aetherblock to verify it accepts its own version in a remote connection
-[07:16:43] [Client thread/TRACE] [FML/aetherblock]: The mod aetherblock accepts its own version (1.0.2)
-[07:16:43] [Client thread/DEBUG] [FML/aetherblock]: Attempting to inject @SidedProxy classes into aetherblock
-[07:16:43] [Client thread/TRACE] [aetherblock/aetherblock]: Sent event FMLConstructionEvent to mod aetherblock
-[07:16:43] [Client thread/DEBUG] [FML/]: Bar Step: Construction - AetherBlock took 0.020s
-[07:16:43] [Client thread/TRACE] [mobends/mobends]: Sending event FMLConstructionEvent to mod mobends
-[07:16:43] [Client thread/TRACE] [FML/mobends]: Mod mobends is using network checker : Accepting version 0.22.5
-[07:16:43] [Client thread/TRACE] [FML/mobends]: Testing mod mobends to verify it accepts its own version in a remote connection
-[07:16:43] [Client thread/TRACE] [FML/mobends]: The mod mobends accepts its own version (0.22.5)
-[07:16:43] [Client thread/DEBUG] [FML/mobends]: Attempting to inject @SidedProxy classes into mobends
-[07:16:43] [Client thread/TRACE] [mobends/mobends]: Sent event FMLConstructionEvent to mod mobends
-[07:16:43] [Client thread/DEBUG] [FML/]: Bar Step: Construction - Mo'Bends took 0.008s
-[07:16:43] [Client thread/TRACE] [worldedit/worldedit]: Sending event FMLConstructionEvent to mod worldedit
-[07:16:43] [Client thread/TRACE] [FML/worldedit]: Mod worldedit is using network checker : No network checking performed
-[07:16:43] [Client thread/TRACE] [FML/worldedit]: Testing mod worldedit to verify it accepts its own version in a remote connection
-[07:16:43] [Client thread/TRACE] [FML/worldedit]: The mod worldedit accepts its own version (6.1.2)
-[07:16:43] [Client thread/DEBUG] [FML/worldedit]: Attempting to inject @SidedProxy classes into worldedit
-[07:16:43] [Client thread/TRACE] [worldedit/worldedit]: Sent event FMLConstructionEvent to mod worldedit
-[07:16:43] [Client thread/DEBUG] [FML/]: Bar Step: Construction - WorldEdit took 0.065s
-[07:16:43] [Client thread/DEBUG] [FML/]: Bar Finished: Construction took 0.389s
-[07:16:43] [Client thread/DEBUG] [FML/]: Mod signature data
-[07:16:43] [Client thread/DEBUG] [FML/]:  	Valid Signatures:
-[07:16:43] [Client thread/DEBUG] [FML/]:  	Missing Signatures:
-[07:16:43] [Client thread/DEBUG] [FML/]: 		mcp	(Minecraft Coder Pack	9.19)	minecraft.jar
-[07:16:43] [Client thread/DEBUG] [FML/]: 		FML	(Forge Mod Loader	8.0.99.99)	forge-1.9-12.16.0.1865-1.9-universal.jar
-[07:16:43] [Client thread/DEBUG] [FML/]: 		Forge	(Minecraft Forge	12.16.0.1865)	forge-1.9-12.16.0.1865-1.9-universal.jar
-[07:16:43] [Client thread/DEBUG] [FML/]: 		aetherblock	(AetherBlock	1.0.2)	aetherblock-1.0.2.jar
-[07:16:43] [Client thread/DEBUG] [FML/]: 		mobends	(Mo'Bends	0.22.5)	mobends-0.22.5_for_MC-1.9.jar
-[07:16:43] [Client thread/DEBUG] [FML/]: 		worldedit	(WorldEdit	6.1.2)	worldedit-forge-mc1.9-6.1.2-dist.jar
-[07:16:43] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - Default took 0.002s
-[07:16:43] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Forge Mod Loader took 0.002s
-[07:16:43] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Minecraft Forge took 0.002s
-[07:16:43] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:AetherBlock took 0.001s
-[07:16:43] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Mo'Bends took 0.001s
-[07:16:43] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:WorldEdit took 0.001s
-[07:16:43] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - snevypackcherrybloomelytra took 0.002s
-[07:16:43] [Client thread/DEBUG] [FML/]: Bar Finished: Reloading - LanguageManager took 0.013s
-[07:16:43] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - Reloading listeners took 0.014s
-[07:16:43] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resources took 0.024s
-[07:16:43] [Client thread/DEBUG] [Forge Mod Loader/]: Mod Forge Mod Loader is missing a pack.mcmeta file, substituting a dummy one
-[07:16:43] [Client thread/DEBUG] [Minecraft Forge/]: Mod Minecraft Forge is missing a pack.mcmeta file, substituting a dummy one
-[07:16:43] [Client thread/DEBUG] [AetherBlock/]: Mod AetherBlock is missing a pack.mcmeta file, substituting a dummy one
-[07:16:43] [Client thread/DEBUG] [Mo'Bends/]: Mod Mo'Bends is missing a pack.mcmeta file, substituting a dummy one
-[07:16:43] [Client thread/DEBUG] [WorldEdit/]: Mod WorldEdit is missing a pack.mcmeta file, substituting a dummy one
-[07:16:43] [Client thread/INFO] [FML/]: Processing ObjectHolder annotations
-[07:16:43] [Client thread/INFO] [FML/]: Found 418 ObjectHolder annotations
-[07:16:43] [Client thread/INFO] [FML/]: Identifying ItemStackHolder annotations
-[07:16:43] [Client thread/INFO] [FML/]: Found 0 ItemStackHolder annotations
-[07:16:43] [Client thread/TRACE] [mcp/mcp]: Sending event FMLPreInitializationEvent to mod mcp
-[07:16:43] [Client thread/TRACE] [mcp/mcp]: Sent event FMLPreInitializationEvent to mod mcp
-[07:16:43] [Client thread/DEBUG] [FML/]: Bar Step: PreInitialization - Minecraft Coder Pack took 0.001s
-[07:16:43] [Client thread/TRACE] [FML/FML]: Sending event FMLPreInitializationEvent to mod FML
-[07:16:43] [Client thread/TRACE] [FML/FML]: Sent event FMLPreInitializationEvent to mod FML
-[07:16:43] [Client thread/DEBUG] [FML/]: Bar Step: PreInitialization - Forge Mod Loader took 0.021s
-[07:16:43] [Client thread/TRACE] [Forge/Forge]: Sending event FMLPreInitializationEvent to mod Forge
-[07:16:43] [Client thread/INFO] [FML/Forge]: Configured a dormant chunk cache size of 0
-[07:16:43] [Client thread/TRACE] [Forge/Forge]: Sent event FMLPreInitializationEvent to mod Forge
-[07:16:43] [Client thread/DEBUG] [FML/]: Bar Step: PreInitialization - Minecraft Forge took 0.050s
-[07:16:43] [Client thread/TRACE] [aetherblock/aetherblock]: Sending event FMLPreInitializationEvent to mod aetherblock
-[07:16:43] [Forge Version Check/INFO] [ForgeVersionCheck/Forge]: [Forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
-[07:16:43] [Client thread/TRACE] [aetherblock/aetherblock]: Sent event FMLPreInitializationEvent to mod aetherblock
-[07:16:43] [Client thread/DEBUG] [FML/]: Bar Step: PreInitialization - AetherBlock took 0.005s
-[07:16:43] [Client thread/TRACE] [mobends/mobends]: Sending event FMLPreInitializationEvent to mod mobends
-[07:16:43] [Client thread/TRACE] [mobends/mobends]: Sent event FMLPreInitializationEvent to mod mobends
-[07:16:43] [Client thread/DEBUG] [FML/]: Bar Step: PreInitialization - Mo'Bends took 0.013s
-[07:16:43] [Client thread/TRACE] [worldedit/worldedit]: Sending event FMLPreInitializationEvent to mod worldedit
-[07:16:43] [Client thread/TRACE] [worldedit/worldedit]: Sent event FMLPreInitializationEvent to mod worldedit
-[07:16:43] [Client thread/DEBUG] [FML/]: Bar Step: PreInitialization - WorldEdit took 0.014s
-[07:16:43] [Client thread/DEBUG] [FML/]: Bar Finished: PreInitialization took 0.104s
-[07:16:43] [Client thread/INFO] [FML/]: Applying holder lookups
-[07:16:43] [Client thread/INFO] [FML/]: Holder lookups applied
-[07:16:43] [Client thread/INFO] [FML/]: Injecting itemstacks
-[07:16:43] [Client thread/INFO] [FML/]: Itemstack injection complete
-[07:16:43] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - TextureManager took 0.000s
-[07:16:43] [Forge Version Check/DEBUG] [ForgeVersionCheck/Forge]: [Forge] Received version check data:
+[08:48:41] [Client thread/INFO] [FML/]: MinecraftForge v13.20.1.2588 Initialized
+[08:48:41] [Client thread/INFO] [FML/]: Replaced 232 ore recipes
+[08:48:42] [Client thread/DEBUG] [FML/]: File C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\instances\1.9\.minecraft\config\injectedDependencies.json not found. No dependencies injected
+[08:48:42] [Client thread/DEBUG] [FML/]: Building injected Mod Containers [net.minecraftforge.fml.common.FMLContainer, net.minecraftforge.common.ForgeModContainer]
+[08:48:42] [Client thread/DEBUG] [FML/]: Attempting to load mods contained in the minecraft jar file and associated classes
+[08:48:42] [Client thread/DEBUG] [FML/]: Found a minecraft related file at C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\jars\NewLaunch.jar, examining for mod candidates
+[08:48:42] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar
+[08:48:42] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\net\java\jutils\jutils\1.0.0\jutils-1.0.0.jar
+[08:48:42] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\org\lwjgl\lwjgl\lwjgl\2.9.4-nightly-20150209\lwjgl-2.9.4-nightly-20150209.jar
+[08:48:42] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\org\lwjgl\lwjgl\lwjgl_util\2.9.4-nightly-20150209\lwjgl_util-2.9.4-nightly-20150209.jar
+[08:48:42] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\com\mojang\netty\1.8.8\netty-1.8.8.jar
+[08:48:42] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\oshi-project\oshi-core\1.1\oshi-core-1.1.jar
+[08:48:42] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\net\java\dev\jna\jna\3.4.0\jna-3.4.0.jar
+[08:48:42] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\net\java\dev\jna\platform\3.4.0\platform-3.4.0.jar
+[08:48:42] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\com\ibm\icu\icu4j-core-mojang\51.2\icu4j-core-mojang-51.2.jar
+[08:48:42] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\net\sf\jopt-simple\jopt-simple\4.6\jopt-simple-4.6.jar
+[08:48:42] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\com\paulscode\codecjorbis\20101023\codecjorbis-20101023.jar
+[08:48:42] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\com\paulscode\codecwav\20101023\codecwav-20101023.jar
+[08:48:42] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\com\paulscode\libraryjavasound\20101123\libraryjavasound-20101123.jar
+[08:48:42] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\com\paulscode\librarylwjglopenal\20100824\librarylwjglopenal-20100824.jar
+[08:48:42] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\com\paulscode\soundsystem\20120107\soundsystem-20120107.jar
+[08:48:42] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\io\netty\netty-all\4.0.23.Final\netty-all-4.0.23.Final.jar
+[08:48:42] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\com\google\guava\guava\17.0\guava-17.0.jar
+[08:48:42] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\org\apache\commons\commons-lang3\3.3.2\commons-lang3-3.3.2.jar
+[08:48:42] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\commons-io\commons-io\2.4\commons-io-2.4.jar
+[08:48:42] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\commons-codec\commons-codec\1.9\commons-codec-1.9.jar
+[08:48:42] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar
+[08:48:42] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\com\mojang\authlib\1.5.24\authlib-1.5.24.jar
+[08:48:42] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\com\mojang\realms\1.10.16\realms-1.10.16.jar
+[08:48:42] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\org\apache\commons\commons-compress\1.8.1\commons-compress-1.8.1.jar
+[08:48:42] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\org\apache\httpcomponents\httpclient\4.3.3\httpclient-4.3.3.jar
+[08:48:42] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\commons-logging\commons-logging\1.1.3\commons-logging-1.1.3.jar
+[08:48:42] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\org\apache\httpcomponents\httpcore\4.3.2\httpcore-4.3.2.jar
+[08:48:42] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\it\unimi\dsi\fastutil\7.0.12_mojang\fastutil-7.0.12_mojang.jar
+[08:48:42] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\org\apache\logging\log4j\log4j-api\2.0-beta9-fixed\log4j-api-2.0-beta9-fixed.jar
+[08:48:42] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\org\apache\logging\log4j\log4j-core\2.0-beta9-fixed\log4j-core-2.0-beta9-fixed.jar
+[08:48:42] [Client thread/DEBUG] [FML/]: Found a minecraft related file at C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\net\minecraftforge\forge\1.11.2-13.20.1.2588\forge-1.11.2-13.20.1.2588-universal.jar, examining for mod candidates
+[08:48:42] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\net\minecraft\launchwrapper\1.12\launchwrapper-1.12.jar
+[08:48:42] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\org\ow2\asm\asm-all\5.0.3\asm-all-5.0.3.jar
+[08:48:42] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\jline\jline\2.13\jline-2.13.jar
+[08:48:42] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\com\typesafe\akka\akka-actor_2.11\2.3.3\akka-actor_2.11-2.3.3.jar
+[08:48:42] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\com\typesafe\config\1.2.1\config-1.2.1.jar
+[08:48:42] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\org\scala-lang\scala-actors-migration_2.11\1.1.0\scala-actors-migration_2.11-1.1.0.jar
+[08:48:42] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\org\scala-lang\scala-compiler\2.11.1\scala-compiler-2.11.1.jar
+[08:48:42] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\org\scala-lang\plugins\scala-continuations-library_2.11\1.0.2\scala-continuations-library_2.11-1.0.2.jar
+[08:48:42] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\org\scala-lang\plugins\scala-continuations-plugin_2.11.1\1.0.2\scala-continuations-plugin_2.11.1-1.0.2.jar
+[08:48:42] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\org\scala-lang\scala-library\2.11.1\scala-library-2.11.1.jar
+[08:48:42] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\org\scala-lang\scala-parser-combinators_2.11\1.0.1\scala-parser-combinators_2.11-1.0.1.jar
+[08:48:42] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\org\scala-lang\scala-reflect\2.11.1\scala-reflect-2.11.1.jar
+[08:48:42] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\org\scala-lang\scala-swing_2.11\1.0.1\scala-swing_2.11-1.0.1.jar
+[08:48:42] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\org\scala-lang\scala-xml_2.11\1.0.2\scala-xml_2.11-1.0.2.jar
+[08:48:42] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\lzma\lzma\0.0.1\lzma-0.0.1.jar
+[08:48:42] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\java3d\vecmath\1.5.2\vecmath-1.5.2.jar
+[08:48:42] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\net\sf\trove4j\trove4j\3.0.3\trove4j-3.0.3.jar
+[08:48:42] [Client thread/DEBUG] [FML/]: Found a minecraft related file at C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\com\mojang\minecraft\1.11.2\minecraft-1.11.2-client.jar, examining for mod candidates
+[08:48:42] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\instances\1.9\.minecraft\mods\DynamicLights-1.11.2.jar
+[08:48:42] [Client thread/DEBUG] [FML/]: Minecraft jar mods loaded successfully
+[08:48:42] [Client thread/INFO] [FML/]: Found 0 mods from the command line. Injecting into mod discoverer
+[08:48:42] [Client thread/INFO] [FML/]: Searching C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\instances\1.9\.minecraft\mods for mods
+[08:48:42] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file DynamicLights-1.11.2.jar
+[08:48:42] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file mobends-0.23.1_for_MC-1.11.2.jar
+[08:48:42] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file worldedit-forge-mc1.11-6.1.6-dist.jar
+[08:48:42] [Client thread/DEBUG] [FML/]: Examining file NewLaunch.jar for potential mods
+[08:48:42] [Client thread/DEBUG] [FML/]: The mod container NewLaunch.jar appears to be missing an mcmod.info file
+[08:48:42] [Client thread/DEBUG] [FML/]: Examining file forge-1.11.2-13.20.1.2588-universal.jar for potential mods
+[08:48:42] [Client thread/DEBUG] [FML/]: The mod container forge-1.11.2-13.20.1.2588-universal.jar appears to be missing an mcmod.info file
+[08:48:42] [Client thread/DEBUG] [FML/]: Examining file minecraft-1.11.2-client.jar for potential mods
+[08:48:42] [Client thread/DEBUG] [FML/]: The mod container minecraft-1.11.2-client.jar appears to be missing an mcmod.info file
+[08:48:43] [Client thread/DEBUG] [FML/]: Examining file DynamicLights-1.11.2.jar for potential mods
+[08:48:43] [Client thread/TRACE] [FML/]: Located mcmod.info file in file DynamicLights-1.11.2.jar
+[08:48:43] [Client thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (atomicstryker.dynamiclights.client.DynamicLights) - loading
+[08:48:43] [Client thread/TRACE] [dynamiclights/]: Parsed dependency info : [] [] []
+[08:48:43] [Client thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (atomicstryker.dynamiclights.client.modules.BurningEntitiesLightSource) - loading
+[08:48:43] [Client thread/TRACE] [dynamiclights_onfire/]: Parsed dependency info : [dynamiclights] [dynamiclights] []
+[08:48:43] [Client thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (atomicstryker.dynamiclights.client.modules.ChargingCreeperLightSource) - loading
+[08:48:43] [Client thread/TRACE] [dynamiclights_creepers/]: Parsed dependency info : [dynamiclights] [dynamiclights] []
+[08:48:43] [Client thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (atomicstryker.dynamiclights.client.modules.DroppedItemsLightSource) - loading
+[08:48:43] [Client thread/TRACE] [dynamiclights_dropitems/]: Parsed dependency info : [dynamiclights] [dynamiclights] []
+[08:48:43] [Client thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (atomicstryker.dynamiclights.client.modules.EntityClassLightSource) - loading
+[08:48:43] [Client thread/TRACE] [dynamiclights_entityclasses/]: Parsed dependency info : [dynamiclights] [dynamiclights] []
+[08:48:43] [Client thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (atomicstryker.dynamiclights.client.modules.EntityLivingEquipmentLightSource) - loading
+[08:48:43] [Client thread/TRACE] [dynamiclights_mobequipment/]: Parsed dependency info : [dynamiclights] [dynamiclights] []
+[08:48:43] [Client thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (atomicstryker.dynamiclights.client.modules.FlameEnchantedArrowLightSource) - loading
+[08:48:43] [Client thread/TRACE] [dynamiclights_flamearrows/]: Parsed dependency info : [dynamiclights] [dynamiclights] []
+[08:48:43] [Client thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (atomicstryker.dynamiclights.client.modules.FloodLightSource) - loading
+[08:48:43] [Client thread/TRACE] [dynamiclights_floodlights/]: Parsed dependency info : [dynamiclights] [dynamiclights] []
+[08:48:43] [Client thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (atomicstryker.dynamiclights.client.modules.PlayerOthersLightSource) - loading
+[08:48:43] [Client thread/TRACE] [dynamiclights_otherplayers/]: Parsed dependency info : [dynamiclights] [dynamiclights] []
+[08:48:43] [Client thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (atomicstryker.dynamiclights.client.modules.PlayerSelfLightSource) - loading
+[08:48:43] [Client thread/TRACE] [dynamiclights_theplayer/]: Parsed dependency info : [dynamiclights] [dynamiclights] []
+[08:48:43] [Client thread/DEBUG] [FML/]: Examining file mobends-0.23.1_for_MC-1.11.2.jar for potential mods
+[08:48:43] [Client thread/TRACE] [FML/]: Located mcmod.info file in file mobends-0.23.1_for_MC-1.11.2.jar
+[08:48:43] [Client thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (net.gobbob.mobends.MoBends) - loading
+[08:48:43] [Client thread/TRACE] [mobends/]: Parsed dependency info : [] [] []
+[08:48:43] [Client thread/DEBUG] [FML/]: Examining file worldedit-forge-mc1.11-6.1.6-dist.jar for potential mods
+[08:48:43] [Client thread/TRACE] [FML/]: Located mcmod.info file in file worldedit-forge-mc1.11-6.1.6-dist.jar
+[08:48:43] [Client thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (com.sk89q.worldedit.forge.ForgeWorldEdit) - loading
+[08:48:43] [Client thread/TRACE] [worldedit/]: Parsed dependency info : [] [] []
+[08:48:43] [Client thread/INFO] [FML/]: Forge Mod Loader has identified 16 mods to load
+[08:48:43] [Client thread/TRACE] [FML/]: Received a system property request ''
+[08:48:43] [Client thread/TRACE] [FML/]: System property request managing the state of 0 mods
+[08:48:43] [Client thread/DEBUG] [FML/]: After merging, found state information for 0 mods
+[08:48:43] [Client thread/DEBUG] [Forge Mod Loader/]: Mod Forge Mod Loader is missing a pack.mcmeta file, substituting a dummy one
+[08:48:43] [Client thread/DEBUG] [Minecraft Forge/]: Mod Minecraft Forge is missing a pack.mcmeta file, substituting a dummy one
+[08:48:43] [Client thread/DEBUG] [dynamiclights/]: Enabling mod dynamiclights
+[08:48:43] [Client thread/DEBUG] [Dynamic Lights/]: Mod Dynamic Lights is missing a pack.mcmeta file, substituting a dummy one
+[08:48:43] [Client thread/DEBUG] [dynamiclights_onfire/]: Enabling mod dynamiclights_onfire
+[08:48:43] [Client thread/DEBUG] [Dynamic Lights on burning/]: Mod Dynamic Lights on burning is missing a pack.mcmeta file, substituting a dummy one
+[08:48:43] [Client thread/DEBUG] [dynamiclights_creepers/]: Enabling mod dynamiclights_creepers
+[08:48:43] [Client thread/DEBUG] [Dynamic Lights on Creepers/]: Mod Dynamic Lights on Creepers is missing a pack.mcmeta file, substituting a dummy one
+[08:48:43] [Client thread/DEBUG] [dynamiclights_dropitems/]: Enabling mod dynamiclights_dropitems
+[08:48:43] [Client thread/DEBUG] [Dynamic Lights on ItemEntities/]: Mod Dynamic Lights on ItemEntities is missing a pack.mcmeta file, substituting a dummy one
+[08:48:43] [Client thread/DEBUG] [dynamiclights_entityclasses/]: Enabling mod dynamiclights_entityclasses
+[08:48:43] [Client thread/DEBUG] [Dynamic Lights on specified Entities/]: Mod Dynamic Lights on specified Entities is missing a pack.mcmeta file, substituting a dummy one
+[08:48:43] [Client thread/DEBUG] [dynamiclights_mobequipment/]: Enabling mod dynamiclights_mobequipment
+[08:48:43] [Client thread/DEBUG] [Dynamic Lights on Mob Equipment/]: Mod Dynamic Lights on Mob Equipment is missing a pack.mcmeta file, substituting a dummy one
+[08:48:43] [Client thread/DEBUG] [dynamiclights_flamearrows/]: Enabling mod dynamiclights_flamearrows
+[08:48:43] [Client thread/DEBUG] [Dynamic Lights on Flame enchanted Arrows/]: Mod Dynamic Lights on Flame enchanted Arrows is missing a pack.mcmeta file, substituting a dummy one
+[08:48:43] [Client thread/DEBUG] [dynamiclights_floodlights/]: Enabling mod dynamiclights_floodlights
+[08:48:43] [Client thread/DEBUG] [Dynamic Lights Flood Light/]: Mod Dynamic Lights Flood Light is missing a pack.mcmeta file, substituting a dummy one
+[08:48:43] [Client thread/DEBUG] [dynamiclights_otherplayers/]: Enabling mod dynamiclights_otherplayers
+[08:48:43] [Client thread/DEBUG] [Dynamic Lights Other Player Light/]: Mod Dynamic Lights Other Player Light is missing a pack.mcmeta file, substituting a dummy one
+[08:48:43] [Client thread/DEBUG] [dynamiclights_theplayer/]: Enabling mod dynamiclights_theplayer
+[08:48:43] [Client thread/DEBUG] [Dynamic Lights Player Light/]: Mod Dynamic Lights Player Light is missing a pack.mcmeta file, substituting a dummy one
+[08:48:43] [Client thread/DEBUG] [mobends/]: Enabling mod mobends
+[08:48:43] [Client thread/DEBUG] [Mo'Bends/]: Mod Mo'Bends is missing a pack.mcmeta file, substituting a dummy one
+[08:48:43] [Client thread/DEBUG] [worldedit/]: Enabling mod worldedit
+[08:48:43] [Client thread/DEBUG] [WorldEdit/]: Mod WorldEdit is missing a pack.mcmeta file, substituting a dummy one
+[08:48:43] [Client thread/TRACE] [FML/]: Verifying mod requirements are satisfied
+[08:48:43] [Client thread/TRACE] [FML/]: All mod requirements are satisfied
+[08:48:43] [Client thread/TRACE] [FML/]: Sorting mods into an ordered list
+[08:48:43] [Client thread/TRACE] [FML/]: Mod sorting completed successfully
+[08:48:43] [Client thread/DEBUG] [FML/]: Mod sorting data
+[08:48:43] [Client thread/DEBUG] [FML/]: 	dynamiclights(Dynamic Lights:1.4.6): DynamicLights-1.11.2.jar ()
+[08:48:43] [Client thread/DEBUG] [FML/]: 	dynamiclights_onfire(Dynamic Lights on burning:1.0.7): DynamicLights-1.11.2.jar (required-after:dynamiclights)
+[08:48:43] [Client thread/DEBUG] [FML/]: 	dynamiclights_creepers(Dynamic Lights on Creepers:1.0.6): DynamicLights-1.11.2.jar (required-after:dynamiclights)
+[08:48:43] [Client thread/DEBUG] [FML/]: 	dynamiclights_dropitems(Dynamic Lights on ItemEntities:1.1.0): DynamicLights-1.11.2.jar (required-after:dynamiclights)
+[08:48:43] [Client thread/DEBUG] [FML/]: 	dynamiclights_entityclasses(Dynamic Lights on specified Entities:1.0.1): DynamicLights-1.11.2.jar (required-after:dynamiclights)
+[08:48:43] [Client thread/DEBUG] [FML/]: 	dynamiclights_mobequipment(Dynamic Lights on Mob Equipment:1.1.0): DynamicLights-1.11.2.jar (required-after:dynamiclights)
+[08:48:43] [Client thread/DEBUG] [FML/]: 	dynamiclights_flamearrows(Dynamic Lights on Flame enchanted Arrows:1.0.1): DynamicLights-1.11.2.jar (required-after:dynamiclights)
+[08:48:43] [Client thread/DEBUG] [FML/]: 	dynamiclights_floodlights(Dynamic Lights Flood Light:1.0.3): DynamicLights-1.11.2.jar (required-after:dynamiclights)
+[08:48:43] [Client thread/DEBUG] [FML/]: 	dynamiclights_otherplayers(Dynamic Lights Other Player Light:1.0.9): DynamicLights-1.11.2.jar (required-after:dynamiclights)
+[08:48:43] [Client thread/DEBUG] [FML/]: 	dynamiclights_theplayer(Dynamic Lights Player Light:1.1.3): DynamicLights-1.11.2.jar (required-after:dynamiclights)
+[08:48:43] [Client thread/DEBUG] [FML/]: 	mobends(Mo'Bends:0.23.1): mobends-0.23.1_for_MC-1.11.2.jar ()
+[08:48:43] [Client thread/DEBUG] [FML/]: 	worldedit(WorldEdit:6.1.6): worldedit-forge-mc1.11-6.1.6-dist.jar ()
+[08:48:43] [Client thread/DEBUG] [FML/]: Loading @Config anotation data
+[08:48:43] [Client thread/TRACE] [minecraft/minecraft]: Sending event FMLConstructionEvent to mod minecraft
+[08:48:43] [Client thread/TRACE] [minecraft/minecraft]: Sent event FMLConstructionEvent to mod minecraft
+[08:48:43] [Client thread/DEBUG] [FML/]: Bar Step: Construction - Minecraft took 0.002s
+[08:48:43] [Client thread/TRACE] [mcp/mcp]: Sending event FMLConstructionEvent to mod mcp
+[08:48:43] [Client thread/TRACE] [mcp/mcp]: Sent event FMLConstructionEvent to mod mcp
+[08:48:43] [Client thread/DEBUG] [FML/]: Bar Step: Construction - Minecraft Coder Pack took 0.001s
+[08:48:43] [Client thread/TRACE] [FML/FML]: Sending event FMLConstructionEvent to mod FML
+[08:48:43] [Client thread/TRACE] [FML/FML]: Mod FML is using network checker : Invoking method checkModLists
+[08:48:43] [Client thread/TRACE] [FML/FML]: Testing mod FML to verify it accepts its own version in a remote connection
+[08:48:43] [Client thread/TRACE] [FML/FML]: The mod FML accepts its own version (8.0.99.99)
+[08:48:43] [Client thread/INFO] [FML/FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, dynamiclights, dynamiclights_onfire, dynamiclights_creepers, dynamiclights_dropitems, dynamiclights_entityclasses, dynamiclights_mobequipment, dynamiclights_flamearrows, dynamiclights_floodlights, dynamiclights_otherplayers, dynamiclights_theplayer, mobends, worldedit] at CLIENT
+[08:48:43] [Client thread/INFO] [FML/FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, dynamiclights, dynamiclights_onfire, dynamiclights_creepers, dynamiclights_dropitems, dynamiclights_entityclasses, dynamiclights_mobequipment, dynamiclights_flamearrows, dynamiclights_floodlights, dynamiclights_otherplayers, dynamiclights_theplayer, mobends, worldedit] at SERVER
+[08:48:44] [Thread-6/INFO] [FML/]: Using sync timing. 200 frames of Display.update took 349508188 nanos
+[08:48:44] [Client thread/TRACE] [FML/FML]: Sent event FMLConstructionEvent to mod FML
+[08:48:44] [Client thread/DEBUG] [FML/]: Bar Step: Construction - Forge Mod Loader took 0.396s
+[08:48:44] [Client thread/TRACE] [forge/forge]: Sending event FMLConstructionEvent to mod forge
+[08:48:44] [Client thread/DEBUG] [forge/forge]: Preloading CrashReport Classes
+[08:48:44] [Client thread/DEBUG] [forge/forge]: 	net/minecraftforge/fml/client/SplashProgress$1
+[08:48:44] [Client thread/DEBUG] [forge/forge]: 	net/minecraftforge/fml/common/FMLCommonHandler$1
+[08:48:44] [Client thread/DEBUG] [forge/forge]: 	net/minecraftforge/fml/common/Loader$3
+[08:48:44] [Client thread/TRACE] [FML/forge]: Mod forge is using network checker : No network checking performed
+[08:48:44] [Client thread/TRACE] [FML/forge]: Testing mod forge to verify it accepts its own version in a remote connection
+[08:48:44] [Client thread/TRACE] [FML/forge]: The mod forge accepts its own version (13.20.1.2588)
+[08:48:44] [Client thread/DEBUG] [FML/forge]: Attempting to inject @Config classes into forge for type INSTANCE
+[08:48:44] [Client thread/TRACE] [forge/forge]: Sent event FMLConstructionEvent to mod forge
+[08:48:44] [Client thread/DEBUG] [FML/]: Bar Step: Construction - Minecraft Forge took 0.027s
+[08:48:44] [Client thread/TRACE] [dynamiclights/dynamiclights]: Sending event FMLConstructionEvent to mod dynamiclights
+[08:48:44] [Client thread/TRACE] [FML/dynamiclights]: Mod dynamiclights is using network checker : Accepting version 1.4.6
+[08:48:44] [Client thread/TRACE] [FML/dynamiclights]: Testing mod dynamiclights to verify it accepts its own version in a remote connection
+[08:48:44] [Client thread/TRACE] [FML/dynamiclights]: The mod dynamiclights accepts its own version (1.4.6)
+[08:48:44] [Client thread/DEBUG] [FML/dynamiclights]: Attempting to inject @SidedProxy classes into dynamiclights
+[08:48:44] [Client thread/DEBUG] [FML/dynamiclights]: Attempting to inject @EventBusSubscriber classes into the eventbus for dynamiclights
+[08:48:44] [Client thread/DEBUG] [FML/dynamiclights]: Attempting to inject @Config classes into dynamiclights for type INSTANCE
+[08:48:44] [Client thread/TRACE] [dynamiclights/dynamiclights]: Sent event FMLConstructionEvent to mod dynamiclights
+[08:48:44] [Client thread/DEBUG] [FML/]: Bar Step: Construction - Dynamic Lights took 0.033s
+[08:48:44] [Client thread/TRACE] [dynamiclights_onfire/dynamiclights_onfire]: Sending event FMLConstructionEvent to mod dynamiclights_onfire
+[08:48:44] [Client thread/TRACE] [FML/dynamiclights_onfire]: Mod dynamiclights_onfire is using network checker : Accepting version 1.0.7
+[08:48:44] [Client thread/TRACE] [FML/dynamiclights_onfire]: Testing mod dynamiclights_onfire to verify it accepts its own version in a remote connection
+[08:48:44] [Client thread/TRACE] [FML/dynamiclights_onfire]: The mod dynamiclights_onfire accepts its own version (1.0.7)
+[08:48:44] [Client thread/DEBUG] [FML/dynamiclights_onfire]: Attempting to inject @SidedProxy classes into dynamiclights_onfire
+[08:48:44] [Client thread/DEBUG] [FML/dynamiclights_onfire]: Attempting to inject @EventBusSubscriber classes into the eventbus for dynamiclights_onfire
+[08:48:44] [Client thread/DEBUG] [FML/dynamiclights_onfire]: Attempting to inject @Config classes into dynamiclights_onfire for type INSTANCE
+[08:48:44] [Client thread/DEBUG] [FML/dynamiclights_onfire]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for atomicstryker.dynamiclights.client.DynamicLights.instance since it is not for mod dynamiclights_onfire
+[08:48:44] [Client thread/TRACE] [dynamiclights_onfire/dynamiclights_onfire]: Sent event FMLConstructionEvent to mod dynamiclights_onfire
+[08:48:44] [Client thread/DEBUG] [FML/]: Bar Step: Construction - Dynamic Lights on burning took 0.008s
+[08:48:44] [Client thread/TRACE] [dynamiclights_creepers/dynamiclights_creepers]: Sending event FMLConstructionEvent to mod dynamiclights_creepers
+[08:48:44] [Client thread/TRACE] [FML/dynamiclights_creepers]: Mod dynamiclights_creepers is using network checker : Accepting version 1.0.6
+[08:48:44] [Client thread/TRACE] [FML/dynamiclights_creepers]: Testing mod dynamiclights_creepers to verify it accepts its own version in a remote connection
+[08:48:44] [Client thread/TRACE] [FML/dynamiclights_creepers]: The mod dynamiclights_creepers accepts its own version (1.0.6)
+[08:48:44] [Client thread/DEBUG] [FML/dynamiclights_creepers]: Attempting to inject @SidedProxy classes into dynamiclights_creepers
+[08:48:44] [Client thread/DEBUG] [FML/dynamiclights_creepers]: Attempting to inject @EventBusSubscriber classes into the eventbus for dynamiclights_creepers
+[08:48:44] [Client thread/DEBUG] [FML/dynamiclights_creepers]: Attempting to inject @Config classes into dynamiclights_creepers for type INSTANCE
+[08:48:44] [Client thread/DEBUG] [FML/dynamiclights_creepers]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for atomicstryker.dynamiclights.client.DynamicLights.instance since it is not for mod dynamiclights_creepers
+[08:48:44] [Client thread/TRACE] [dynamiclights_creepers/dynamiclights_creepers]: Sent event FMLConstructionEvent to mod dynamiclights_creepers
+[08:48:44] [Client thread/DEBUG] [FML/]: Bar Step: Construction - Dynamic Lights on Creepers took 0.003s
+[08:48:44] [Client thread/TRACE] [dynamiclights_dropitems/dynamiclights_dropitems]: Sending event FMLConstructionEvent to mod dynamiclights_dropitems
+[08:48:44] [Client thread/TRACE] [FML/dynamiclights_dropitems]: Mod dynamiclights_dropitems is using network checker : Accepting version 1.1.0
+[08:48:44] [Client thread/TRACE] [FML/dynamiclights_dropitems]: Testing mod dynamiclights_dropitems to verify it accepts its own version in a remote connection
+[08:48:44] [Client thread/TRACE] [FML/dynamiclights_dropitems]: The mod dynamiclights_dropitems accepts its own version (1.1.0)
+[08:48:44] [Client thread/DEBUG] [FML/dynamiclights_dropitems]: Attempting to inject @SidedProxy classes into dynamiclights_dropitems
+[08:48:44] [Client thread/DEBUG] [FML/dynamiclights_dropitems]: Attempting to inject @EventBusSubscriber classes into the eventbus for dynamiclights_dropitems
+[08:48:44] [Client thread/DEBUG] [FML/dynamiclights_dropitems]: Attempting to inject @Config classes into dynamiclights_dropitems for type INSTANCE
+[08:48:44] [Client thread/DEBUG] [FML/dynamiclights_dropitems]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for atomicstryker.dynamiclights.client.DynamicLights.instance since it is not for mod dynamiclights_dropitems
+[08:48:44] [Client thread/TRACE] [dynamiclights_dropitems/dynamiclights_dropitems]: Sent event FMLConstructionEvent to mod dynamiclights_dropitems
+[08:48:44] [Client thread/DEBUG] [FML/]: Bar Step: Construction - Dynamic Lights on ItemEntities took 0.010s
+[08:48:44] [Client thread/TRACE] [dynamiclights_entityclasses/dynamiclights_entityclasses]: Sending event FMLConstructionEvent to mod dynamiclights_entityclasses
+[08:48:44] [Client thread/TRACE] [FML/dynamiclights_entityclasses]: Mod dynamiclights_entityclasses is using network checker : Accepting version 1.0.1
+[08:48:44] [Client thread/TRACE] [FML/dynamiclights_entityclasses]: Testing mod dynamiclights_entityclasses to verify it accepts its own version in a remote connection
+[08:48:44] [Client thread/TRACE] [FML/dynamiclights_entityclasses]: The mod dynamiclights_entityclasses accepts its own version (1.0.1)
+[08:48:44] [Client thread/DEBUG] [FML/dynamiclights_entityclasses]: Attempting to inject @SidedProxy classes into dynamiclights_entityclasses
+[08:48:44] [Client thread/DEBUG] [FML/dynamiclights_entityclasses]: Attempting to inject @EventBusSubscriber classes into the eventbus for dynamiclights_entityclasses
+[08:48:44] [Client thread/DEBUG] [FML/dynamiclights_entityclasses]: Attempting to inject @Config classes into dynamiclights_entityclasses for type INSTANCE
+[08:48:44] [Client thread/DEBUG] [FML/dynamiclights_entityclasses]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for atomicstryker.dynamiclights.client.DynamicLights.instance since it is not for mod dynamiclights_entityclasses
+[08:48:44] [Client thread/TRACE] [dynamiclights_entityclasses/dynamiclights_entityclasses]: Sent event FMLConstructionEvent to mod dynamiclights_entityclasses
+[08:48:44] [Client thread/DEBUG] [FML/]: Bar Step: Construction - Dynamic Lights on specified Entities took 0.005s
+[08:48:44] [Client thread/TRACE] [dynamiclights_mobequipment/dynamiclights_mobequipment]: Sending event FMLConstructionEvent to mod dynamiclights_mobequipment
+[08:48:44] [Client thread/TRACE] [FML/dynamiclights_mobequipment]: Mod dynamiclights_mobequipment is using network checker : Accepting version 1.1.0
+[08:48:44] [Client thread/TRACE] [FML/dynamiclights_mobequipment]: Testing mod dynamiclights_mobequipment to verify it accepts its own version in a remote connection
+[08:48:44] [Client thread/TRACE] [FML/dynamiclights_mobequipment]: The mod dynamiclights_mobequipment accepts its own version (1.1.0)
+[08:48:44] [Client thread/DEBUG] [FML/dynamiclights_mobequipment]: Attempting to inject @SidedProxy classes into dynamiclights_mobequipment
+[08:48:44] [Client thread/DEBUG] [FML/dynamiclights_mobequipment]: Attempting to inject @EventBusSubscriber classes into the eventbus for dynamiclights_mobequipment
+[08:48:44] [Client thread/DEBUG] [FML/dynamiclights_mobequipment]: Attempting to inject @Config classes into dynamiclights_mobequipment for type INSTANCE
+[08:48:44] [Client thread/DEBUG] [FML/dynamiclights_mobequipment]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for atomicstryker.dynamiclights.client.DynamicLights.instance since it is not for mod dynamiclights_mobequipment
+[08:48:44] [Client thread/TRACE] [dynamiclights_mobequipment/dynamiclights_mobequipment]: Sent event FMLConstructionEvent to mod dynamiclights_mobequipment
+[08:48:44] [Client thread/DEBUG] [FML/]: Bar Step: Construction - Dynamic Lights on Mob Equipment took 0.009s
+[08:48:44] [Client thread/TRACE] [dynamiclights_flamearrows/dynamiclights_flamearrows]: Sending event FMLConstructionEvent to mod dynamiclights_flamearrows
+[08:48:44] [Client thread/TRACE] [FML/dynamiclights_flamearrows]: Mod dynamiclights_flamearrows is using network checker : Accepting version 1.0.1
+[08:48:44] [Client thread/TRACE] [FML/dynamiclights_flamearrows]: Testing mod dynamiclights_flamearrows to verify it accepts its own version in a remote connection
+[08:48:44] [Client thread/TRACE] [FML/dynamiclights_flamearrows]: The mod dynamiclights_flamearrows accepts its own version (1.0.1)
+[08:48:44] [Client thread/DEBUG] [FML/dynamiclights_flamearrows]: Attempting to inject @SidedProxy classes into dynamiclights_flamearrows
+[08:48:44] [Client thread/DEBUG] [FML/dynamiclights_flamearrows]: Attempting to inject @EventBusSubscriber classes into the eventbus for dynamiclights_flamearrows
+[08:48:44] [Client thread/DEBUG] [FML/dynamiclights_flamearrows]: Attempting to inject @Config classes into dynamiclights_flamearrows for type INSTANCE
+[08:48:44] [Client thread/DEBUG] [FML/dynamiclights_flamearrows]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for atomicstryker.dynamiclights.client.DynamicLights.instance since it is not for mod dynamiclights_flamearrows
+[08:48:44] [Client thread/TRACE] [dynamiclights_flamearrows/dynamiclights_flamearrows]: Sent event FMLConstructionEvent to mod dynamiclights_flamearrows
+[08:48:44] [Client thread/DEBUG] [FML/]: Bar Step: Construction - Dynamic Lights on Flame enchanted Arrows took 0.005s
+[08:48:44] [Client thread/TRACE] [dynamiclights_floodlights/dynamiclights_floodlights]: Sending event FMLConstructionEvent to mod dynamiclights_floodlights
+[08:48:44] [Client thread/TRACE] [FML/dynamiclights_floodlights]: Mod dynamiclights_floodlights is using network checker : Accepting version 1.0.3
+[08:48:44] [Client thread/TRACE] [FML/dynamiclights_floodlights]: Testing mod dynamiclights_floodlights to verify it accepts its own version in a remote connection
+[08:48:44] [Client thread/TRACE] [FML/dynamiclights_floodlights]: The mod dynamiclights_floodlights accepts its own version (1.0.3)
+[08:48:44] [Client thread/DEBUG] [FML/dynamiclights_floodlights]: Attempting to inject @SidedProxy classes into dynamiclights_floodlights
+[08:48:44] [Client thread/DEBUG] [FML/dynamiclights_floodlights]: Attempting to inject @EventBusSubscriber classes into the eventbus for dynamiclights_floodlights
+[08:48:44] [Client thread/DEBUG] [FML/dynamiclights_floodlights]: Attempting to inject @Config classes into dynamiclights_floodlights for type INSTANCE
+[08:48:44] [Client thread/DEBUG] [FML/dynamiclights_floodlights]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for atomicstryker.dynamiclights.client.DynamicLights.instance since it is not for mod dynamiclights_floodlights
+[08:48:44] [Client thread/TRACE] [dynamiclights_floodlights/dynamiclights_floodlights]: Sent event FMLConstructionEvent to mod dynamiclights_floodlights
+[08:48:44] [Client thread/DEBUG] [FML/]: Bar Step: Construction - Dynamic Lights Flood Light took 0.007s
+[08:48:44] [Client thread/TRACE] [dynamiclights_otherplayers/dynamiclights_otherplayers]: Sending event FMLConstructionEvent to mod dynamiclights_otherplayers
+[08:48:44] [Client thread/TRACE] [FML/dynamiclights_otherplayers]: Mod dynamiclights_otherplayers is using network checker : Accepting version 1.0.9
+[08:48:44] [Client thread/TRACE] [FML/dynamiclights_otherplayers]: Testing mod dynamiclights_otherplayers to verify it accepts its own version in a remote connection
+[08:48:44] [Client thread/TRACE] [FML/dynamiclights_otherplayers]: The mod dynamiclights_otherplayers accepts its own version (1.0.9)
+[08:48:44] [Client thread/DEBUG] [FML/dynamiclights_otherplayers]: Attempting to inject @SidedProxy classes into dynamiclights_otherplayers
+[08:48:44] [Client thread/DEBUG] [FML/dynamiclights_otherplayers]: Attempting to inject @EventBusSubscriber classes into the eventbus for dynamiclights_otherplayers
+[08:48:44] [Client thread/DEBUG] [FML/dynamiclights_otherplayers]: Attempting to inject @Config classes into dynamiclights_otherplayers for type INSTANCE
+[08:48:44] [Client thread/DEBUG] [FML/dynamiclights_otherplayers]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for atomicstryker.dynamiclights.client.DynamicLights.instance since it is not for mod dynamiclights_otherplayers
+[08:48:44] [Client thread/TRACE] [dynamiclights_otherplayers/dynamiclights_otherplayers]: Sent event FMLConstructionEvent to mod dynamiclights_otherplayers
+[08:48:44] [Client thread/DEBUG] [FML/]: Bar Step: Construction - Dynamic Lights Other Player Light took 0.006s
+[08:48:44] [Client thread/TRACE] [dynamiclights_theplayer/dynamiclights_theplayer]: Sending event FMLConstructionEvent to mod dynamiclights_theplayer
+[08:48:44] [Client thread/TRACE] [FML/dynamiclights_theplayer]: Mod dynamiclights_theplayer is using network checker : Accepting version 1.1.3
+[08:48:44] [Client thread/TRACE] [FML/dynamiclights_theplayer]: Testing mod dynamiclights_theplayer to verify it accepts its own version in a remote connection
+[08:48:44] [Client thread/TRACE] [FML/dynamiclights_theplayer]: The mod dynamiclights_theplayer accepts its own version (1.1.3)
+[08:48:44] [Client thread/DEBUG] [FML/dynamiclights_theplayer]: Attempting to inject @SidedProxy classes into dynamiclights_theplayer
+[08:48:44] [Client thread/DEBUG] [FML/dynamiclights_theplayer]: Attempting to inject @EventBusSubscriber classes into the eventbus for dynamiclights_theplayer
+[08:48:44] [Client thread/DEBUG] [FML/dynamiclights_theplayer]: Attempting to inject @Config classes into dynamiclights_theplayer for type INSTANCE
+[08:48:44] [Client thread/DEBUG] [FML/dynamiclights_theplayer]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for atomicstryker.dynamiclights.client.DynamicLights.instance since it is not for mod dynamiclights_theplayer
+[08:48:44] [Client thread/TRACE] [dynamiclights_theplayer/dynamiclights_theplayer]: Sent event FMLConstructionEvent to mod dynamiclights_theplayer
+[08:48:44] [Client thread/DEBUG] [FML/]: Bar Step: Construction - Dynamic Lights Player Light took 0.006s
+[08:48:44] [Client thread/TRACE] [mobends/mobends]: Sending event FMLConstructionEvent to mod mobends
+[08:48:44] [Client thread/TRACE] [FML/mobends]: Mod mobends is using network checker : Accepting version 0.23.1
+[08:48:44] [Client thread/TRACE] [FML/mobends]: Testing mod mobends to verify it accepts its own version in a remote connection
+[08:48:44] [Client thread/TRACE] [FML/mobends]: The mod mobends accepts its own version (0.23.1)
+[08:48:44] [Client thread/DEBUG] [FML/mobends]: Attempting to inject @SidedProxy classes into mobends
+[08:48:44] [Client thread/DEBUG] [FML/mobends]: Attempting to inject @EventBusSubscriber classes into the eventbus for mobends
+[08:48:44] [Client thread/DEBUG] [FML/mobends]: Attempting to inject @Config classes into mobends for type INSTANCE
+[08:48:44] [Client thread/TRACE] [mobends/mobends]: Sent event FMLConstructionEvent to mod mobends
+[08:48:44] [Client thread/DEBUG] [FML/]: Bar Step: Construction - Mo'Bends took 0.017s
+[08:48:44] [Client thread/TRACE] [worldedit/worldedit]: Sending event FMLConstructionEvent to mod worldedit
+[08:48:44] [Client thread/TRACE] [FML/worldedit]: Mod worldedit is using network checker : No network checking performed
+[08:48:44] [Client thread/TRACE] [FML/worldedit]: Testing mod worldedit to verify it accepts its own version in a remote connection
+[08:48:44] [Client thread/TRACE] [FML/worldedit]: The mod worldedit accepts its own version (6.1.6)
+[08:48:44] [Client thread/DEBUG] [FML/worldedit]: Attempting to inject @SidedProxy classes into worldedit
+[08:48:44] [Client thread/DEBUG] [FML/worldedit]: Attempting to inject @EventBusSubscriber classes into the eventbus for worldedit
+[08:48:44] [Client thread/DEBUG] [FML/worldedit]: Attempting to inject @Config classes into worldedit for type INSTANCE
+[08:48:44] [Client thread/TRACE] [worldedit/worldedit]: Sent event FMLConstructionEvent to mod worldedit
+[08:48:44] [Client thread/DEBUG] [FML/]: Bar Step: Construction - WorldEdit took 0.074s
+[08:48:44] [Client thread/DEBUG] [FML/]: Bar Finished: Construction took 0.611s
+[08:48:44] [Client thread/DEBUG] [FML/]: Mod signature data
+[08:48:44] [Client thread/DEBUG] [FML/]:  	Valid Signatures:
+[08:48:44] [Client thread/DEBUG] [FML/]: 		(e3c3d50c7c986df74c645c0ac54639741c90a557) FML	(Forge Mod Loader	8.0.99.99)	forge-1.11.2-13.20.1.2588-universal.jar
+[08:48:44] [Client thread/DEBUG] [FML/]: 		(e3c3d50c7c986df74c645c0ac54639741c90a557) forge	(Minecraft Forge	13.20.1.2588)	forge-1.11.2-13.20.1.2588-universal.jar
+[08:48:44] [Client thread/DEBUG] [FML/]:  	Missing Signatures:
+[08:48:44] [Client thread/DEBUG] [FML/]: 		minecraft	(Minecraft	1.11.2)	minecraft.jar
+[08:48:44] [Client thread/DEBUG] [FML/]: 		mcp	(Minecraft Coder Pack	9.19)	minecraft.jar
+[08:48:44] [Client thread/DEBUG] [FML/]: 		dynamiclights	(Dynamic Lights	1.4.6)	DynamicLights-1.11.2.jar
+[08:48:44] [Client thread/DEBUG] [FML/]: 		dynamiclights_onfire	(Dynamic Lights on burning	1.0.7)	DynamicLights-1.11.2.jar
+[08:48:44] [Client thread/DEBUG] [FML/]: 		dynamiclights_creepers	(Dynamic Lights on Creepers	1.0.6)	DynamicLights-1.11.2.jar
+[08:48:44] [Client thread/DEBUG] [FML/]: 		dynamiclights_dropitems	(Dynamic Lights on ItemEntities	1.1.0)	DynamicLights-1.11.2.jar
+[08:48:44] [Client thread/DEBUG] [FML/]: 		dynamiclights_entityclasses	(Dynamic Lights on specified Entities	1.0.1)	DynamicLights-1.11.2.jar
+[08:48:44] [Client thread/DEBUG] [FML/]: 		dynamiclights_mobequipment	(Dynamic Lights on Mob Equipment	1.1.0)	DynamicLights-1.11.2.jar
+[08:48:44] [Client thread/DEBUG] [FML/]: 		dynamiclights_flamearrows	(Dynamic Lights on Flame enchanted Arrows	1.0.1)	DynamicLights-1.11.2.jar
+[08:48:44] [Client thread/DEBUG] [FML/]: 		dynamiclights_floodlights	(Dynamic Lights Flood Light	1.0.3)	DynamicLights-1.11.2.jar
+[08:48:44] [Client thread/DEBUG] [FML/]: 		dynamiclights_otherplayers	(Dynamic Lights Other Player Light	1.0.9)	DynamicLights-1.11.2.jar
+[08:48:44] [Client thread/DEBUG] [FML/]: 		dynamiclights_theplayer	(Dynamic Lights Player Light	1.1.3)	DynamicLights-1.11.2.jar
+[08:48:44] [Client thread/DEBUG] [FML/]: 		mobends	(Mo'Bends	0.23.1)	mobends-0.23.1_for_MC-1.11.2.jar
+[08:48:44] [Client thread/DEBUG] [FML/]: 		worldedit	(WorldEdit	6.1.6)	worldedit-forge-mc1.11-6.1.6-dist.jar
+[08:48:44] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - Default took 0.005s
+[08:48:44] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Forge Mod Loader took 0.003s
+[08:48:44] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Minecraft Forge took 0.002s
+[08:48:44] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Dynamic Lights took 0.000s
+[08:48:44] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Dynamic Lights on burning took 0.000s
+[08:48:44] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Dynamic Lights on Creepers took 0.000s
+[08:48:44] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Dynamic Lights on ItemEntities took 0.000s
+[08:48:44] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Dynamic Lights on specified Entities took 0.000s
+[08:48:44] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Dynamic Lights on Mob Equipment took 0.001s
+[08:48:44] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Dynamic Lights on Flame enchanted Arrows took 0.001s
+[08:48:44] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Dynamic Lights Flood Light took 0.001s
+[08:48:44] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Dynamic Lights Other Player Light took 0.001s
+[08:48:44] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Dynamic Lights Player Light took 0.000s
+[08:48:44] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Mo'Bends took 0.001s
+[08:48:44] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:WorldEdit took 0.001s
+[08:48:44] [Client thread/DEBUG] [FML/]: Bar Finished: Reloading - LanguageManager took 0.020s
+[08:48:44] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - Reloading listeners took 0.021s
+[08:48:44] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resources took 0.039s
+[08:48:44] [Client thread/DEBUG] [Forge Mod Loader/]: Mod Forge Mod Loader is missing a pack.mcmeta file, substituting a dummy one
+[08:48:44] [Client thread/DEBUG] [Minecraft Forge/]: Mod Minecraft Forge is missing a pack.mcmeta file, substituting a dummy one
+[08:48:44] [Client thread/DEBUG] [Dynamic Lights/]: Mod Dynamic Lights is missing a pack.mcmeta file, substituting a dummy one
+[08:48:44] [Client thread/DEBUG] [Dynamic Lights on burning/]: Mod Dynamic Lights on burning is missing a pack.mcmeta file, substituting a dummy one
+[08:48:44] [Client thread/DEBUG] [Dynamic Lights on Creepers/]: Mod Dynamic Lights on Creepers is missing a pack.mcmeta file, substituting a dummy one
+[08:48:44] [Client thread/DEBUG] [Dynamic Lights on ItemEntities/]: Mod Dynamic Lights on ItemEntities is missing a pack.mcmeta file, substituting a dummy one
+[08:48:44] [Client thread/DEBUG] [Dynamic Lights on specified Entities/]: Mod Dynamic Lights on specified Entities is missing a pack.mcmeta file, substituting a dummy one
+[08:48:44] [Client thread/DEBUG] [Dynamic Lights on Mob Equipment/]: Mod Dynamic Lights on Mob Equipment is missing a pack.mcmeta file, substituting a dummy one
+[08:48:44] [Client thread/DEBUG] [Dynamic Lights on Flame enchanted Arrows/]: Mod Dynamic Lights on Flame enchanted Arrows is missing a pack.mcmeta file, substituting a dummy one
+[08:48:44] [Client thread/DEBUG] [Dynamic Lights Flood Light/]: Mod Dynamic Lights Flood Light is missing a pack.mcmeta file, substituting a dummy one
+[08:48:44] [Client thread/DEBUG] [Dynamic Lights Other Player Light/]: Mod Dynamic Lights Other Player Light is missing a pack.mcmeta file, substituting a dummy one
+[08:48:44] [Client thread/DEBUG] [Dynamic Lights Player Light/]: Mod Dynamic Lights Player Light is missing a pack.mcmeta file, substituting a dummy one
+[08:48:44] [Client thread/DEBUG] [Mo'Bends/]: Mod Mo'Bends is missing a pack.mcmeta file, substituting a dummy one
+[08:48:44] [Client thread/DEBUG] [WorldEdit/]: Mod WorldEdit is missing a pack.mcmeta file, substituting a dummy one
+[08:48:44] [Client thread/INFO] [FML/]: Processing ObjectHolder annotations
+[08:48:44] [Client thread/INFO] [FML/]: Found 1093 ObjectHolder annotations
+[08:48:44] [Client thread/INFO] [FML/]: Identifying ItemStackHolder annotations
+[08:48:44] [Client thread/INFO] [FML/]: Found 0 ItemStackHolder annotations
+[08:48:44] [Client thread/INFO] [FML/]: Applying holder lookups
+[08:48:44] [Client thread/INFO] [FML/]: Holder lookups applied
+[08:48:44] [Client thread/INFO] [FML/]: Applying holder lookups
+[08:48:44] [Client thread/INFO] [FML/]: Holder lookups applied
+[08:48:44] [Client thread/INFO] [FML/]: Applying holder lookups
+[08:48:44] [Client thread/INFO] [FML/]: Holder lookups applied
+[08:48:44] [Client thread/TRACE] [minecraft/minecraft]: Sending event FMLPreInitializationEvent to mod minecraft
+[08:48:44] [Client thread/TRACE] [minecraft/minecraft]: Sent event FMLPreInitializationEvent to mod minecraft
+[08:48:44] [Client thread/DEBUG] [FML/]: Bar Step: PreInitialization - Minecraft took 0.001s
+[08:48:44] [Client thread/TRACE] [mcp/mcp]: Sending event FMLPreInitializationEvent to mod mcp
+[08:48:44] [Client thread/TRACE] [mcp/mcp]: Sent event FMLPreInitializationEvent to mod mcp
+[08:48:44] [Client thread/DEBUG] [FML/]: Bar Step: PreInitialization - Minecraft Coder Pack took 0.001s
+[08:48:44] [Client thread/TRACE] [FML/FML]: Sending event FMLPreInitializationEvent to mod FML
+[08:48:44] [Client thread/TRACE] [FML/FML]: Sent event FMLPreInitializationEvent to mod FML
+[08:48:44] [Client thread/DEBUG] [FML/]: Bar Step: PreInitialization - Forge Mod Loader took 0.000s
+[08:48:44] [Client thread/TRACE] [forge/forge]: Sending event FMLPreInitializationEvent to mod forge
+[08:48:44] [Client thread/INFO] [FML/forge]: Configured a dormant chunk cache size of 0
+[08:48:44] [Client thread/TRACE] [forge/forge]: Sent event FMLPreInitializationEvent to mod forge
+[08:48:44] [Client thread/DEBUG] [FML/]: Bar Step: PreInitialization - Minecraft Forge took 0.078s
+[08:48:44] [Forge Version Check/INFO] [ForgeVersionCheck/forge]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[08:48:44] [Client thread/TRACE] [dynamiclights/dynamiclights]: Sending event FMLPreInitializationEvent to mod dynamiclights
+[08:48:44] [Client thread/TRACE] [dynamiclights/dynamiclights]: Sent event FMLPreInitializationEvent to mod dynamiclights
+[08:48:44] [Client thread/DEBUG] [FML/]: Bar Step: PreInitialization - Dynamic Lights took 0.005s
+[08:48:44] [Client thread/TRACE] [dynamiclights_onfire/dynamiclights_onfire]: Sending event FMLPreInitializationEvent to mod dynamiclights_onfire
+[08:48:44] [Client thread/TRACE] [dynamiclights_onfire/dynamiclights_onfire]: Sent event FMLPreInitializationEvent to mod dynamiclights_onfire
+[08:48:44] [Client thread/DEBUG] [FML/]: Bar Step: PreInitialization - Dynamic Lights on burning took 0.003s
+[08:48:44] [Client thread/TRACE] [dynamiclights_creepers/dynamiclights_creepers]: Sending event FMLPreInitializationEvent to mod dynamiclights_creepers
+[08:48:44] [Client thread/TRACE] [dynamiclights_creepers/dynamiclights_creepers]: Sent event FMLPreInitializationEvent to mod dynamiclights_creepers
+[08:48:44] [Client thread/DEBUG] [FML/]: Bar Step: PreInitialization - Dynamic Lights on Creepers took 0.000s
+[08:48:44] [Client thread/TRACE] [dynamiclights_dropitems/dynamiclights_dropitems]: Sending event FMLPreInitializationEvent to mod dynamiclights_dropitems
+[08:48:44] [Client thread/TRACE] [dynamiclights_dropitems/dynamiclights_dropitems]: Sent event FMLPreInitializationEvent to mod dynamiclights_dropitems
+[08:48:44] [Client thread/DEBUG] [FML/]: Bar Step: PreInitialization - Dynamic Lights on ItemEntities took 0.002s
+[08:48:44] [Client thread/TRACE] [dynamiclights_entityclasses/dynamiclights_entityclasses]: Sending event FMLPreInitializationEvent to mod dynamiclights_entityclasses
+[08:48:44] [Client thread/TRACE] [dynamiclights_entityclasses/dynamiclights_entityclasses]: Sent event FMLPreInitializationEvent to mod dynamiclights_entityclasses
+[08:48:44] [Client thread/DEBUG] [FML/]: Bar Step: PreInitialization - Dynamic Lights on specified Entities took 0.004s
+[08:48:44] [Client thread/TRACE] [dynamiclights_mobequipment/dynamiclights_mobequipment]: Sending event FMLPreInitializationEvent to mod dynamiclights_mobequipment
+[08:48:44] [Client thread/TRACE] [dynamiclights_mobequipment/dynamiclights_mobequipment]: Sent event FMLPreInitializationEvent to mod dynamiclights_mobequipment
+[08:48:44] [Client thread/DEBUG] [FML/]: Bar Step: PreInitialization - Dynamic Lights on Mob Equipment took 0.002s
+[08:48:44] [Client thread/TRACE] [dynamiclights_flamearrows/dynamiclights_flamearrows]: Sending event FMLPreInitializationEvent to mod dynamiclights_flamearrows
+[08:48:44] [Client thread/TRACE] [dynamiclights_flamearrows/dynamiclights_flamearrows]: Sent event FMLPreInitializationEvent to mod dynamiclights_flamearrows
+[08:48:44] [Client thread/DEBUG] [FML/]: Bar Step: PreInitialization - Dynamic Lights on Flame enchanted Arrows took 0.000s
+[08:48:44] [Client thread/TRACE] [dynamiclights_floodlights/dynamiclights_floodlights]: Sending event FMLPreInitializationEvent to mod dynamiclights_floodlights
+[08:48:44] [Client thread/TRACE] [dynamiclights_floodlights/dynamiclights_floodlights]: Sent event FMLPreInitializationEvent to mod dynamiclights_floodlights
+[08:48:44] [Client thread/DEBUG] [FML/]: Bar Step: PreInitialization - Dynamic Lights Flood Light took 0.003s
+[08:48:44] [Client thread/TRACE] [dynamiclights_otherplayers/dynamiclights_otherplayers]: Sending event FMLPreInitializationEvent to mod dynamiclights_otherplayers
+[08:48:44] [Client thread/TRACE] [dynamiclights_otherplayers/dynamiclights_otherplayers]: Sent event FMLPreInitializationEvent to mod dynamiclights_otherplayers
+[08:48:44] [Client thread/DEBUG] [FML/]: Bar Step: PreInitialization - Dynamic Lights Other Player Light took 0.002s
+[08:48:44] [Client thread/TRACE] [dynamiclights_theplayer/dynamiclights_theplayer]: Sending event FMLPreInitializationEvent to mod dynamiclights_theplayer
+[08:48:44] [Client thread/TRACE] [dynamiclights_theplayer/dynamiclights_theplayer]: Sent event FMLPreInitializationEvent to mod dynamiclights_theplayer
+[08:48:44] [Client thread/DEBUG] [FML/]: Bar Step: PreInitialization - Dynamic Lights Player Light took 0.002s
+[08:48:44] [Client thread/TRACE] [mobends/mobends]: Sending event FMLPreInitializationEvent to mod mobends
+[08:48:44] [Client thread/TRACE] [mobends/mobends]: Sent event FMLPreInitializationEvent to mod mobends
+[08:48:44] [Client thread/DEBUG] [FML/]: Bar Step: PreInitialization - Mo'Bends took 0.016s
+[08:48:44] [Client thread/TRACE] [worldedit/worldedit]: Sending event FMLPreInitializationEvent to mod worldedit
+[08:48:44] [Client thread/TRACE] [worldedit/worldedit]: Sent event FMLPreInitializationEvent to mod worldedit
+[08:48:44] [Client thread/DEBUG] [FML/]: Bar Step: PreInitialization - WorldEdit took 0.018s
+[08:48:44] [Client thread/DEBUG] [FML/]: Bar Finished: PreInitialization took 0.138s
+[08:48:44] [Client thread/INFO] [FML/]: Applying holder lookups
+[08:48:44] [Client thread/INFO] [FML/]: Holder lookups applied
+[08:48:44] [Client thread/INFO] [FML/]: Injecting itemstacks
+[08:48:44] [Client thread/INFO] [FML/]: Itemstack injection complete
+[08:48:44] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - TextureManager took 0.000s
+[08:48:44] [Forge Version Check/DEBUG] [ForgeVersionCheck/forge]: [forge] Received version check data:
 Moved Permanently
-[07:16:43] [Forge Version Check/DEBUG] [ForgeVersionCheck/Forge]: Failed to process update information
+[08:48:44] [Forge Version Check/DEBUG] [ForgeVersionCheck/forge]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1
 	at com.google.gson.Gson.fromJson(Gson.java:815) ~[Gson.class:?]
 	at com.google.gson.Gson.fromJson(Gson.java:768) ~[Gson.class:?]
 	at com.google.gson.Gson.fromJson(Gson.java:717) ~[Gson.class:?]
 	at com.google.gson.Gson.fromJson(Gson.java:689) ~[Gson.class:?]
-	at net.minecraftforge.common.ForgeVersion$1.process(ForgeVersion.java:197) [ForgeVersion$1.class:?]
-	at net.minecraftforge.common.ForgeVersion$1.run(ForgeVersion.java:172) [ForgeVersion$1.class:?]
+	at net.minecraftforge.common.ForgeVersion$1.process(ForgeVersion.java:227) [ForgeVersion$1.class:?]
+	at net.minecraftforge.common.ForgeVersion$1.run(ForgeVersion.java:202) [ForgeVersion$1.class:?]
 Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1
 	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:374) ~[JsonReader.class:?]
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:183) ~[MapTypeAdapterFactory$Adapter.class:?]
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:145) ~[MapTypeAdapterFactory$Adapter.class:?]
 	at com.google.gson.Gson.fromJson(Gson.java:803) ~[Gson.class:?]
 	... 5 more
-[07:16:45] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - SoundHandler took 1.972s
-[07:16:45] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - FontRenderer took 0.005s
-[07:16:45] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - FontRenderer took 0.003s
-[07:16:45] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - GrassColorReloadListener took 0.008s
-[07:16:45] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - FoliageColorReloadListener took 0.008s
-[07:16:45] [Client thread/DEBUG] [FML/]: Bar Step: Rendering Setup - GL Setup took 0.001s
-[07:16:45] [Client thread/DEBUG] [FML/]: Bar Step: Rendering Setup - Loading Texture Map took 0.004s
-[07:16:45] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - B3DLoader took 0.000s
-[07:16:45] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - OBJLoader took 0.000s
-[07:16:45] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - ModelFluid$FluidLoader took 0.000s
-[07:16:45] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - ItemLayerModel$Loader took 0.000s
-[07:16:45] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - MultiLayerModel$Loader took 0.000s
-[07:16:45] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - ModelDynBucket$LoaderDynBucket took 0.000s
-[07:16:49] [Client thread/DEBUG] [FML/]: Bar Finished: ModelLoader: blocks took 3.340s
-[07:16:51] [Client thread/DEBUG] [FML/]: Bar Finished: ModelLoader: items took 2.060s
-[07:16:51] [Client thread/INFO] [FML/]: Max texture size: 8192
-[07:16:51] [Client thread/DEBUG] [FML/]: Bar Finished: Texture stitching - missingno took 0.001s
-[07:16:51] [Client thread/DEBUG] [FML/]: Bar Finished: Texture creation took 0.009s
-[07:16:51] [Client thread/DEBUG] [FML/]: Bar Finished: Texture mipmap and upload - missingno took 0.001s
-[07:16:51] [Client thread/DEBUG] [FML/]: Bar Finished: ModelLoader: baking took 0.606s
-[07:16:51] [Client thread/ERROR] [FML/]: Exception loading model for variant aetherblock:invisible_light#normal
-net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model aetherblock:invisible_light#normal with loader VariantLoader.INSTANCE, skipping
-	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:134) ~[ModelLoaderRegistry.class:?]
-	at net.minecraftforge.client.model.ModelLoader.func_177569_a(ModelLoader.java:220) ~[ModelLoader.class:?]
-	at net.minecraft.client.renderer.block.model.ModelBakery.loadBlock(ModelBakery.java:144) ~[bxr.class:?]
-	at net.minecraftforge.client.model.ModelLoader.func_188640_b(ModelLoader.java:208) ~[ModelLoader.class:?]
-	at net.minecraftforge.client.model.ModelLoader.func_177570_a(ModelLoader.java:125) ~[ModelLoader.class:?]
-	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:28) [bxs.class:?]
-	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:120) [bwl.class:?]
-	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:494) [bcf.class:?]
-	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:346) [bcf.class:?]
-	at net.minecraft.client.main.Main.main(SourceFile:124) [Main.class:?]
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_491]
-	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_491]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_491]
-	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_491]
-	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
-	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_491]
-	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_491]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_491]
-	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_491]
-	at org.multimc.onesix.OneSixLauncher.launchWithMainClass(OneSixLauncher.java:243) [NewLaunch.jar:?]
-	at org.multimc.onesix.OneSixLauncher.launch(OneSixLauncher.java:278) [NewLaunch.jar:?]
-	at org.multimc.EntryPoint.listen(EntryPoint.java:143) [NewLaunch.jar:?]
-	at org.multimc.EntryPoint.main(EntryPoint.java:34) [NewLaunch.jar:?]
-Caused by: net.minecraft.client.renderer.block.model.ModelBlockDefinition$MissingVariantException
-	at net.minecraft.client.renderer.block.model.ModelBlockDefinition.func_188004_c(ModelBlockDefinition.java:75) ~[bol.class:?]
-	at net.minecraftforge.client.model.ModelLoader$VariantLoader.loadModel(ModelLoader.java:1157) ~[ModelLoader$VariantLoader.class:?]
-	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:130) ~[ModelLoaderRegistry.class:?]
-	... 23 more
-[07:16:51] [Client thread/ERROR] [FML/]: Exception loading blockstate for the variant aetherblock:invisible_light#normal: 
-java.lang.Exception: Could not load model definition for variant aetherblock:invisible_light
-	at net.minecraftforge.client.model.ModelLoader.func_177586_a(ModelLoader.java:253) ~[ModelLoader.class:?]
-	at net.minecraft.client.renderer.block.model.ModelBakery.loadBlock(ModelBakery.java:120) ~[bxr.class:?]
-	at net.minecraftforge.client.model.ModelLoader.func_188640_b(ModelLoader.java:208) ~[ModelLoader.class:?]
-	at net.minecraftforge.client.model.ModelLoader.func_177570_a(ModelLoader.java:125) ~[ModelLoader.class:?]
-	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:28) [bxs.class:?]
-	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:120) [bwl.class:?]
-	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:494) [bcf.class:?]
-	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:346) [bcf.class:?]
-	at net.minecraft.client.main.Main.main(SourceFile:124) [Main.class:?]
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_491]
-	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_491]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_491]
-	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_491]
-	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
-	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_491]
-	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_491]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_491]
-	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_491]
-	at org.multimc.onesix.OneSixLauncher.launchWithMainClass(OneSixLauncher.java:243) [NewLaunch.jar:?]
-	at org.multimc.onesix.OneSixLauncher.launch(OneSixLauncher.java:278) [NewLaunch.jar:?]
-	at org.multimc.EntryPoint.listen(EntryPoint.java:143) [NewLaunch.jar:?]
-	at org.multimc.EntryPoint.main(EntryPoint.java:34) [NewLaunch.jar:?]
-Caused by: java.lang.RuntimeException: Encountered an exception when loading model definition of model aetherblock:blockstates/invisible_light.json
-	at net.minecraft.client.renderer.block.model.ModelBakery.func_188632_a(ModelBakery.java:204) ~[bxr.class:?]
-	at net.minecraft.client.renderer.block.model.ModelBakery.func_177586_a(ModelBakery.java:184) ~[bxr.class:?]
-	at net.minecraftforge.client.model.ModelLoader.func_177586_a(ModelLoader.java:249) ~[ModelLoader.class:?]
-	... 22 more
-Caused by: java.io.FileNotFoundException: aetherblock:blockstates/invisible_light.json
-	at net.minecraft.client.resources.FallbackResourceManager.func_135056_b(FallbackResourceManager.java:103) ~[bvz.class:?]
-	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_135056_b(SimpleReloadableResourceManager.java:78) ~[bwl.class:?]
-	at net.minecraft.client.renderer.block.model.ModelBakery.func_188632_a(ModelBakery.java:197) ~[bxr.class:?]
-	at net.minecraft.client.renderer.block.model.ModelBakery.func_177586_a(ModelBakery.java:184) ~[bxr.class:?]
-	at net.minecraftforge.client.model.ModelLoader.func_177586_a(ModelLoader.java:249) ~[ModelLoader.class:?]
-	... 22 more
-[07:16:51] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - ModelManager took 6.198s
-[07:16:51] [Client thread/DEBUG] [FML/]: Bar Step: Rendering Setup - Loading Model Manager took 6.268s
-[07:16:52] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - RenderItem took 0.003s
-[07:16:52] [Client thread/DEBUG] [FML/]: Bar Step: Rendering Setup - Loading Item Renderer took 0.595s
-[07:16:52] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - EntityRenderer took 0.000s
-[07:16:52] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - BlockRendererDispatcher took 0.000s
-[07:16:52] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - RenderGlobal took 0.000s
-[07:16:52] [Client thread/DEBUG] [FML/]: Bar Step: Rendering Setup - Loading Entity Renderer took 0.148s
-[07:16:52] [Client thread/DEBUG] [FML/]: Bar Finished: Rendering Setup took 7.017s
-[07:16:52] [Client thread/TRACE] [mcp/mcp]: Sending event FMLInitializationEvent to mod mcp
-[07:16:52] [Client thread/TRACE] [mcp/mcp]: Sent event FMLInitializationEvent to mod mcp
-[07:16:52] [Client thread/DEBUG] [FML/]: Bar Step: Initialization - Minecraft Coder Pack took 0.000s
-[07:16:52] [Client thread/TRACE] [FML/FML]: Sending event FMLInitializationEvent to mod FML
-[07:16:52] [Client thread/TRACE] [FML/FML]: Sent event FMLInitializationEvent to mod FML
-[07:16:52] [Client thread/DEBUG] [FML/]: Bar Step: Initialization - Forge Mod Loader took 0.000s
-[07:16:52] [Client thread/TRACE] [Forge/Forge]: Sending event FMLInitializationEvent to mod Forge
-[07:16:52] [Client thread/TRACE] [Forge/Forge]: Sent event FMLInitializationEvent to mod Forge
-[07:16:52] [Client thread/DEBUG] [FML/]: Bar Step: Initialization - Minecraft Forge took 0.000s
-[07:16:52] [Client thread/TRACE] [aetherblock/aetherblock]: Sending event FMLInitializationEvent to mod aetherblock
-[07:16:52] [Client thread/TRACE] [aetherblock/aetherblock]: Sent event FMLInitializationEvent to mod aetherblock
-[07:16:52] [Client thread/DEBUG] [FML/]: Bar Step: Initialization - AetherBlock took 0.000s
-[07:16:52] [Client thread/TRACE] [mobends/mobends]: Sending event FMLInitializationEvent to mod mobends
-[07:16:52] [Client thread/INFO] [STDOUT/mobends]: [net.gobbob.mobends.util.BendsLogger:log:8]: (MO'BENDS - INFO ) Registering Animated Entities...
-[07:16:52] [Client thread/INFO] [STDOUT/mobends]: [net.gobbob.mobends.util.BendsLogger:log:8]: (MO'BENDS - INFO ) Registering Player
-[07:16:52] [Client thread/INFO] [STDOUT/mobends]: [net.gobbob.mobends.util.BendsLogger:log:8]: (MO'BENDS - INFO ) Registering Zombie
-[07:16:52] [Client thread/INFO] [STDOUT/mobends]: [net.gobbob.mobends.util.BendsLogger:log:8]: (MO'BENDS - INFO ) Registering Spider
-[07:16:52] [Client thread/INFO] [STDOUT/mobends]: [net.gobbob.mobends.util.BendsLogger:log:8]: (MO'BENDS - INFO ) Registering Skeleton
-[07:16:52] [Client thread/TRACE] [mobends/mobends]: Sent event FMLInitializationEvent to mod mobends
-[07:16:52] [Client thread/DEBUG] [FML/]: Bar Step: Initialization - Mo'Bends took 0.097s
-[07:16:52] [Client thread/TRACE] [worldedit/worldedit]: Sending event FMLInitializationEvent to mod worldedit
-[07:16:52] [Client thread/TRACE] [worldedit/worldedit]: Sent event FMLInitializationEvent to mod worldedit
-[07:16:52] [Client thread/DEBUG] [FML/]: Bar Step: Initialization - WorldEdit took 0.051s
-[07:16:52] [Client thread/DEBUG] [FML/]: Bar Finished: Initialization took 0.149s
-[07:16:52] [Client thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod mcp
-[07:16:52] [Client thread/TRACE] [mcp/mcp]: Sending event IMCEvent to mod mcp
-[07:16:52] [Client thread/TRACE] [mcp/mcp]: Sent event IMCEvent to mod mcp
-[07:16:52] [Client thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Minecraft Coder Pack took 0.008s
-[07:16:52] [Client thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod FML
-[07:16:52] [Client thread/TRACE] [FML/FML]: Sending event IMCEvent to mod FML
-[07:16:52] [Client thread/TRACE] [FML/FML]: Sent event IMCEvent to mod FML
-[07:16:52] [Client thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Forge Mod Loader took 0.000s
-[07:16:52] [Client thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod Forge
-[07:16:52] [Client thread/TRACE] [Forge/Forge]: Sending event IMCEvent to mod Forge
-[07:16:52] [Client thread/TRACE] [Forge/Forge]: Sent event IMCEvent to mod Forge
-[07:16:52] [Client thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Minecraft Forge took 0.000s
-[07:16:52] [Client thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod aetherblock
-[07:16:52] [Client thread/TRACE] [aetherblock/aetherblock]: Sending event IMCEvent to mod aetherblock
-[07:16:52] [Client thread/TRACE] [aetherblock/aetherblock]: Sent event IMCEvent to mod aetherblock
-[07:16:52] [Client thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - AetherBlock took 0.000s
-[07:16:52] [Client thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod mobends
-[07:16:52] [Client thread/TRACE] [mobends/mobends]: Sending event IMCEvent to mod mobends
-[07:16:52] [Client thread/TRACE] [mobends/mobends]: Sent event IMCEvent to mod mobends
-[07:16:52] [Client thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Mo'Bends took 0.000s
-[07:16:52] [Client thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod worldedit
-[07:16:52] [Client thread/TRACE] [worldedit/worldedit]: Sending event IMCEvent to mod worldedit
-[07:16:52] [Client thread/TRACE] [worldedit/worldedit]: Sent event IMCEvent to mod worldedit
-[07:16:52] [Client thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - WorldEdit took 0.000s
-[07:16:52] [Client thread/DEBUG] [FML/]: Bar Finished: InterModComms$IMC took 0.009s
-[07:16:52] [Client thread/INFO] [FML/]: Injecting itemstacks
-[07:16:52] [Client thread/INFO] [FML/]: Itemstack injection complete
-[07:16:52] [Client thread/TRACE] [mcp/mcp]: Sending event FMLPostInitializationEvent to mod mcp
-[07:16:52] [Client thread/TRACE] [mcp/mcp]: Sent event FMLPostInitializationEvent to mod mcp
-[07:16:52] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Minecraft Coder Pack took 0.000s
-[07:16:52] [Client thread/TRACE] [FML/FML]: Sending event FMLPostInitializationEvent to mod FML
-[07:16:52] [Client thread/TRACE] [FML/FML]: Sent event FMLPostInitializationEvent to mod FML
-[07:16:52] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Forge Mod Loader took 0.000s
-[07:16:52] [Client thread/TRACE] [Forge/Forge]: Sending event FMLPostInitializationEvent to mod Forge
-[07:16:52] [Client thread/TRACE] [Forge/Forge]: Sent event FMLPostInitializationEvent to mod Forge
-[07:16:52] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Minecraft Forge took 0.012s
-[07:16:52] [Client thread/TRACE] [aetherblock/aetherblock]: Sending event FMLPostInitializationEvent to mod aetherblock
-[07:16:52] [Client thread/TRACE] [aetherblock/aetherblock]: Sent event FMLPostInitializationEvent to mod aetherblock
-[07:16:52] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - AetherBlock took 0.001s
-[07:16:52] [Client thread/TRACE] [mobends/mobends]: Sending event FMLPostInitializationEvent to mod mobends
-[07:16:52] [Client thread/TRACE] [mobends/mobends]: Sent event FMLPostInitializationEvent to mod mobends
-[07:16:52] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Mo'Bends took 0.001s
-[07:16:52] [Client thread/TRACE] [worldedit/worldedit]: Sending event FMLPostInitializationEvent to mod worldedit
-[07:16:52] [Client thread/INFO] [worldedit/worldedit]: WorldEdit for Forge (version 6.1.2) is loaded
-[07:16:52] [Client thread/TRACE] [worldedit/worldedit]: Sent event FMLPostInitializationEvent to mod worldedit
-[07:16:52] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - WorldEdit took 0.005s
-[07:16:52] [Client thread/DEBUG] [FML/]: Bar Finished: PostInitialization took 0.020s
-[07:16:52] [Client thread/TRACE] [mcp/mcp]: Sending event FMLLoadCompleteEvent to mod mcp
-[07:16:52] [Client thread/TRACE] [mcp/mcp]: Sent event FMLLoadCompleteEvent to mod mcp
-[07:16:52] [Client thread/DEBUG] [FML/]: Bar Step: LoadComplete - Minecraft Coder Pack took 0.000s
-[07:16:52] [Client thread/TRACE] [FML/FML]: Sending event FMLLoadCompleteEvent to mod FML
-[07:16:52] [Client thread/TRACE] [FML/FML]: Sent event FMLLoadCompleteEvent to mod FML
-[07:16:52] [Client thread/DEBUG] [FML/]: Bar Step: LoadComplete - Forge Mod Loader took 0.000s
-[07:16:52] [Client thread/TRACE] [Forge/Forge]: Sending event FMLLoadCompleteEvent to mod Forge
-[07:16:52] [Client thread/DEBUG] [FML/Forge]: Forge RecipeSorter Baking:
-[07:16:52] [Client thread/DEBUG] [FML/Forge]:   16: RecipeEntry("Before", UNKNOWN, )
-[07:16:52] [Client thread/DEBUG] [FML/Forge]:   15: RecipeEntry("minecraft:shaped", SHAPED, net.minecraft.item.crafting.ShapedRecipes) Before: minecraft:shapeless
-[07:16:52] [Client thread/DEBUG] [FML/Forge]:   14: RecipeEntry("forge:shapedore", SHAPED, net.minecraftforge.oredict.ShapedOreRecipe) Before: minecraft:shapeless After: minecraft:shaped
-[07:16:52] [Client thread/DEBUG] [FML/Forge]:   13: RecipeEntry("minecraft:mapextending", SHAPED, net.minecraft.item.crafting.RecipesMapExtending) Before: minecraft:shapeless After: minecraft:shaped
-[07:16:52] [Client thread/DEBUG] [FML/Forge]:   12: RecipeEntry("minecraft:shapeless", SHAPELESS, net.minecraft.item.crafting.ShapelessRecipes) After: minecraft:shaped
-[07:16:52] [Client thread/DEBUG] [FML/Forge]:   11: RecipeEntry("minecraft:repair", SHAPELESS, net.minecraft.item.crafting.RecipeRepairItem) After: minecraft:shapeless
-[07:16:52] [Client thread/DEBUG] [FML/Forge]:   10: RecipeEntry("minecraft:shield_deco", SHAPELESS, net.minecraft.item.crafting.ShieldRecipes$Decoration) After: minecraft:shapeless
-[07:16:52] [Client thread/DEBUG] [FML/Forge]:   9: RecipeEntry("minecraft:armordyes", SHAPELESS, net.minecraft.item.crafting.RecipesArmorDyes) After: minecraft:shapeless
-[07:16:52] [Client thread/DEBUG] [FML/Forge]:   8: RecipeEntry("minecraft:fireworks", SHAPELESS, net.minecraft.item.crafting.RecipeFireworks) After: minecraft:shapeless
-[07:16:52] [Client thread/DEBUG] [FML/Forge]:   7: RecipeEntry("minecraft:pattern_dupe", SHAPELESS, net.minecraft.item.crafting.RecipesBanners$RecipeDuplicatePattern) After: minecraft:shapeless
-[07:16:52] [Client thread/DEBUG] [FML/Forge]:   6: RecipeEntry("minecraft:tippedarrow", SHAPELESS, net.minecraft.item.crafting.RecipeTippedArrow) After: minecraft:shapeless
-[07:16:52] [Client thread/DEBUG] [FML/Forge]:   5: RecipeEntry("minecraft:mapcloning", SHAPELESS, net.minecraft.item.crafting.RecipesMapCloning) After: minecraft:shapeless
-[07:16:52] [Client thread/DEBUG] [FML/Forge]:   4: RecipeEntry("forge:shapelessore", SHAPELESS, net.minecraftforge.oredict.ShapelessOreRecipe) After: minecraft:shapeless
-[07:16:52] [Client thread/DEBUG] [FML/Forge]:   3: RecipeEntry("minecraft:pattern_add", SHAPELESS, net.minecraft.item.crafting.RecipesBanners$RecipeAddPattern) After: minecraft:shapeless
-[07:16:52] [Client thread/DEBUG] [FML/Forge]:   2: RecipeEntry("minecraft:bookcloning", SHAPELESS, net.minecraft.item.crafting.RecipeBookCloning) After: minecraft:shapeless
-[07:16:52] [Client thread/DEBUG] [FML/Forge]:   1: RecipeEntry("After", UNKNOWN, )
-[07:16:52] [Client thread/DEBUG] [FML/Forge]: Sorting recipes
-[07:16:52] [Client thread/TRACE] [Forge/Forge]: Sent event FMLLoadCompleteEvent to mod Forge
-[07:16:52] [Client thread/DEBUG] [FML/]: Bar Step: LoadComplete - Minecraft Forge took 0.010s
-[07:16:52] [Client thread/TRACE] [aetherblock/aetherblock]: Sending event FMLLoadCompleteEvent to mod aetherblock
-[07:16:52] [Client thread/TRACE] [aetherblock/aetherblock]: Sent event FMLLoadCompleteEvent to mod aetherblock
-[07:16:52] [Client thread/DEBUG] [FML/]: Bar Step: LoadComplete - AetherBlock took 0.000s
-[07:16:52] [Client thread/TRACE] [mobends/mobends]: Sending event FMLLoadCompleteEvent to mod mobends
-[07:16:52] [Client thread/TRACE] [mobends/mobends]: Sent event FMLLoadCompleteEvent to mod mobends
-[07:16:52] [Client thread/DEBUG] [FML/]: Bar Step: LoadComplete - Mo'Bends took 0.000s
-[07:16:52] [Client thread/TRACE] [worldedit/worldedit]: Sending event FMLLoadCompleteEvent to mod worldedit
-[07:16:52] [Client thread/TRACE] [worldedit/worldedit]: Sent event FMLLoadCompleteEvent to mod worldedit
-[07:16:52] [Client thread/DEBUG] [FML/]: Bar Step: LoadComplete - WorldEdit took 0.000s
-[07:16:52] [Client thread/DEBUG] [FML/]: Bar Finished: LoadComplete took 0.011s
-[07:16:52] [Client thread/DEBUG] [FML/]: Freezing block and item id maps
-[07:16:52] [Client thread/INFO] [FML/]: Forge Mod Loader has successfully loaded 6 mods
-[07:16:52] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - Default took 0.000s
-[07:16:52] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Forge Mod Loader took 0.001s
-[07:16:52] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Minecraft Forge took 0.001s
-[07:16:52] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:AetherBlock took 0.000s
-[07:16:52] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Mo'Bends took 0.000s
-[07:16:52] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:WorldEdit took 0.001s
-[07:16:52] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - snevypackcherrybloomelytra took 0.002s
-[07:16:52] [Client thread/DEBUG] [FML/]: Bar Step: Reloading Texture Manager - minecraft:textures/atlas/blocks.png took 0.000s
-[07:16:52] [Client thread/DEBUG] [FML/]: Bar Step: Reloading Texture Manager - minecraft:textures/font/ascii.png took 0.007s
-[07:16:52] [Client thread/DEBUG] [FML/]: Bar Step: Reloading Texture Manager - minecraft:dynamic/lightMap_1 took 0.000s
-[07:16:52] [Client thread/DEBUG] [FML/]: Bar Step: Reloading Texture Manager - minecraft:textures/misc/forcefield.png took 0.002s
-[07:16:52] [Client thread/DEBUG] [FML/]: Bar Step: Reloading Texture Manager - minecraft:textures/font/ascii_sga.png took 0.004s
-[07:16:52] [Client thread/DEBUG] [FML/]: Bar Finished: Reloading Texture Manager took 0.014s
-[07:16:57] [Client thread/DEBUG] [FML/]: Bar Finished: ModelLoader: blocks took 2.571s
-[07:16:59] [Client thread/DEBUG] [FML/]: Bar Finished: ModelLoader: items took 1.713s
-[07:16:59] [Client thread/INFO] [FML/]: Max texture size: 8192
-[07:17:00] [Client thread/DEBUG] [FML/]: Bar Finished: Texture stitching took 1.016s
-[07:17:00] [Client thread/DEBUG] [FML/]: Bar Finished: Texture stitching took 0.046s
-[07:17:00] [Client thread/DEBUG] [FML/]: Bar Finished: Texture creation took 0.050s
-[07:17:01] [Client thread/DEBUG] [FML/]: Bar Finished: Texture mipmap and upload took 1.032s
-[07:17:01] [Client thread/DEBUG] [FML/]: Bar Finished: ModelLoader: baking took 0.375s
-[07:17:01] [Client thread/ERROR] [FML/]: Exception loading model for variant aetherblock:invisible_light#normal
-net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model aetherblock:invisible_light#normal with loader VariantLoader.INSTANCE, skipping
-	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:134) ~[ModelLoaderRegistry.class:?]
-	at net.minecraftforge.client.model.ModelLoader.func_177569_a(ModelLoader.java:220) ~[ModelLoader.class:?]
-	at net.minecraft.client.renderer.block.model.ModelBakery.loadBlock(ModelBakery.java:144) ~[bxr.class:?]
-	at net.minecraftforge.client.model.ModelLoader.func_188640_b(ModelLoader.java:208) ~[ModelLoader.class:?]
-	at net.minecraftforge.client.model.ModelLoader.func_177570_a(ModelLoader.java:125) ~[ModelLoader.class:?]
-	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:28) [bxs.class:?]
-	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110544_b(SimpleReloadableResourceManager.java:130) [bwl.class:?]
-	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110541_a(SimpleReloadableResourceManager.java:111) [bwl.class:?]
-	at net.minecraft.client.Minecraft.func_110436_a(Minecraft.java:748) [bcf.class:?]
-	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:323) [FMLClientHandler.class:?]
-	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:513) [bcf.class:?]
-	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:346) [bcf.class:?]
-	at net.minecraft.client.main.Main.main(SourceFile:124) [Main.class:?]
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_491]
-	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_491]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_491]
-	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_491]
-	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
-	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_491]
-	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_491]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_491]
-	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_491]
-	at org.multimc.onesix.OneSixLauncher.launchWithMainClass(OneSixLauncher.java:243) [NewLaunch.jar:?]
-	at org.multimc.onesix.OneSixLauncher.launch(OneSixLauncher.java:278) [NewLaunch.jar:?]
-	at org.multimc.EntryPoint.listen(EntryPoint.java:143) [NewLaunch.jar:?]
-	at org.multimc.EntryPoint.main(EntryPoint.java:34) [NewLaunch.jar:?]
-Caused by: net.minecraft.client.renderer.block.model.ModelBlockDefinition$MissingVariantException
-	at net.minecraft.client.renderer.block.model.ModelBlockDefinition.func_188004_c(ModelBlockDefinition.java:75) ~[bol.class:?]
-	at net.minecraftforge.client.model.ModelLoader$VariantLoader.loadModel(ModelLoader.java:1157) ~[ModelLoader$VariantLoader.class:?]
-	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:130) ~[ModelLoaderRegistry.class:?]
-	... 26 more
-[07:17:01] [Client thread/ERROR] [FML/]: Exception loading blockstate for the variant aetherblock:invisible_light#normal: 
-java.lang.Exception: Could not load model definition for variant aetherblock:invisible_light
-	at net.minecraftforge.client.model.ModelLoader.func_177586_a(ModelLoader.java:253) ~[ModelLoader.class:?]
-	at net.minecraft.client.renderer.block.model.ModelBakery.loadBlock(ModelBakery.java:120) ~[bxr.class:?]
-	at net.minecraftforge.client.model.ModelLoader.func_188640_b(ModelLoader.java:208) ~[ModelLoader.class:?]
-	at net.minecraftforge.client.model.ModelLoader.func_177570_a(ModelLoader.java:125) ~[ModelLoader.class:?]
-	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:28) [bxs.class:?]
-	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110544_b(SimpleReloadableResourceManager.java:130) [bwl.class:?]
-	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110541_a(SimpleReloadableResourceManager.java:111) [bwl.class:?]
-	at net.minecraft.client.Minecraft.func_110436_a(Minecraft.java:748) [bcf.class:?]
-	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:323) [FMLClientHandler.class:?]
-	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:513) [bcf.class:?]
-	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:346) [bcf.class:?]
-	at net.minecraft.client.main.Main.main(SourceFile:124) [Main.class:?]
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_491]
-	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_491]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_491]
-	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_491]
-	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
-	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_491]
-	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_491]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_491]
-	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_491]
-	at org.multimc.onesix.OneSixLauncher.launchWithMainClass(OneSixLauncher.java:243) [NewLaunch.jar:?]
-	at org.multimc.onesix.OneSixLauncher.launch(OneSixLauncher.java:278) [NewLaunch.jar:?]
-	at org.multimc.EntryPoint.listen(EntryPoint.java:143) [NewLaunch.jar:?]
-	at org.multimc.EntryPoint.main(EntryPoint.java:34) [NewLaunch.jar:?]
-Caused by: java.lang.RuntimeException: Encountered an exception when loading model definition of model aetherblock:blockstates/invisible_light.json
-	at net.minecraft.client.renderer.block.model.ModelBakery.func_188632_a(ModelBakery.java:204) ~[bxr.class:?]
-	at net.minecraft.client.renderer.block.model.ModelBakery.func_177586_a(ModelBakery.java:184) ~[bxr.class:?]
-	at net.minecraftforge.client.model.ModelLoader.func_177586_a(ModelLoader.java:249) ~[ModelLoader.class:?]
-	... 25 more
-Caused by: java.io.FileNotFoundException: aetherblock:blockstates/invisible_light.json
-	at net.minecraft.client.resources.FallbackResourceManager.func_135056_b(FallbackResourceManager.java:103) ~[bvz.class:?]
-	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_135056_b(SimpleReloadableResourceManager.java:78) ~[bwl.class:?]
-	at net.minecraft.client.renderer.block.model.ModelBakery.func_188632_a(ModelBakery.java:197) ~[bxr.class:?]
-	at net.minecraft.client.renderer.block.model.ModelBakery.func_177586_a(ModelBakery.java:184) ~[bxr.class:?]
-	at net.minecraftforge.client.model.ModelLoader.func_177586_a(ModelLoader.java:249) ~[ModelLoader.class:?]
-	... 25 more
-[07:17:01] [Client thread/DEBUG] [FML/]: Bar Finished: Reloading took 8.836s
-[07:17:01] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - Reloading listeners took 8.836s
-[07:17:01] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resources took 8.842s
-[07:17:01] [Client thread/DEBUG] [Forge Mod Loader/]: Mod Forge Mod Loader is missing a pack.mcmeta file, substituting a dummy one
-[07:17:01] [Client thread/DEBUG] [Minecraft Forge/]: Mod Minecraft Forge is missing a pack.mcmeta file, substituting a dummy one
-[07:17:01] [Client thread/DEBUG] [AetherBlock/]: Mod AetherBlock is missing a pack.mcmeta file, substituting a dummy one
-[07:17:01] [Client thread/DEBUG] [Mo'Bends/]: Mod Mo'Bends is missing a pack.mcmeta file, substituting a dummy one
-[07:17:01] [Client thread/DEBUG] [WorldEdit/]: Mod WorldEdit is missing a pack.mcmeta file, substituting a dummy one
-[07:17:01] [Client thread/DEBUG] [FML/]: Bar Finished: Loading took 20.133s
-[07:17:18] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerAboutToStartEvent to mod mcp
-[07:17:18] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerAboutToStartEvent to mod mcp
-[07:17:18] [Server thread/DEBUG] [FML/]: Bar Step: ServerAboutToStart - Minecraft Coder Pack took 0.000s
-[07:17:18] [Server thread/TRACE] [FML/FML]: Sending event FMLServerAboutToStartEvent to mod FML
-[07:17:18] [Server thread/TRACE] [FML/FML]: Sent event FMLServerAboutToStartEvent to mod FML
-[07:17:18] [Server thread/DEBUG] [FML/]: Bar Step: ServerAboutToStart - Forge Mod Loader took 0.000s
-[07:17:18] [Server thread/TRACE] [Forge/Forge]: Sending event FMLServerAboutToStartEvent to mod Forge
-[07:17:18] [Server thread/TRACE] [Forge/Forge]: Sent event FMLServerAboutToStartEvent to mod Forge
-[07:17:18] [Server thread/DEBUG] [FML/]: Bar Step: ServerAboutToStart - Minecraft Forge took 0.000s
-[07:17:18] [Server thread/TRACE] [aetherblock/aetherblock]: Sending event FMLServerAboutToStartEvent to mod aetherblock
-[07:17:18] [Server thread/TRACE] [aetherblock/aetherblock]: Sent event FMLServerAboutToStartEvent to mod aetherblock
-[07:17:18] [Server thread/DEBUG] [FML/]: Bar Step: ServerAboutToStart - AetherBlock took 0.000s
-[07:17:18] [Server thread/TRACE] [mobends/mobends]: Sending event FMLServerAboutToStartEvent to mod mobends
-[07:17:18] [Server thread/TRACE] [mobends/mobends]: Sent event FMLServerAboutToStartEvent to mod mobends
-[07:17:18] [Server thread/DEBUG] [FML/]: Bar Step: ServerAboutToStart - Mo'Bends took 0.000s
-[07:17:18] [Server thread/TRACE] [worldedit/worldedit]: Sending event FMLServerAboutToStartEvent to mod worldedit
-[07:17:18] [Server thread/TRACE] [worldedit/worldedit]: Sent event FMLServerAboutToStartEvent to mod worldedit
-[07:17:18] [Server thread/DEBUG] [FML/]: Bar Step: ServerAboutToStart - WorldEdit took 0.359s
-[07:17:18] [Server thread/DEBUG] [FML/]: Bar Finished: ServerAboutToStart took 0.361s
-[07:17:18] [Server thread/INFO] [FML/]: Injecting existing block and item data into this server instance
-[07:17:18] [Server thread/TRACE] [mcp/mcp]: Sending event FMLModIdMappingEvent to mod mcp
-[07:17:18] [Server thread/TRACE] [mcp/mcp]: Sent event FMLModIdMappingEvent to mod mcp
-[07:17:18] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Minecraft Coder Pack took 0.000s
-[07:17:18] [Server thread/TRACE] [FML/FML]: Sending event FMLModIdMappingEvent to mod FML
-[07:17:18] [Server thread/TRACE] [FML/FML]: Sent event FMLModIdMappingEvent to mod FML
-[07:17:18] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Forge Mod Loader took 0.000s
-[07:17:18] [Server thread/TRACE] [Forge/Forge]: Sending event FMLModIdMappingEvent to mod Forge
-[07:17:18] [Server thread/TRACE] [Forge/Forge]: Sent event FMLModIdMappingEvent to mod Forge
-[07:17:18] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Minecraft Forge took 0.002s
-[07:17:18] [Server thread/TRACE] [aetherblock/aetherblock]: Sending event FMLModIdMappingEvent to mod aetherblock
-[07:17:18] [Server thread/TRACE] [aetherblock/aetherblock]: Sent event FMLModIdMappingEvent to mod aetherblock
-[07:17:18] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - AetherBlock took 0.000s
-[07:17:18] [Server thread/TRACE] [mobends/mobends]: Sending event FMLModIdMappingEvent to mod mobends
-[07:17:18] [Server thread/TRACE] [mobends/mobends]: Sent event FMLModIdMappingEvent to mod mobends
-[07:17:18] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Mo'Bends took 0.007s
-[07:17:18] [Server thread/TRACE] [worldedit/worldedit]: Sending event FMLModIdMappingEvent to mod worldedit
-[07:17:18] [Server thread/TRACE] [worldedit/worldedit]: Sent event FMLModIdMappingEvent to mod worldedit
-[07:17:18] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - WorldEdit took 0.001s
-[07:17:18] [Server thread/DEBUG] [FML/]: Bar Finished: ModIdMapping took 0.010s
-[07:17:18] [Server thread/INFO] [FML/]: Applying holder lookups
-[07:17:18] [Server thread/INFO] [FML/]: Holder lookups applied
-[07:17:18] [Server thread/DEBUG] [FML/]: Loading persistent fluid defaults from world
-[07:17:18] [Server thread/DEBUG] [FML/]: The fluid minecraft:lava has been selected as the default fluid for lava
-[07:17:18] [Server thread/DEBUG] [FML/]: The fluid minecraft:water has been selected as the default fluid for water
-[07:17:19] [Server thread/INFO] [FML/]: Loading dimension 0 (Blood v2) (net.minecraft.server.integrated.IntegratedServer@4923d203)
-[07:17:19] [Server thread/INFO] [FML/]: Loading dimension 1 (Blood v2) (net.minecraft.server.integrated.IntegratedServer@4923d203)
-[07:17:19] [Server thread/INFO] [FML/]: Loading dimension -1 (Blood v2) (net.minecraft.server.integrated.IntegratedServer@4923d203)
-[07:17:20] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerStartingEvent to mod mcp
-[07:17:20] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerStartingEvent to mod mcp
-[07:17:20] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarting - Minecraft Coder Pack took 0.000s
-[07:17:20] [Server thread/TRACE] [FML/FML]: Sending event FMLServerStartingEvent to mod FML
-[07:17:20] [Server thread/TRACE] [FML/FML]: Sent event FMLServerStartingEvent to mod FML
-[07:17:20] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarting - Forge Mod Loader took 0.000s
-[07:17:20] [Server thread/TRACE] [Forge/Forge]: Sending event FMLServerStartingEvent to mod Forge
-[07:17:20] [Server thread/TRACE] [Forge/Forge]: Sent event FMLServerStartingEvent to mod Forge
-[07:17:20] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarting - Minecraft Forge took 0.002s
-[07:17:20] [Server thread/TRACE] [aetherblock/aetherblock]: Sending event FMLServerStartingEvent to mod aetherblock
-[07:17:20] [Server thread/TRACE] [aetherblock/aetherblock]: Sent event FMLServerStartingEvent to mod aetherblock
-[07:17:20] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarting - AetherBlock took 0.000s
-[07:17:20] [Server thread/TRACE] [mobends/mobends]: Sending event FMLServerStartingEvent to mod mobends
-[07:17:20] [Server thread/TRACE] [mobends/mobends]: Sent event FMLServerStartingEvent to mod mobends
-[07:17:20] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarting - Mo'Bends took 0.000s
-[07:17:20] [Server thread/TRACE] [worldedit/worldedit]: Sending event FMLServerStartingEvent to mod worldedit
-[07:17:20] [Server thread/TRACE] [worldedit/worldedit]: Sent event FMLServerStartingEvent to mod worldedit
-[07:17:20] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarting - WorldEdit took 0.000s
-[07:17:20] [Server thread/DEBUG] [FML/]: Bar Finished: ServerStarting took 0.003s
-[07:17:20] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerStartedEvent to mod mcp
-[07:17:20] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerStartedEvent to mod mcp
-[07:17:20] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarted - Minecraft Coder Pack took 0.000s
-[07:17:20] [Server thread/TRACE] [FML/FML]: Sending event FMLServerStartedEvent to mod FML
-[07:17:20] [Server thread/TRACE] [FML/FML]: Sent event FMLServerStartedEvent to mod FML
-[07:17:20] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarted - Forge Mod Loader took 0.000s
-[07:17:20] [Server thread/TRACE] [Forge/Forge]: Sending event FMLServerStartedEvent to mod Forge
-[07:17:20] [Server thread/TRACE] [Forge/Forge]: Sent event FMLServerStartedEvent to mod Forge
-[07:17:20] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarted - Minecraft Forge took 0.000s
-[07:17:20] [Server thread/TRACE] [aetherblock/aetherblock]: Sending event FMLServerStartedEvent to mod aetherblock
-[07:17:20] [Server thread/TRACE] [aetherblock/aetherblock]: Sent event FMLServerStartedEvent to mod aetherblock
-[07:17:20] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarted - AetherBlock took 0.000s
-[07:17:20] [Server thread/TRACE] [mobends/mobends]: Sending event FMLServerStartedEvent to mod mobends
-[07:17:20] [Server thread/TRACE] [mobends/mobends]: Sent event FMLServerStartedEvent to mod mobends
-[07:17:20] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarted - Mo'Bends took 0.000s
-[07:17:20] [Server thread/TRACE] [worldedit/worldedit]: Sending event FMLServerStartedEvent to mod worldedit
-[07:17:20] [Server thread/TRACE] [worldedit/worldedit]: Sent event FMLServerStartedEvent to mod worldedit
-[07:17:20] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarted - WorldEdit took 0.006s
-[07:17:20] [Server thread/DEBUG] [FML/]: Bar Finished: ServerStarted took 0.007s
-[07:17:21] [Netty Local Client IO #0/TRACE] [FML/]: Handshake channel activating
-[07:17:21] [Netty Local Client IO #0/DEBUG] [FML/]: FMLHandshakeClientState: null->FMLHandshakeClientState$1:START
-[07:17:21] [Netty Local Client IO #0/DEBUG] [FML/]:   Next: HELLO
-[07:17:21] [Netty Server IO #1/TRACE] [FML/]: Handshake channel activating
-[07:17:21] [Netty Server IO #1/DEBUG] [FML/]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
-[07:17:21] [Netty Server IO #1/DEBUG] [FML/]:   Next: HELLO
-[07:17:21] [Netty Local Client IO #0/DEBUG] [FML/]: Server FML protocol version 2, 4 byte dimension received 0
-[07:17:21] [Netty Local Client IO #0/DEBUG] [FML/]: FMLHandshakeClientState: $ServerHello->FMLHandshakeClientState$2:HELLO
-[07:17:21] [Netty Local Client IO #0/INFO] [FML/]: Server protocol version 2
-[07:17:21] [Netty Local Client IO #0/DEBUG] [FML/]: Received override dimension 0
-[07:17:21] [Netty Server IO #1/DEBUG] [FML/]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
-[07:17:21] [Netty Server IO #1/INFO] [FML/]: Client protocol version 2
-[07:17:21] [Netty Server IO #1/DEBUG] [FML/]:   Next: HELLO
-[07:17:21] [Netty Local Client IO #0/DEBUG] [FML/]:   Next: WAITINGSERVERDATA
-[07:17:21] [Netty Server IO #1/DEBUG] [FML/]: FMLHandshakeServerState: $ModList:6 mods->FMLHandshakeServerState$2:HELLO
-[07:17:21] [Netty Server IO #1/INFO] [FML/]: Client attempting to join with 6 mods : FML@8.0.99.99,worldedit@6.1.2,Forge@12.16.0.1865,mcp@9.19,aetherblock@1.0.2,mobends@0.22.5
-[07:17:21] [Netty Server IO #1/DEBUG] [FML/]:   Next: WAITINGCACK
-[07:17:21] [Netty Local Client IO #0/DEBUG] [FML/]: FMLHandshakeClientState: $ModList:6 mods->FMLHandshakeClientState$3:WAITINGSERVERDATA
-[07:17:21] [Netty Local Client IO #0/DEBUG] [FML/]:   Next: PENDINGCOMPLETE
-[07:17:21] [Netty Server IO #1/DEBUG] [FML/]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
-[07:17:21] [Netty Local Client IO #0/DEBUG] [FML/]: FMLHandshakeClientState: $HandshakeAck:{2}->FMLHandshakeClientState$5:PENDINGCOMPLETE
-[07:17:21] [Netty Local Client IO #0/DEBUG] [FML/]:   Next: COMPLETE
-[07:17:21] [Netty Server IO #1/DEBUG] [FML/]:   Next: COMPLETE
-[07:17:21] [Netty Server IO #1/DEBUG] [FML/]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$4:COMPLETE
-[07:17:21] [Netty Local Client IO #0/DEBUG] [FML/]: The fluid minecraft:lava has been selected as the default fluid for lava
-[07:17:21] [Netty Server IO #1/DEBUG] [FML/]:   Next: DONE
-[07:17:21] [Netty Local Client IO #0/DEBUG] [FML/]: The fluid minecraft:water has been selected as the default fluid for water
-[07:17:21] [Netty Local Client IO #0/DEBUG] [FML/]: FMLHandshakeClientState: $HandshakeAck:{3}->FMLHandshakeClientState$6:COMPLETE
-[07:17:21] [Netty Server IO #1/DEBUG] [FML/]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
-[07:17:21] [Netty Server IO #1/DEBUG] [FML/]:   Next: DONE
-[07:17:21] [Netty Local Client IO #0/DEBUG] [FML/]:   Next: DONE
-[07:17:21] [Netty Local Client IO #0/INFO] [FML/]: [Netty Local Client IO #0] Client side modded connection established
-[07:17:21] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
-[07:17:21] [Client thread/DEBUG] [FML/]: Overriding dimension: using 0
-[07:17:21] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Blood v2
-[07:17:24] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Blood v2
-[07:18:17] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Blood v2
-[07:19:02] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Blood v2
-[07:19:47] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Blood v2
-[07:20:32] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Blood v2
-[07:21:17] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Blood v2
-[07:22:02] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Blood v2
-[07:22:47] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Blood v2
-[07:23:28] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Blood v2
-[07:23:29] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerStoppingEvent to mod mcp
-[07:23:29] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerStoppingEvent to mod mcp
-[07:23:29] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopping - Minecraft Coder Pack took 0.000s
-[07:23:29] [Server thread/TRACE] [FML/FML]: Sending event FMLServerStoppingEvent to mod FML
-[07:23:29] [Server thread/TRACE] [FML/FML]: Sent event FMLServerStoppingEvent to mod FML
-[07:23:29] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopping - Forge Mod Loader took 0.000s
-[07:23:29] [Server thread/TRACE] [Forge/Forge]: Sending event FMLServerStoppingEvent to mod Forge
-[07:23:29] [Server thread/TRACE] [Forge/Forge]: Sent event FMLServerStoppingEvent to mod Forge
-[07:23:29] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopping - Minecraft Forge took 0.000s
-[07:23:29] [Server thread/TRACE] [aetherblock/aetherblock]: Sending event FMLServerStoppingEvent to mod aetherblock
-[07:23:29] [Server thread/TRACE] [aetherblock/aetherblock]: Sent event FMLServerStoppingEvent to mod aetherblock
-[07:23:29] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopping - AetherBlock took 0.000s
-[07:23:29] [Server thread/TRACE] [mobends/mobends]: Sending event FMLServerStoppingEvent to mod mobends
-[07:23:29] [Server thread/TRACE] [mobends/mobends]: Sent event FMLServerStoppingEvent to mod mobends
-[07:23:29] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopping - Mo'Bends took 0.000s
-[07:23:29] [Server thread/TRACE] [worldedit/worldedit]: Sending event FMLServerStoppingEvent to mod worldedit
-[07:23:29] [Server thread/TRACE] [worldedit/worldedit]: Sent event FMLServerStoppingEvent to mod worldedit
-[07:23:29] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopping - WorldEdit took 0.000s
-[07:23:29] [Server thread/DEBUG] [FML/]: Bar Finished: ServerStopping took 0.001s
-[07:23:29] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Blood v2
-[07:23:29] [Server thread/INFO] [FML/]: Unloading dimension 0
-[07:23:29] [Server thread/INFO] [FML/]: Unloading dimension -1
-[07:23:29] [Server thread/INFO] [FML/]: Unloading dimension 1
-[07:23:29] [Server thread/DEBUG] [FML/]: Reverting to frozen data state.
-[07:23:29] [Server thread/TRACE] [mcp/mcp]: Sending event FMLModIdMappingEvent to mod mcp
-[07:23:29] [Server thread/TRACE] [mcp/mcp]: Sent event FMLModIdMappingEvent to mod mcp
-[07:23:29] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Minecraft Coder Pack took 0.000s
-[07:23:29] [Server thread/TRACE] [FML/FML]: Sending event FMLModIdMappingEvent to mod FML
-[07:23:29] [Server thread/TRACE] [FML/FML]: Sent event FMLModIdMappingEvent to mod FML
-[07:23:29] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Forge Mod Loader took 0.003s
-[07:23:29] [Server thread/TRACE] [Forge/Forge]: Sending event FMLModIdMappingEvent to mod Forge
-[07:23:29] [Server thread/TRACE] [Forge/Forge]: Sent event FMLModIdMappingEvent to mod Forge
-[07:23:29] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Minecraft Forge took 0.001s
-[07:23:29] [Server thread/TRACE] [aetherblock/aetherblock]: Sending event FMLModIdMappingEvent to mod aetherblock
-[07:23:29] [Server thread/TRACE] [aetherblock/aetherblock]: Sent event FMLModIdMappingEvent to mod aetherblock
-[07:23:29] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - AetherBlock took 0.000s
-[07:23:29] [Server thread/TRACE] [mobends/mobends]: Sending event FMLModIdMappingEvent to mod mobends
-[07:23:29] [Server thread/TRACE] [mobends/mobends]: Sent event FMLModIdMappingEvent to mod mobends
-[07:23:29] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Mo'Bends took 0.000s
-[07:23:29] [Server thread/TRACE] [worldedit/worldedit]: Sending event FMLModIdMappingEvent to mod worldedit
-[07:23:29] [Server thread/TRACE] [worldedit/worldedit]: Sent event FMLModIdMappingEvent to mod worldedit
-[07:23:29] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - WorldEdit took 0.000s
-[07:23:29] [Server thread/DEBUG] [FML/]: Bar Finished: ModIdMapping took 0.005s
-[07:23:29] [Server thread/INFO] [FML/]: Applying holder lookups
-[07:23:30] [Server thread/INFO] [FML/]: Holder lookups applied
-[07:23:30] [Server thread/DEBUG] [FML/]: Frozen state restored.
-[07:23:30] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerStoppedEvent to mod mcp
-[07:23:30] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerStoppedEvent to mod mcp
-[07:23:30] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - Minecraft Coder Pack took 0.000s
-[07:23:30] [Server thread/TRACE] [FML/FML]: Sending event FMLServerStoppedEvent to mod FML
-[07:23:30] [Server thread/TRACE] [FML/FML]: Sent event FMLServerStoppedEvent to mod FML
-[07:23:30] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - Forge Mod Loader took 0.000s
-[07:23:30] [Server thread/TRACE] [Forge/Forge]: Sending event FMLServerStoppedEvent to mod Forge
-[07:23:30] [Server thread/TRACE] [Forge/Forge]: Sent event FMLServerStoppedEvent to mod Forge
-[07:23:30] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - Minecraft Forge took 0.000s
-[07:23:30] [Server thread/TRACE] [aetherblock/aetherblock]: Sending event FMLServerStoppedEvent to mod aetherblock
-[07:23:30] [Server thread/TRACE] [aetherblock/aetherblock]: Sent event FMLServerStoppedEvent to mod aetherblock
-[07:23:30] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - AetherBlock took 0.000s
-[07:23:30] [Server thread/TRACE] [mobends/mobends]: Sending event FMLServerStoppedEvent to mod mobends
-[07:23:30] [Server thread/TRACE] [mobends/mobends]: Sent event FMLServerStoppedEvent to mod mobends
-[07:23:30] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - Mo'Bends took 0.001s
-[07:23:30] [Server thread/TRACE] [worldedit/worldedit]: Sending event FMLServerStoppedEvent to mod worldedit
-[07:23:30] [Server thread/TRACE] [worldedit/worldedit]: Sent event FMLServerStoppedEvent to mod worldedit
-[07:23:30] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - WorldEdit took 0.000s
-[07:23:30] [Server thread/DEBUG] [FML/]: Bar Finished: ServerStopped took 0.001s
+[08:48:45] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - SoundHandler took 0.845s
+[08:48:45] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - FontRenderer took 0.006s
+[08:48:45] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - FontRenderer took 0.006s
+[08:48:45] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - GrassColorReloadListener took 0.009s
+[08:48:45] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - FoliageColorReloadListener took 0.009s
+[08:48:45] [Client thread/DEBUG] [FML/]: Bar Step: Rendering Setup - GL Setup took 0.001s
+[08:48:45] [Client thread/DEBUG] [FML/]: Bar Step: Rendering Setup - Loading Texture Map took 0.007s
+[08:48:45] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - B3DLoader took 0.000s
+[08:48:45] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - OBJLoader took 0.000s
+[08:48:45] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - ModelFluid$FluidLoader took 0.000s
+[08:48:45] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - ItemLayerModel$Loader took 0.000s
+[08:48:45] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - MultiLayerModel$Loader took 0.000s
+[08:48:45] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - ModelDynBucket$LoaderDynBucket took 0.000s
+[08:48:48] [Client thread/DEBUG] [FML/]: Bar Finished: ModelLoader: blocks took 2.298s
+[08:48:49] [Client thread/DEBUG] [FML/]: Bar Finished: ModelLoader: items took 0.930s
+[08:48:49] [Client thread/INFO] [FML/]: Max texture size: 8192
+[08:48:49] [Client thread/DEBUG] [FML/]: Bar Finished: Texture stitching - missingno took 0.005s
+[08:48:49] [Client thread/DEBUG] [FML/]: Bar Finished: Texture creation took 0.011s
+[08:48:49] [Client thread/DEBUG] [FML/]: Bar Finished: Texture mipmap and upload - missingno took 0.001s
+[08:48:49] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - ModelManager took 3.739s
+[08:48:49] [Client thread/DEBUG] [FML/]: Bar Step: Rendering Setup - Loading Model Manager took 3.823s
+[08:48:49] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - RenderItem took 0.003s
+[08:48:49] [Client thread/DEBUG] [FML/]: Bar Step: Rendering Setup - Loading Item Renderer took 0.220s
+[08:48:49] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - EntityRenderer took 0.000s
+[08:48:49] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - BlockRendererDispatcher took 0.000s
+[08:48:49] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - RenderGlobal took 0.000s
+[08:48:49] [Client thread/DEBUG] [FML/]: Bar Step: Rendering Setup - Loading Entity Renderer took 0.143s
+[08:48:49] [Client thread/DEBUG] [FML/]: Bar Finished: Rendering Setup took 4.194s
+[08:48:49] [Client thread/TRACE] [minecraft/minecraft]: Sending event FMLInitializationEvent to mod minecraft
+[08:48:49] [Client thread/TRACE] [minecraft/minecraft]: Sent event FMLInitializationEvent to mod minecraft
+[08:48:49] [Client thread/DEBUG] [FML/]: Bar Step: Initialization - Minecraft took 0.001s
+[08:48:49] [Client thread/TRACE] [mcp/mcp]: Sending event FMLInitializationEvent to mod mcp
+[08:48:49] [Client thread/TRACE] [mcp/mcp]: Sent event FMLInitializationEvent to mod mcp
+[08:48:49] [Client thread/DEBUG] [FML/]: Bar Step: Initialization - Minecraft Coder Pack took 0.000s
+[08:48:49] [Client thread/TRACE] [FML/FML]: Sending event FMLInitializationEvent to mod FML
+[08:48:49] [Client thread/TRACE] [FML/FML]: Sent event FMLInitializationEvent to mod FML
+[08:48:49] [Client thread/DEBUG] [FML/]: Bar Step: Initialization - Forge Mod Loader took 0.000s
+[08:48:49] [Client thread/TRACE] [forge/forge]: Sending event FMLInitializationEvent to mod forge
+[08:48:49] [Client thread/TRACE] [forge/forge]: Sent event FMLInitializationEvent to mod forge
+[08:48:49] [Client thread/DEBUG] [FML/]: Bar Step: Initialization - Minecraft Forge took 0.000s
+[08:48:49] [Client thread/TRACE] [dynamiclights/dynamiclights]: Sending event FMLInitializationEvent to mod dynamiclights
+[08:48:49] [Client thread/TRACE] [dynamiclights/dynamiclights]: Sent event FMLInitializationEvent to mod dynamiclights
+[08:48:49] [Client thread/DEBUG] [FML/]: Bar Step: Initialization - Dynamic Lights took 0.002s
+[08:48:49] [Client thread/TRACE] [dynamiclights_onfire/dynamiclights_onfire]: Sending event FMLInitializationEvent to mod dynamiclights_onfire
+[08:48:49] [Client thread/TRACE] [dynamiclights_onfire/dynamiclights_onfire]: Sent event FMLInitializationEvent to mod dynamiclights_onfire
+[08:48:49] [Client thread/DEBUG] [FML/]: Bar Step: Initialization - Dynamic Lights on burning took 0.000s
+[08:48:49] [Client thread/TRACE] [dynamiclights_creepers/dynamiclights_creepers]: Sending event FMLInitializationEvent to mod dynamiclights_creepers
+[08:48:49] [Client thread/TRACE] [dynamiclights_creepers/dynamiclights_creepers]: Sent event FMLInitializationEvent to mod dynamiclights_creepers
+[08:48:49] [Client thread/DEBUG] [FML/]: Bar Step: Initialization - Dynamic Lights on Creepers took 0.001s
+[08:48:49] [Client thread/TRACE] [dynamiclights_dropitems/dynamiclights_dropitems]: Sending event FMLInitializationEvent to mod dynamiclights_dropitems
+[08:48:49] [Client thread/TRACE] [dynamiclights_dropitems/dynamiclights_dropitems]: Sent event FMLInitializationEvent to mod dynamiclights_dropitems
+[08:48:49] [Client thread/DEBUG] [FML/]: Bar Step: Initialization - Dynamic Lights on ItemEntities took 0.000s
+[08:48:49] [Client thread/TRACE] [dynamiclights_entityclasses/dynamiclights_entityclasses]: Sending event FMLInitializationEvent to mod dynamiclights_entityclasses
+[08:48:49] [Client thread/TRACE] [dynamiclights_entityclasses/dynamiclights_entityclasses]: Sent event FMLInitializationEvent to mod dynamiclights_entityclasses
+[08:48:49] [Client thread/DEBUG] [FML/]: Bar Step: Initialization - Dynamic Lights on specified Entities took 0.000s
+[08:48:49] [Client thread/TRACE] [dynamiclights_mobequipment/dynamiclights_mobequipment]: Sending event FMLInitializationEvent to mod dynamiclights_mobequipment
+[08:48:49] [Client thread/TRACE] [dynamiclights_mobequipment/dynamiclights_mobequipment]: Sent event FMLInitializationEvent to mod dynamiclights_mobequipment
+[08:48:49] [Client thread/DEBUG] [FML/]: Bar Step: Initialization - Dynamic Lights on Mob Equipment took 0.000s
+[08:48:49] [Client thread/TRACE] [dynamiclights_flamearrows/dynamiclights_flamearrows]: Sending event FMLInitializationEvent to mod dynamiclights_flamearrows
+[08:48:49] [Client thread/TRACE] [dynamiclights_flamearrows/dynamiclights_flamearrows]: Sent event FMLInitializationEvent to mod dynamiclights_flamearrows
+[08:48:49] [Client thread/DEBUG] [FML/]: Bar Step: Initialization - Dynamic Lights on Flame enchanted Arrows took 0.001s
+[08:48:49] [Client thread/TRACE] [dynamiclights_floodlights/dynamiclights_floodlights]: Sending event FMLInitializationEvent to mod dynamiclights_floodlights
+[08:48:49] [Client thread/TRACE] [dynamiclights_floodlights/dynamiclights_floodlights]: Sent event FMLInitializationEvent to mod dynamiclights_floodlights
+[08:48:49] [Client thread/DEBUG] [FML/]: Bar Step: Initialization - Dynamic Lights Flood Light took 0.000s
+[08:48:49] [Client thread/TRACE] [dynamiclights_otherplayers/dynamiclights_otherplayers]: Sending event FMLInitializationEvent to mod dynamiclights_otherplayers
+[08:48:49] [Client thread/TRACE] [dynamiclights_otherplayers/dynamiclights_otherplayers]: Sent event FMLInitializationEvent to mod dynamiclights_otherplayers
+[08:48:49] [Client thread/DEBUG] [FML/]: Bar Step: Initialization - Dynamic Lights Other Player Light took 0.000s
+[08:48:49] [Client thread/TRACE] [dynamiclights_theplayer/dynamiclights_theplayer]: Sending event FMLInitializationEvent to mod dynamiclights_theplayer
+[08:48:49] [Client thread/TRACE] [dynamiclights_theplayer/dynamiclights_theplayer]: Sent event FMLInitializationEvent to mod dynamiclights_theplayer
+[08:48:49] [Client thread/DEBUG] [FML/]: Bar Step: Initialization - Dynamic Lights Player Light took 0.000s
+[08:48:49] [Client thread/TRACE] [mobends/mobends]: Sending event FMLInitializationEvent to mod mobends
+[08:48:51] [Client thread/TRACE] [mobends/mobends]: Sent event FMLInitializationEvent to mod mobends
+[08:48:51] [Client thread/DEBUG] [FML/]: Bar Step: Initialization - Mo'Bends took 2.013s
+[08:48:51] [Client thread/TRACE] [worldedit/worldedit]: Sending event FMLInitializationEvent to mod worldedit
+[08:48:51] [Client thread/TRACE] [worldedit/worldedit]: Sent event FMLInitializationEvent to mod worldedit
+[08:48:51] [Client thread/DEBUG] [FML/]: Bar Step: Initialization - WorldEdit took 0.037s
+[08:48:51] [Client thread/DEBUG] [FML/]: Bar Finished: Initialization took 2.058s
+[08:48:51] [Client thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod minecraft
+[08:48:51] [Client thread/TRACE] [minecraft/minecraft]: Sending event IMCEvent to mod minecraft
+[08:48:51] [Client thread/TRACE] [minecraft/minecraft]: Sent event IMCEvent to mod minecraft
+[08:48:51] [Client thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Minecraft took 0.007s
+[08:48:51] [Client thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod mcp
+[08:48:51] [Client thread/TRACE] [mcp/mcp]: Sending event IMCEvent to mod mcp
+[08:48:51] [Client thread/TRACE] [mcp/mcp]: Sent event IMCEvent to mod mcp
+[08:48:51] [Client thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Minecraft Coder Pack took 0.000s
+[08:48:51] [Client thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod FML
+[08:48:51] [Client thread/TRACE] [FML/FML]: Sending event IMCEvent to mod FML
+[08:48:51] [Client thread/TRACE] [FML/FML]: Sent event IMCEvent to mod FML
+[08:48:51] [Client thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Forge Mod Loader took 0.000s
+[08:48:51] [Client thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod forge
+[08:48:51] [Client thread/TRACE] [forge/forge]: Sending event IMCEvent to mod forge
+[08:48:51] [Client thread/TRACE] [forge/forge]: Sent event IMCEvent to mod forge
+[08:48:51] [Client thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Minecraft Forge took 0.000s
+[08:48:51] [Client thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod dynamiclights
+[08:48:51] [Client thread/TRACE] [dynamiclights/dynamiclights]: Sending event IMCEvent to mod dynamiclights
+[08:48:51] [Client thread/TRACE] [dynamiclights/dynamiclights]: Sent event IMCEvent to mod dynamiclights
+[08:48:51] [Client thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Dynamic Lights took 0.000s
+[08:48:51] [Client thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod dynamiclights_onfire
+[08:48:51] [Client thread/TRACE] [dynamiclights_onfire/dynamiclights_onfire]: Sending event IMCEvent to mod dynamiclights_onfire
+[08:48:51] [Client thread/TRACE] [dynamiclights_onfire/dynamiclights_onfire]: Sent event IMCEvent to mod dynamiclights_onfire
+[08:48:51] [Client thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Dynamic Lights on burning took 0.000s
+[08:48:51] [Client thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod dynamiclights_creepers
+[08:48:51] [Client thread/TRACE] [dynamiclights_creepers/dynamiclights_creepers]: Sending event IMCEvent to mod dynamiclights_creepers
+[08:48:51] [Client thread/TRACE] [dynamiclights_creepers/dynamiclights_creepers]: Sent event IMCEvent to mod dynamiclights_creepers
+[08:48:51] [Client thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Dynamic Lights on Creepers took 0.000s
+[08:48:51] [Client thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod dynamiclights_dropitems
+[08:48:51] [Client thread/TRACE] [dynamiclights_dropitems/dynamiclights_dropitems]: Sending event IMCEvent to mod dynamiclights_dropitems
+[08:48:51] [Client thread/TRACE] [dynamiclights_dropitems/dynamiclights_dropitems]: Sent event IMCEvent to mod dynamiclights_dropitems
+[08:48:51] [Client thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Dynamic Lights on ItemEntities took 0.000s
+[08:48:51] [Client thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod dynamiclights_entityclasses
+[08:48:51] [Client thread/TRACE] [dynamiclights_entityclasses/dynamiclights_entityclasses]: Sending event IMCEvent to mod dynamiclights_entityclasses
+[08:48:51] [Client thread/TRACE] [dynamiclights_entityclasses/dynamiclights_entityclasses]: Sent event IMCEvent to mod dynamiclights_entityclasses
+[08:48:51] [Client thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Dynamic Lights on specified Entities took 0.000s
+[08:48:51] [Client thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod dynamiclights_mobequipment
+[08:48:51] [Client thread/TRACE] [dynamiclights_mobequipment/dynamiclights_mobequipment]: Sending event IMCEvent to mod dynamiclights_mobequipment
+[08:48:51] [Client thread/TRACE] [dynamiclights_mobequipment/dynamiclights_mobequipment]: Sent event IMCEvent to mod dynamiclights_mobequipment
+[08:48:51] [Client thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Dynamic Lights on Mob Equipment took 0.000s
+[08:48:51] [Client thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod dynamiclights_flamearrows
+[08:48:51] [Client thread/TRACE] [dynamiclights_flamearrows/dynamiclights_flamearrows]: Sending event IMCEvent to mod dynamiclights_flamearrows
+[08:48:51] [Client thread/TRACE] [dynamiclights_flamearrows/dynamiclights_flamearrows]: Sent event IMCEvent to mod dynamiclights_flamearrows
+[08:48:51] [Client thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Dynamic Lights on Flame enchanted Arrows took 0.000s
+[08:48:51] [Client thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod dynamiclights_floodlights
+[08:48:51] [Client thread/TRACE] [dynamiclights_floodlights/dynamiclights_floodlights]: Sending event IMCEvent to mod dynamiclights_floodlights
+[08:48:51] [Client thread/TRACE] [dynamiclights_floodlights/dynamiclights_floodlights]: Sent event IMCEvent to mod dynamiclights_floodlights
+[08:48:51] [Client thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Dynamic Lights Flood Light took 0.000s
+[08:48:51] [Client thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod dynamiclights_otherplayers
+[08:48:51] [Client thread/TRACE] [dynamiclights_otherplayers/dynamiclights_otherplayers]: Sending event IMCEvent to mod dynamiclights_otherplayers
+[08:48:51] [Client thread/TRACE] [dynamiclights_otherplayers/dynamiclights_otherplayers]: Sent event IMCEvent to mod dynamiclights_otherplayers
+[08:48:51] [Client thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Dynamic Lights Other Player Light took 0.000s
+[08:48:51] [Client thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod dynamiclights_theplayer
+[08:48:51] [Client thread/TRACE] [dynamiclights_theplayer/dynamiclights_theplayer]: Sending event IMCEvent to mod dynamiclights_theplayer
+[08:48:51] [Client thread/TRACE] [dynamiclights_theplayer/dynamiclights_theplayer]: Sent event IMCEvent to mod dynamiclights_theplayer
+[08:48:51] [Client thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Dynamic Lights Player Light took 0.000s
+[08:48:51] [Client thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod mobends
+[08:48:51] [Client thread/TRACE] [mobends/mobends]: Sending event IMCEvent to mod mobends
+[08:48:51] [Client thread/TRACE] [mobends/mobends]: Sent event IMCEvent to mod mobends
+[08:48:51] [Client thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Mo'Bends took 0.000s
+[08:48:51] [Client thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod worldedit
+[08:48:51] [Client thread/TRACE] [worldedit/worldedit]: Sending event IMCEvent to mod worldedit
+[08:48:51] [Client thread/TRACE] [worldedit/worldedit]: Sent event IMCEvent to mod worldedit
+[08:48:51] [Client thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - WorldEdit took 0.000s
+[08:48:51] [Client thread/DEBUG] [FML/]: Bar Finished: InterModComms$IMC took 0.010s
+[08:48:51] [Client thread/INFO] [FML/]: Injecting itemstacks
+[08:48:51] [Client thread/INFO] [FML/]: Itemstack injection complete
+[08:48:51] [Client thread/TRACE] [minecraft/minecraft]: Sending event FMLPostInitializationEvent to mod minecraft
+[08:48:51] [Client thread/TRACE] [minecraft/minecraft]: Sent event FMLPostInitializationEvent to mod minecraft
+[08:48:51] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Minecraft took 0.000s
+[08:48:51] [Client thread/TRACE] [mcp/mcp]: Sending event FMLPostInitializationEvent to mod mcp
+[08:48:51] [Client thread/TRACE] [mcp/mcp]: Sent event FMLPostInitializationEvent to mod mcp
+[08:48:51] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Minecraft Coder Pack took 0.001s
+[08:48:51] [Client thread/TRACE] [FML/FML]: Sending event FMLPostInitializationEvent to mod FML
+[08:48:51] [Client thread/TRACE] [FML/FML]: Sent event FMLPostInitializationEvent to mod FML
+[08:48:51] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Forge Mod Loader took 0.000s
+[08:48:51] [Client thread/TRACE] [forge/forge]: Sending event FMLPostInitializationEvent to mod forge
+[08:48:51] [Client thread/TRACE] [forge/forge]: Sent event FMLPostInitializationEvent to mod forge
+[08:48:51] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Minecraft Forge took 0.015s
+[08:48:51] [Client thread/TRACE] [dynamiclights/dynamiclights]: Sending event FMLPostInitializationEvent to mod dynamiclights
+[08:48:51] [Client thread/TRACE] [dynamiclights/dynamiclights]: Sent event FMLPostInitializationEvent to mod dynamiclights
+[08:48:51] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Dynamic Lights took 0.000s
+[08:48:51] [Client thread/TRACE] [dynamiclights_onfire/dynamiclights_onfire]: Sending event FMLPostInitializationEvent to mod dynamiclights_onfire
+[08:48:51] [Client thread/TRACE] [dynamiclights_onfire/dynamiclights_onfire]: Sent event FMLPostInitializationEvent to mod dynamiclights_onfire
+[08:48:51] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Dynamic Lights on burning took 0.000s
+[08:48:51] [Client thread/TRACE] [dynamiclights_creepers/dynamiclights_creepers]: Sending event FMLPostInitializationEvent to mod dynamiclights_creepers
+[08:48:51] [Client thread/TRACE] [dynamiclights_creepers/dynamiclights_creepers]: Sent event FMLPostInitializationEvent to mod dynamiclights_creepers
+[08:48:51] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Dynamic Lights on Creepers took 0.000s
+[08:48:51] [Client thread/TRACE] [dynamiclights_dropitems/dynamiclights_dropitems]: Sending event FMLPostInitializationEvent to mod dynamiclights_dropitems
+[08:48:51] [Client thread/TRACE] [dynamiclights_dropitems/dynamiclights_dropitems]: Sent event FMLPostInitializationEvent to mod dynamiclights_dropitems
+[08:48:51] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Dynamic Lights on ItemEntities took 0.005s
+[08:48:51] [Client thread/TRACE] [dynamiclights_entityclasses/dynamiclights_entityclasses]: Sending event FMLPostInitializationEvent to mod dynamiclights_entityclasses
+[08:48:51] [Client thread/TRACE] [dynamiclights_entityclasses/dynamiclights_entityclasses]: Sent event FMLPostInitializationEvent to mod dynamiclights_entityclasses
+[08:48:51] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Dynamic Lights on specified Entities took 0.000s
+[08:48:51] [Client thread/TRACE] [dynamiclights_mobequipment/dynamiclights_mobequipment]: Sending event FMLPostInitializationEvent to mod dynamiclights_mobequipment
+[08:48:51] [Client thread/TRACE] [dynamiclights_mobequipment/dynamiclights_mobequipment]: Sent event FMLPostInitializationEvent to mod dynamiclights_mobequipment
+[08:48:51] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Dynamic Lights on Mob Equipment took 0.002s
+[08:48:51] [Client thread/TRACE] [dynamiclights_flamearrows/dynamiclights_flamearrows]: Sending event FMLPostInitializationEvent to mod dynamiclights_flamearrows
+[08:48:51] [Client thread/TRACE] [dynamiclights_flamearrows/dynamiclights_flamearrows]: Sent event FMLPostInitializationEvent to mod dynamiclights_flamearrows
+[08:48:51] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Dynamic Lights on Flame enchanted Arrows took 0.000s
+[08:48:51] [Client thread/TRACE] [dynamiclights_floodlights/dynamiclights_floodlights]: Sending event FMLPostInitializationEvent to mod dynamiclights_floodlights
+[08:48:51] [Client thread/TRACE] [dynamiclights_floodlights/dynamiclights_floodlights]: Sent event FMLPostInitializationEvent to mod dynamiclights_floodlights
+[08:48:51] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Dynamic Lights Flood Light took 0.002s
+[08:48:51] [Client thread/TRACE] [dynamiclights_otherplayers/dynamiclights_otherplayers]: Sending event FMLPostInitializationEvent to mod dynamiclights_otherplayers
+[08:48:51] [Client thread/TRACE] [dynamiclights_otherplayers/dynamiclights_otherplayers]: Sent event FMLPostInitializationEvent to mod dynamiclights_otherplayers
+[08:48:51] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Dynamic Lights Other Player Light took 0.002s
+[08:48:51] [Client thread/TRACE] [dynamiclights_theplayer/dynamiclights_theplayer]: Sending event FMLPostInitializationEvent to mod dynamiclights_theplayer
+[08:48:51] [Client thread/TRACE] [dynamiclights_theplayer/dynamiclights_theplayer]: Sent event FMLPostInitializationEvent to mod dynamiclights_theplayer
+[08:48:51] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Dynamic Lights Player Light took 0.002s
+[08:48:51] [Client thread/TRACE] [mobends/mobends]: Sending event FMLPostInitializationEvent to mod mobends
+[08:48:51] [Client thread/TRACE] [mobends/mobends]: Sent event FMLPostInitializationEvent to mod mobends
+[08:48:51] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Mo'Bends took 0.002s
+[08:48:51] [Client thread/TRACE] [worldedit/worldedit]: Sending event FMLPostInitializationEvent to mod worldedit
+[08:48:51] [Client thread/INFO] [worldedit/worldedit]: WorldEdit for Forge (version 6.1.6) is loaded
+[08:48:51] [Client thread/TRACE] [worldedit/worldedit]: Sent event FMLPostInitializationEvent to mod worldedit
+[08:48:51] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - WorldEdit took 0.008s
+[08:48:51] [Client thread/DEBUG] [FML/]: Bar Finished: PostInitialization took 0.041s
+[08:48:51] [Client thread/TRACE] [minecraft/minecraft]: Sending event FMLLoadCompleteEvent to mod minecraft
+[08:48:51] [Client thread/TRACE] [minecraft/minecraft]: Sent event FMLLoadCompleteEvent to mod minecraft
+[08:48:51] [Client thread/DEBUG] [FML/]: Bar Step: LoadComplete - Minecraft took 0.000s
+[08:48:51] [Client thread/TRACE] [mcp/mcp]: Sending event FMLLoadCompleteEvent to mod mcp
+[08:48:51] [Client thread/TRACE] [mcp/mcp]: Sent event FMLLoadCompleteEvent to mod mcp
+[08:48:51] [Client thread/DEBUG] [FML/]: Bar Step: LoadComplete - Minecraft Coder Pack took 0.000s
+[08:48:51] [Client thread/TRACE] [FML/FML]: Sending event FMLLoadCompleteEvent to mod FML
+[08:48:51] [Client thread/TRACE] [FML/FML]: Sent event FMLLoadCompleteEvent to mod FML
+[08:48:51] [Client thread/DEBUG] [FML/]: Bar Step: LoadComplete - Forge Mod Loader took 0.000s
+[08:48:51] [Client thread/TRACE] [forge/forge]: Sending event FMLLoadCompleteEvent to mod forge
+[08:48:51] [Client thread/DEBUG] [FML/forge]: Forge RecipeSorter Baking:
+[08:48:51] [Client thread/DEBUG] [FML/forge]:   16: RecipeEntry("Before", UNKNOWN, )
+[08:48:51] [Client thread/DEBUG] [FML/forge]:   15: RecipeEntry("minecraft:shaped", SHAPED, net.minecraft.item.crafting.ShapedRecipes) Before: minecraft:shapeless
+[08:48:51] [Client thread/DEBUG] [FML/forge]:   14: RecipeEntry("forge:shapedore", SHAPED, net.minecraftforge.oredict.ShapedOreRecipe) Before: minecraft:shapeless After: minecraft:shaped
+[08:48:51] [Client thread/DEBUG] [FML/forge]:   13: RecipeEntry("minecraft:mapextending", SHAPED, net.minecraft.item.crafting.RecipesMapExtending) Before: minecraft:shapeless After: minecraft:shaped
+[08:48:51] [Client thread/DEBUG] [FML/forge]:   12: RecipeEntry("minecraft:shapeless", SHAPELESS, net.minecraft.item.crafting.ShapelessRecipes) After: minecraft:shaped
+[08:48:51] [Client thread/DEBUG] [FML/forge]:   11: RecipeEntry("minecraft:repair", SHAPELESS, net.minecraft.item.crafting.RecipeRepairItem) After: minecraft:shapeless
+[08:48:51] [Client thread/DEBUG] [FML/forge]:   10: RecipeEntry("minecraft:shield_deco", SHAPELESS, net.minecraft.item.crafting.ShieldRecipes$Decoration) After: minecraft:shapeless
+[08:48:51] [Client thread/DEBUG] [FML/forge]:   9: RecipeEntry("minecraft:armordyes", SHAPELESS, net.minecraft.item.crafting.RecipesArmorDyes) After: minecraft:shapeless
+[08:48:51] [Client thread/DEBUG] [FML/forge]:   8: RecipeEntry("minecraft:fireworks", SHAPELESS, net.minecraft.item.crafting.RecipeFireworks) After: minecraft:shapeless
+[08:48:51] [Client thread/DEBUG] [FML/forge]:   7: RecipeEntry("minecraft:pattern_dupe", SHAPELESS, net.minecraft.item.crafting.RecipesBanners$RecipeDuplicatePattern) After: minecraft:shapeless
+[08:48:51] [Client thread/DEBUG] [FML/forge]:   6: RecipeEntry("minecraft:tippedarrow", SHAPELESS, net.minecraft.item.crafting.RecipeTippedArrow) After: minecraft:shapeless
+[08:48:51] [Client thread/DEBUG] [FML/forge]:   5: RecipeEntry("minecraft:mapcloning", SHAPELESS, net.minecraft.item.crafting.RecipesMapCloning) After: minecraft:shapeless
+[08:48:51] [Client thread/DEBUG] [FML/forge]:   4: RecipeEntry("forge:shapelessore", SHAPELESS, net.minecraftforge.oredict.ShapelessOreRecipe) After: minecraft:shapeless
+[08:48:51] [Client thread/DEBUG] [FML/forge]:   3: RecipeEntry("minecraft:pattern_add", SHAPELESS, net.minecraft.item.crafting.RecipesBanners$RecipeAddPattern) After: minecraft:shapeless
+[08:48:51] [Client thread/DEBUG] [FML/forge]:   2: RecipeEntry("minecraft:bookcloning", SHAPELESS, net.minecraft.item.crafting.RecipeBookCloning) After: minecraft:shapeless
+[08:48:51] [Client thread/DEBUG] [FML/forge]:   1: RecipeEntry("After", UNKNOWN, )
+[08:48:51] [Client thread/DEBUG] [FML/forge]: Sorting recipes
+[08:48:51] [Client thread/TRACE] [forge/forge]: Sent event FMLLoadCompleteEvent to mod forge
+[08:48:51] [Client thread/DEBUG] [FML/]: Bar Step: LoadComplete - Minecraft Forge took 0.011s
+[08:48:51] [Client thread/TRACE] [dynamiclights/dynamiclights]: Sending event FMLLoadCompleteEvent to mod dynamiclights
+[08:48:51] [Client thread/TRACE] [dynamiclights/dynamiclights]: Sent event FMLLoadCompleteEvent to mod dynamiclights
+[08:48:51] [Client thread/DEBUG] [FML/]: Bar Step: LoadComplete - Dynamic Lights took 0.000s
+[08:48:51] [Client thread/TRACE] [dynamiclights_onfire/dynamiclights_onfire]: Sending event FMLLoadCompleteEvent to mod dynamiclights_onfire
+[08:48:51] [Client thread/TRACE] [dynamiclights_onfire/dynamiclights_onfire]: Sent event FMLLoadCompleteEvent to mod dynamiclights_onfire
+[08:48:51] [Client thread/DEBUG] [FML/]: Bar Step: LoadComplete - Dynamic Lights on burning took 0.000s
+[08:48:51] [Client thread/TRACE] [dynamiclights_creepers/dynamiclights_creepers]: Sending event FMLLoadCompleteEvent to mod dynamiclights_creepers
+[08:48:51] [Client thread/TRACE] [dynamiclights_creepers/dynamiclights_creepers]: Sent event FMLLoadCompleteEvent to mod dynamiclights_creepers
+[08:48:51] [Client thread/DEBUG] [FML/]: Bar Step: LoadComplete - Dynamic Lights on Creepers took 0.000s
+[08:48:51] [Client thread/TRACE] [dynamiclights_dropitems/dynamiclights_dropitems]: Sending event FMLLoadCompleteEvent to mod dynamiclights_dropitems
+[08:48:51] [Client thread/TRACE] [dynamiclights_dropitems/dynamiclights_dropitems]: Sent event FMLLoadCompleteEvent to mod dynamiclights_dropitems
+[08:48:51] [Client thread/DEBUG] [FML/]: Bar Step: LoadComplete - Dynamic Lights on ItemEntities took 0.000s
+[08:48:51] [Client thread/TRACE] [dynamiclights_entityclasses/dynamiclights_entityclasses]: Sending event FMLLoadCompleteEvent to mod dynamiclights_entityclasses
+[08:48:51] [Client thread/TRACE] [dynamiclights_entityclasses/dynamiclights_entityclasses]: Sent event FMLLoadCompleteEvent to mod dynamiclights_entityclasses
+[08:48:51] [Client thread/DEBUG] [FML/]: Bar Step: LoadComplete - Dynamic Lights on specified Entities took 0.000s
+[08:48:51] [Client thread/TRACE] [dynamiclights_mobequipment/dynamiclights_mobequipment]: Sending event FMLLoadCompleteEvent to mod dynamiclights_mobequipment
+[08:48:51] [Client thread/TRACE] [dynamiclights_mobequipment/dynamiclights_mobequipment]: Sent event FMLLoadCompleteEvent to mod dynamiclights_mobequipment
+[08:48:51] [Client thread/DEBUG] [FML/]: Bar Step: LoadComplete - Dynamic Lights on Mob Equipment took 0.000s
+[08:48:51] [Client thread/TRACE] [dynamiclights_flamearrows/dynamiclights_flamearrows]: Sending event FMLLoadCompleteEvent to mod dynamiclights_flamearrows
+[08:48:51] [Client thread/TRACE] [dynamiclights_flamearrows/dynamiclights_flamearrows]: Sent event FMLLoadCompleteEvent to mod dynamiclights_flamearrows
+[08:48:51] [Client thread/DEBUG] [FML/]: Bar Step: LoadComplete - Dynamic Lights on Flame enchanted Arrows took 0.000s
+[08:48:51] [Client thread/TRACE] [dynamiclights_floodlights/dynamiclights_floodlights]: Sending event FMLLoadCompleteEvent to mod dynamiclights_floodlights
+[08:48:51] [Client thread/TRACE] [dynamiclights_floodlights/dynamiclights_floodlights]: Sent event FMLLoadCompleteEvent to mod dynamiclights_floodlights
+[08:48:51] [Client thread/DEBUG] [FML/]: Bar Step: LoadComplete - Dynamic Lights Flood Light took 0.000s
+[08:48:51] [Client thread/TRACE] [dynamiclights_otherplayers/dynamiclights_otherplayers]: Sending event FMLLoadCompleteEvent to mod dynamiclights_otherplayers
+[08:48:51] [Client thread/TRACE] [dynamiclights_otherplayers/dynamiclights_otherplayers]: Sent event FMLLoadCompleteEvent to mod dynamiclights_otherplayers
+[08:48:51] [Client thread/DEBUG] [FML/]: Bar Step: LoadComplete - Dynamic Lights Other Player Light took 0.000s
+[08:48:51] [Client thread/TRACE] [dynamiclights_theplayer/dynamiclights_theplayer]: Sending event FMLLoadCompleteEvent to mod dynamiclights_theplayer
+[08:48:51] [Client thread/TRACE] [dynamiclights_theplayer/dynamiclights_theplayer]: Sent event FMLLoadCompleteEvent to mod dynamiclights_theplayer
+[08:48:51] [Client thread/DEBUG] [FML/]: Bar Step: LoadComplete - Dynamic Lights Player Light took 0.003s
+[08:48:51] [Client thread/TRACE] [mobends/mobends]: Sending event FMLLoadCompleteEvent to mod mobends
+[08:48:51] [Client thread/TRACE] [mobends/mobends]: Sent event FMLLoadCompleteEvent to mod mobends
+[08:48:51] [Client thread/DEBUG] [FML/]: Bar Step: LoadComplete - Mo'Bends took 0.000s
+[08:48:51] [Client thread/TRACE] [worldedit/worldedit]: Sending event FMLLoadCompleteEvent to mod worldedit
+[08:48:51] [Client thread/TRACE] [worldedit/worldedit]: Sent event FMLLoadCompleteEvent to mod worldedit
+[08:48:51] [Client thread/DEBUG] [FML/]: Bar Step: LoadComplete - WorldEdit took 0.000s
+[08:48:51] [Client thread/DEBUG] [FML/]: Bar Finished: LoadComplete took 0.016s
+[08:48:51] [Client thread/DEBUG] [FML/]: Freezing block and item id maps
+[08:48:51] [Client thread/INFO] [FML/]: Forge Mod Loader has successfully loaded 16 mods
+[08:48:51] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - Default took 0.000s
+[08:48:51] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Forge Mod Loader took 0.001s
+[08:48:51] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Minecraft Forge took 0.002s
+[08:48:51] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Dynamic Lights took 0.000s
+[08:48:51] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Dynamic Lights on burning took 0.000s
+[08:48:51] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Dynamic Lights on Creepers took 0.000s
+[08:48:51] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Dynamic Lights on ItemEntities took 0.000s
+[08:48:51] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Dynamic Lights on specified Entities took 0.000s
+[08:48:51] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Dynamic Lights on Mob Equipment took 0.000s
+[08:48:51] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Dynamic Lights on Flame enchanted Arrows took 0.000s
+[08:48:51] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Dynamic Lights Flood Light took 0.000s
+[08:48:51] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Dynamic Lights Other Player Light took 0.000s
+[08:48:51] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Dynamic Lights Player Light took 0.000s
+[08:48:51] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Mo'Bends took 0.002s
+[08:48:51] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:WorldEdit took 0.001s
+[08:48:51] [Client thread/DEBUG] [FML/]: Bar Step: Reloading Texture Manager - minecraft:textures/atlas/blocks.png took 0.000s
+[08:48:51] [Client thread/DEBUG] [FML/]: Bar Step: Reloading Texture Manager - minecraft:textures/font/ascii.png took 0.006s
+[08:48:51] [Client thread/DEBUG] [FML/]: Bar Step: Reloading Texture Manager - mobends:bendspackthumbnails/funatparties took 0.001s
+[08:48:51] [Client thread/DEBUG] [FML/]: Bar Step: Reloading Texture Manager - minecraft:textures/misc/forcefield.png took 0.029s
+[08:48:51] [Client thread/DEBUG] [FML/]: Bar Step: Reloading Texture Manager - minecraft:dynamic/lightmap_1 took 0.001s
+[08:48:51] [Client thread/DEBUG] [FML/]: Bar Step: Reloading Texture Manager - mobends:bendspackthumbnails/levitation took 0.002s
+[08:48:51] [Client thread/DEBUG] [FML/]: Bar Step: Reloading Texture Manager - minecraft:textures/font/ascii_sga.png took 0.007s
+[08:48:51] [Client thread/DEBUG] [FML/]: Bar Finished: Reloading Texture Manager took 0.047s
+[08:48:54] [Client thread/DEBUG] [FML/]: Bar Finished: ModelLoader: blocks took 1.823s
+[08:48:55] [Client thread/DEBUG] [FML/]: Bar Finished: ModelLoader: items took 0.915s
+[08:48:55] [Client thread/INFO] [FML/]: Max texture size: 8192
+[08:48:57] [Client thread/DEBUG] [FML/]: Bar Finished: Texture stitching took 1.929s
+[08:48:57] [Client thread/DEBUG] [FML/]: Bar Finished: Texture stitching took 0.020s
+[08:48:57] [Client thread/DEBUG] [FML/]: Bar Finished: Texture creation took 0.023s
+[08:48:58] [Client thread/DEBUG] [FML/]: Bar Finished: Texture mipmap and upload took 1.364s
+[08:49:00] [Client thread/DEBUG] [FML/]: Bar Finished: ModelLoader: baking took 1.322s
+[08:49:00] [Client thread/DEBUG] [FML/]: Bar Finished: Reloading took 8.341s
+[08:49:00] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - Reloading listeners took 8.342s
+[08:49:00] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resources took 8.349s
+[08:49:00] [Client thread/DEBUG] [Forge Mod Loader/]: Mod Forge Mod Loader is missing a pack.mcmeta file, substituting a dummy one
+[08:49:00] [Client thread/DEBUG] [Minecraft Forge/]: Mod Minecraft Forge is missing a pack.mcmeta file, substituting a dummy one
+[08:49:00] [Client thread/DEBUG] [Dynamic Lights/]: Mod Dynamic Lights is missing a pack.mcmeta file, substituting a dummy one
+[08:49:00] [Client thread/DEBUG] [Dynamic Lights on burning/]: Mod Dynamic Lights on burning is missing a pack.mcmeta file, substituting a dummy one
+[08:49:00] [Client thread/DEBUG] [Dynamic Lights on Creepers/]: Mod Dynamic Lights on Creepers is missing a pack.mcmeta file, substituting a dummy one
+[08:49:00] [Client thread/DEBUG] [Dynamic Lights on ItemEntities/]: Mod Dynamic Lights on ItemEntities is missing a pack.mcmeta file, substituting a dummy one
+[08:49:00] [Client thread/DEBUG] [Dynamic Lights on specified Entities/]: Mod Dynamic Lights on specified Entities is missing a pack.mcmeta file, substituting a dummy one
+[08:49:00] [Client thread/DEBUG] [Dynamic Lights on Mob Equipment/]: Mod Dynamic Lights on Mob Equipment is missing a pack.mcmeta file, substituting a dummy one
+[08:49:00] [Client thread/DEBUG] [Dynamic Lights on Flame enchanted Arrows/]: Mod Dynamic Lights on Flame enchanted Arrows is missing a pack.mcmeta file, substituting a dummy one
+[08:49:00] [Client thread/DEBUG] [Dynamic Lights Flood Light/]: Mod Dynamic Lights Flood Light is missing a pack.mcmeta file, substituting a dummy one
+[08:49:00] [Client thread/DEBUG] [Dynamic Lights Other Player Light/]: Mod Dynamic Lights Other Player Light is missing a pack.mcmeta file, substituting a dummy one
+[08:49:00] [Client thread/DEBUG] [Dynamic Lights Player Light/]: Mod Dynamic Lights Player Light is missing a pack.mcmeta file, substituting a dummy one
+[08:49:00] [Client thread/DEBUG] [Mo'Bends/]: Mod Mo'Bends is missing a pack.mcmeta file, substituting a dummy one
+[08:49:00] [Client thread/DEBUG] [WorldEdit/]: Mod WorldEdit is missing a pack.mcmeta file, substituting a dummy one
+[08:49:00] [Client thread/DEBUG] [FML/]: Bar Finished: Loading took 18.211s
