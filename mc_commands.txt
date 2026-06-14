@@ -1,7 +1,10 @@
-/effect @p clear
+/effect @p clear		clear effects
 /effect @p 9999 10		duration 9999 potency 10
+
 /tp 302 92 474			moor park
 /tp 249 130 267			Watford
 /tp 321 108 333 		I&I centre
-/kill @e[type=!Player]		kill all mobs
-/give @p aetherblock:aether_block    - we'll get to this
+
+/kill @e[type=!Player]	kill all mobs
+
+F3 + all				reload nearby chunks
