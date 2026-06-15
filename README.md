@@ -3,14 +3,14 @@
 ## You need:
 - MultiMC
 - Java 1.8.0
-- Worldedit.jar (mod, for minecraft 1.11.2)
+- Mods (e.g. worldedit — Worldedit.jar for minecraft 1.11.2)
 - a minecraft account (you have one alr)
 
 ## Steps:
 - sign in to minecraft account on multimc
 - create a world in minecraft 1.11.2
 - install forge in for particular world u created (go to mod settings for particular version, download appropriate forge version for 1.11.2)
-- make sure dat worldedit.jar file is in .minecraft/mods
+- make sure mods are in .minecraft/mods (they are .jar files — forge uses them)
 
 ## Tools:
 - On a particular world select export instance to export it
@@ -39,7 +39,7 @@
 - git add
 - git push
 - clone the repo using https since we'ain got ssh keys set up
-- git clone https://github.com/natozuski/multimc-1.9.git (or whatever its called now)
+- git clone https://github.com/natozuski/1.11.2.git (or whatever its called now)
 
 ### Mac
 
@@ -61,4 +61,4 @@
 - git add
 - git push
 - clone the repo using https since we'ain got ssh keys set up
-- git clone https://github.com/natozuski/multimc-1.9.git (or whatever its called now)
+- git clone https://github.com/natozuski/1.11.2.git (or whatever its called now)
