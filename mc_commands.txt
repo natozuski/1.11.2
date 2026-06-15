@@ -14,3 +14,9 @@
 /gamerule doDaylightCycle false
 
 F3 + all							reload nearby chunks
+
+
+keybindings:
+
+grave key(`)						journeymap
+J									worldedit reference
