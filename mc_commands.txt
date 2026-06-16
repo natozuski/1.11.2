@@ -20,3 +20,4 @@ keybindings:
 
 grave key(`)						journeymap
 J									worldedit reference
+ctrl + b							waypoints

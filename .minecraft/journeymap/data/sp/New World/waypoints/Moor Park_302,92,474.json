@@ -1,0 +1,18 @@
+{
+  "id": "Moor Park_302,92,474",
+  "name": "Moor Park",
+  "icon": "waypoint-normal.png",
+  "x": 302,
+  "y": 92,
+  "z": 474,
+  "r": 0,
+  "g": 254,
+  "b": 188,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}
