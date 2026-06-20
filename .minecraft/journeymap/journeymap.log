@@ -1,6 +1,6 @@
-[13:06:43] [Client thread/INFO] [JMLogger] JourneyMap log initialized.
-[13:06:43] [Client thread/INFO] [JourneymapClient] initialize ENTER
-[13:06:43] [Client thread/INFO] [?] Version: JourneyMap 1.11.2-5.5.2, built with Forge 13.20.1.2386
+[16:58:51] [Client thread/INFO] [JMLogger] JourneyMap log initialized.
+[16:58:51] [Client thread/INFO] [JourneymapClient] initialize ENTER
+[16:58:51] [Client thread/INFO] [?] Version: JourneyMap 1.11.2-5.5.2, built with Forge 13.20.1.2386
 Forge: 13.20.1.2588
 Environment: os.name, os.arch, java.version, user.country, user.language=null, game language=en_us, locale=en_us
 Features: 
@@ -17,64 +17,65 @@ FullMapProperties{state=Valid, file=journeymap.fullmap.config, configVersion=5.5
 WaypointProperties{state=Valid, file=journeymap.waypoint.config, configVersion=5.5.2, createDeathpoints=true, showName=true, maxDistance=0, autoHideLabel=true, showStaticBeam=true, minDistance=4, boldLabel=false, textureSmall=true, showDistance=true, showRotatingBeam=true, fontScale=2, showTexture=true, managerEnabled=true, beaconEnabled=true}
 WebMapProperties{state=Valid, file=journeymap.webmap.config, configVersion=5.5.2, zoomLevel=0, showWaypoints=true, showCaves=true, showSelf=true, port=8080, showGrid=true, showEntityNames=true, enabled=false, googleMapApiDomain=.com, preferredMapType=day}
 CoreProperties{state=Valid, file=journeymap.core.config, configVersion=5.5.2, verboseColorPalette=false, maxPlayersData=32, mapSurfaceAboveCaves=true, optionsManagerViewed=5.5.2, announceMod=true, colorPassive=#bbbbbb, renderOverlayEventTypeName=ALL, mapBlendWater=false, renderDistanceSurfaceMax=7, radarVerticalDistance=16, mapBlendGrass=true, recordCacheStats=false, hideSneakingEntities=true, revealShape=Circle, alwaysMapSurface=false, colorVillager=#88e188, mapPlants=false, colorPet=#0077ff, radarLateralDistance=64, mapBathymetry=false, mapCrops=true, maxMobsData=32, mapPlantShadows=false, alwaysMapCaves=false, checkUpdates=true, browserPoll=2000, mapBlendFoliage=true, mappingEnabled=true, colorPlayer=#ffffff, tileHighDisplayQuality=true, cacheVillagersData=2200, logLevel=INFO, maxVillagersData=32, maxAnimalsData=32, mapTransparency=true, tileRenderType=1, caveIgnoreGlass=true, mapTopography=true, renderDistanceCaveMax=3, mapAntialiasing=true, colorSelf=#0000ff, cachePlayersData=2000, cacheMobsData=3000, cachePlayerData=1000, splashViewed=5.5.2, colorHostile=#ff0000, cacheAnimalsData=3100, themeName=OceanMonument, mapCaveLighting=true, renderDelay=2, renderOverlayPreEvent=true, autoMapPoll=2000}
-[13:06:43] [Client thread/INFO] [ClientAPI] [ClientAPI] built with JourneyMap API 1.4
-[13:06:43] [Client thread/INFO] [PluginHelper] Initializing plugins with Client API: journeymap.client.api.impl.ClientAPI
-[13:06:43] [Client thread/INFO] [JourneymapClient] initialize EXIT, elapsed count 0 avg �ms
-[13:06:43] [Client thread/TRACE] [LoadController] Sent event FMLInitializationEvent to mod journeymap
-[13:06:45] [Client thread/TRACE] [LoadController] Sending event IMCEvent to mod journeymap
-[13:06:45] [Client thread/TRACE] [LoadController] Sent event IMCEvent to mod journeymap
-[13:06:45] [Client thread/TRACE] [LoadController] Sending event FMLPostInitializationEvent to mod journeymap
-[13:06:45] [Client thread/DEBUG] [JourneymapClient] postInitialize ENTER
-[13:06:46] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.KeyEventHandler
-[13:06:46] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.ChatEventHandler
-[13:06:46] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.StateTickHandler
-[13:06:46] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.WorldEventHandler
-[13:06:46] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.WaypointBeaconHandler
-[13:06:46] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.TextureAtlasHandler
-[13:06:46] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.MiniMapOverlayHandler
-[13:06:46] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.world.ChunkMonitor
-[13:06:46] [Client thread/INFO] [IconSetFileHandler] Added entity icons from journeymap:icon/entity. Success: false
-[13:06:46] [Client thread/TRACE] [ThemeLoader] Initializing themes ...
-[13:06:46] [Client thread/INFO] [ThemeLoader] Preloaded theme textures: 71
-[13:06:46] [Client thread/DEBUG] [JourneymapClient] postInitialize EXIT, elapsed§8 count §r1§8 avg §r670.19§8ms§r
-[13:06:46] [JM-VersionCheck-1/ERROR] [VersionCheck$1] Could not check version URL
+[16:58:51] [Client thread/INFO] [ClientAPI] [ClientAPI] built with JourneyMap API 1.4
+[16:58:51] [Client thread/INFO] [PluginHelper] Initializing plugins with Client API: journeymap.client.api.impl.ClientAPI
+[16:58:51] [Client thread/INFO] [JourneymapClient] initialize EXIT, elapsed count 0 avg �ms
+[16:58:51] [Client thread/TRACE] [LoadController] Sent event FMLInitializationEvent to mod journeymap
+[16:58:53] [Client thread/TRACE] [LoadController] Sending event IMCEvent to mod journeymap
+[16:58:53] [Client thread/TRACE] [LoadController] Sent event IMCEvent to mod journeymap
+[16:58:53] [Client thread/TRACE] [LoadController] Sending event FMLPostInitializationEvent to mod journeymap
+[16:58:53] [Client thread/DEBUG] [JourneymapClient] postInitialize ENTER
+[16:58:54] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.KeyEventHandler
+[16:58:54] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.ChatEventHandler
+[16:58:54] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.StateTickHandler
+[16:58:54] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.WorldEventHandler
+[16:58:54] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.WaypointBeaconHandler
+[16:58:54] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.TextureAtlasHandler
+[16:58:54] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.MiniMapOverlayHandler
+[16:58:54] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.world.ChunkMonitor
+[16:58:54] [Client thread/INFO] [IconSetFileHandler] Added entity icons from journeymap:icon/entity. Success: false
+[16:58:54] [Client thread/TRACE] [ThemeLoader] Initializing themes ...
+[16:58:55] [Client thread/INFO] [ThemeLoader] Preloaded theme textures: 71
+[16:58:55] [JM-VersionCheck-1/ERROR] [VersionCheck$1] Could not check version URL
 java.net.UnknownHostException: widget.mcf.li
-	at java.net.AbstractPlainSocketImpl.connect(Unknown Source) ~[?:1.8.0_491]
-	at java.net.PlainSocketImpl.connect(Unknown Source) ~[?:1.8.0_491]
-	at java.net.SocksSocketImpl.connect(Unknown Source) ~[?:1.8.0_491]
-	at java.net.Socket.connect(Unknown Source) ~[?:1.8.0_491]
-	at java.net.Socket.connect(Unknown Source) ~[?:1.8.0_491]
-	at sun.net.NetworkClient.doConnect(Unknown Source) ~[?:1.8.0_491]
-	at sun.net.www.http.HttpClient.openServer(Unknown Source) ~[?:1.8.0_491]
-	at sun.net.www.http.HttpClient.openServer(Unknown Source) ~[?:1.8.0_491]
-	at sun.net.www.http.HttpClient.<init>(Unknown Source) ~[?:1.8.0_491]
-	at sun.net.www.http.HttpClient.New(Unknown Source) ~[?:1.8.0_491]
-	at sun.net.www.http.HttpClient.New(Unknown Source) ~[?:1.8.0_491]
-	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(Unknown Source) ~[?:1.8.0_491]
-	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(Unknown Source) ~[?:1.8.0_491]
-	at sun.net.www.protocol.http.HttpURLConnection$6.run(Unknown Source) ~[?:1.8.0_491]
-	at sun.net.www.protocol.http.HttpURLConnection$6.run(Unknown Source) ~[?:1.8.0_491]
-	at java.security.AccessController.doPrivileged(Native Method) ~[?:1.8.0_491]
-	at java.security.AccessController.doPrivilegedWithCombiner(Unknown Source) ~[?:1.8.0_491]
-	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(Unknown Source) ~[?:1.8.0_491]
-	at sun.net.www.protocol.http.HttpURLConnection.connect(Unknown Source) ~[?:1.8.0_491]
-	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source) ~[?:1.8.0_491]
-	at sun.net.www.protocol.http.HttpURLConnection.access$200(Unknown Source) ~[?:1.8.0_491]
-	at sun.net.www.protocol.http.HttpURLConnection$9.run(Unknown Source) ~[?:1.8.0_491]
-	at sun.net.www.protocol.http.HttpURLConnection$9.run(Unknown Source) ~[?:1.8.0_491]
-	at java.security.AccessController.doPrivileged(Native Method) ~[?:1.8.0_491]
-	at java.security.AccessController.doPrivilegedWithCombiner(Unknown Source) ~[?:1.8.0_491]
-	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source) ~[?:1.8.0_491]
-	at java.net.URL.openStream(Unknown Source) ~[?:1.8.0_491]
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source) ~[?:1.8.0_481]
+	at java.net.PlainSocketImpl.connect(Unknown Source) ~[?:1.8.0_481]
+	at java.net.SocksSocketImpl.connect(Unknown Source) ~[?:1.8.0_481]
+	at java.net.Socket.connect(Unknown Source) ~[?:1.8.0_481]
+	at java.net.Socket.connect(Unknown Source) ~[?:1.8.0_481]
+	at sun.net.NetworkClient.doConnect(Unknown Source) ~[?:1.8.0_481]
+	at sun.net.www.http.HttpClient.openServer(Unknown Source) ~[?:1.8.0_481]
+	at sun.net.www.http.HttpClient.openServer(Unknown Source) ~[?:1.8.0_481]
+	at sun.net.www.http.HttpClient.<init>(Unknown Source) ~[?:1.8.0_481]
+	at sun.net.www.http.HttpClient.New(Unknown Source) ~[?:1.8.0_481]
+	at sun.net.www.http.HttpClient.New(Unknown Source) ~[?:1.8.0_481]
+	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(Unknown Source) ~[?:1.8.0_481]
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(Unknown Source) ~[?:1.8.0_481]
+	at sun.net.www.protocol.http.HttpURLConnection$6.run(Unknown Source) ~[?:1.8.0_481]
+	at sun.net.www.protocol.http.HttpURLConnection$6.run(Unknown Source) ~[?:1.8.0_481]
+	at java.security.AccessController.doPrivileged(Native Method) ~[?:1.8.0_481]
+	at java.security.AccessController.doPrivilegedWithCombiner(Unknown Source) ~[?:1.8.0_481]
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(Unknown Source) ~[?:1.8.0_481]
+	at sun.net.www.protocol.http.HttpURLConnection.connect(Unknown Source) ~[?:1.8.0_481]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source) ~[?:1.8.0_481]
+	at sun.net.www.protocol.http.HttpURLConnection.access$200(Unknown Source) ~[?:1.8.0_481]
+	at sun.net.www.protocol.http.HttpURLConnection$9.run(Unknown Source) ~[?:1.8.0_481]
+	at sun.net.www.protocol.http.HttpURLConnection$9.run(Unknown Source) ~[?:1.8.0_481]
+	at java.security.AccessController.doPrivileged(Native Method) ~[?:1.8.0_481]
+	at java.security.AccessController.doPrivilegedWithCombiner(Unknown Source) ~[?:1.8.0_481]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source) ~[?:1.8.0_481]
+	at java.net.URL.openStream(Unknown Source) ~[?:1.8.0_481]
 	at journeymap.common.version.VersionCheck$1.run(VersionCheck.java:125) [VersionCheck$1.class:1.11.2-5.5.2]
-	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) [?:1.8.0_491]
-	at java.util.concurrent.FutureTask.run(Unknown Source) [?:1.8.0_491]
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_491]
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_491]
-	at java.lang.Thread.run(Unknown Source) [?:1.8.0_491]
-[13:07:02] [Client thread/INFO] [ColorManager] Loaded color palette for 1484 blockstates in 139ms
-[13:07:21] [Client thread/INFO] [TopoRenderer] Loading journeymap.topo.config
-[13:07:21] [Client thread/INFO] [WaypointStore] Loaded 3 waypoints from C:\Users\USER\Desktop\MultiMC\instances\1.11.2\.minecraft\journeymap\data\sp\New World\waypoints
-[13:07:21] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\USER\Desktop\MultiMC\instances\1.11.2\.minecraft\journeymap\data\sp\New World\DIM0. Memory: 625MB total, 221MB free 
-[13:07:21] [Client thread/INFO] [ChatLog] JourneyMap: Press [GRAVE]
-[13:08:19] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\USER\Desktop\MultiMC\instances\1.11.2\.minecraft\journeymap\data\sp\New World\DIM0
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) [?:1.8.0_481]
+	at java.util.concurrent.FutureTask.run(Unknown Source) [?:1.8.0_481]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_481]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_481]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_481]
+[16:58:55] [Client thread/DEBUG] [StatTimer] elapsed was slow: 1488.0901
+[16:58:55] [Client thread/DEBUG] [JourneymapClient] postInitialize EXIT, elapsed§8 count §r1§8 avg §r§r1488.09§8ms§r
+[16:59:19] [Client thread/INFO] [ColorManager] Loaded color palette for 1484 blockstates in 166ms
+[16:59:41] [Client thread/INFO] [TopoRenderer] Loading journeymap.topo.config
+[16:59:42] [Client thread/INFO] [WaypointStore] Loaded 3 waypoints from C:\Users\sherw\Desktop\MultiMC\instances\1.11.2\.minecraft\journeymap\data\sp\New World\waypoints
+[16:59:42] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\sherw\Desktop\MultiMC\instances\1.11.2\.minecraft\journeymap\data\sp\New World\DIM0. Memory: 574MB total, 228MB free 
+[16:59:42] [Client thread/INFO] [ChatLog] JourneyMap: Press [GRAVE]
+[17:10:21] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\sherw\Desktop\MultiMC\instances\1.11.2\.minecraft\journeymap\data\sp\New World\DIM0
