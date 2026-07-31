@@ -1,6 +1,6 @@
 {
-  "id": "356, 588_356,122,588",
-  "name": "356, 588",
+  "id": "x2 Skull_356,122,588",
+  "name": "x2 Skull",
   "icon": "waypoint-normal.png",
   "x": 356,
   "y": 122,
@@ -8,7 +8,7 @@
   "r": 25,
   "g": 168,
   "b": 11,
-  "enable": true,
+  "enable": false,
   "type": "Normal",
   "origin": "journeymap",
   "dimensions": [
