@@ -5,7 +5,7 @@ ta2 2039
 
 ### 1. HEAD (Total: 134)
 
-**1A. Extraocular Muscles (14)**
+**1A. Extraocular Muscles (14)** ta2 2041
 eye movement
 - Musculus rectus superior (R/L) – 2
 - Musculus rectus inferior (R/L) – 2
@@ -16,14 +16,14 @@ eye movement
 - Levator palpebrae superioris (R/L) – 2
 - **Subtotal: 14**
 
-**1B. Epicranial & Scalp Muscles (6)**
+**1B. Epicranial & Scalp Muscles (6)** ta2 2054
 scalp and eyelid movement
 - Musculus frontalis (R/L) – 2
 - Musculus occipitalis (R/L) – 2
 - Musculus temporoparietalis (R/L) – 2
 - **Subtotal: 6**
 
-**1C. Facial (Mimetic) Muscles (44)**
+**1C. Facial (Mimetic) Muscles (44)** ta2 2060
 facial expression
 - Musculus procerus (R/L) – 2
 - Musculus nasalis – pars transversa (R/L) – 2
@@ -49,7 +49,7 @@ facial expression
 - Musculus mentalis (R/L) – 2
 - **Subtotal: 44**
 
-**1D. Auricular Muscles (Extrinsic + Intrinsic) (22)**
+**1D. Auricular Muscles (Extrinsic + Intrinsic) (22)** ta2 2088, 2092
 movement near the ear
 - Musculus auricularis anterior (R/L) – 2
 - Musculus auricularis superior (R/L) – 2
@@ -64,13 +64,13 @@ movement near the ear
 - Musculus incisurae terminalis (R/L) – 2
 - **Subtotal: 22**
 
-**1E. Muscles of Auditory Ossicles (4)**
+**1E. Muscles of Auditory Ossicles (4)** ta2 2101
 muscles near ear bones
 - Tensor tympani (R/L) – 2
 - Musculus stapedius (R/L) – 2
 - **Subtotal: 4**
 
-**1F. Masticatory Muscles (14)**
+**1F. Masticatory Muscles (14)** ta2 2104
 - Masseter – pars superficialis (R/L) – 2
 - Masseter – pars profunda (R/L) – 2
 - Musculus temporalis (R/L) – 2
@@ -80,7 +80,7 @@ muscles near ear bones
 - Musculus pterygoideus medialis – caput superficiale (R/L) – 2
 - **Subtotal: 14**
 
-**1G. Tongue Muscles (Extrinsic + Intrinsic) (18)**
+**1G. Tongue Muscles (Extrinsic + Intrinsic) (18)** ta2 2116
 - Musculus genioglossus (R/L) – 2
 - Musculus hyoglossus (R/L) – 2
 - Musculus chondroglossus (R/L) – 2
@@ -92,7 +92,7 @@ muscles near ear bones
 - Musculus verticalis linguae (R/L) – 2
 - **Subtotal: 18**
 
-**1H. Soft Palate Muscles (12)**
+**1H. Soft Palate Muscles (12)** ta2 2126
 - Levator veli palatini (R/L) – 2
 - Tensor veli palatini (R/L) – 2
 - Musculus uvulae (R/L) – 2
