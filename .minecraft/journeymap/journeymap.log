@@ -84,3 +84,11 @@ java.net.UnknownHostException: widget.mcf.li
 [21:03:53] [Client thread/INFO] [WaypointStore] Loaded 4 waypoints from C:\Users\USER\Desktop\MultiMC\instances\1.11.2\.minecraft\journeymap\data\sp\New World\waypoints
 [21:03:53] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\USER\Desktop\MultiMC\instances\1.11.2\.minecraft\journeymap\data\sp\New World\DIM0. Memory: 966MB total, 510MB free 
 [21:26:15] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\USER\Desktop\MultiMC\instances\1.11.2\.minecraft\journeymap\data\sp\New World\DIM0
+[21:27:10] [Client thread/INFO] [TopoRenderer] Loading journeymap.topo.config
+[21:27:10] [Client thread/INFO] [WaypointStore] Loaded 5 waypoints from C:\Users\USER\Desktop\MultiMC\instances\1.11.2\.minecraft\journeymap\data\sp\New World\waypoints
+[21:27:10] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\USER\Desktop\MultiMC\instances\1.11.2\.minecraft\journeymap\data\sp\New World\DIM0. Memory: 969MB total, 363MB free 
+[21:27:10] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\USER\Desktop\MultiMC\instances\1.11.2\.minecraft\journeymap\data\sp\New World\DIM0
+[21:27:17] [Client thread/INFO] [TopoRenderer] Loading journeymap.topo.config
+[21:27:17] [Client thread/INFO] [WaypointStore] Loaded 5 waypoints from C:\Users\USER\Desktop\MultiMC\instances\1.11.2\.minecraft\journeymap\data\sp\New World\waypoints
+[21:27:17] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\USER\Desktop\MultiMC\instances\1.11.2\.minecraft\journeymap\data\sp\New World\DIM0. Memory: 941MB total, 500MB free 
+[21:33:17] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\USER\Desktop\MultiMC\instances\1.11.2\.minecraft\journeymap\data\sp\New World\DIM0
