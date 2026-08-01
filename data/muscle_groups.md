@@ -1,10 +1,12 @@
 ## COMPLETE TA2 MUSCLE LIST – GROUPED BY BODY AREA
+ta2 2039
 
 ---
 
 ### 1. HEAD (Total: 134)
 
 **1A. Extraocular Muscles (14)**
+eye movement
 - Musculus rectus superior (R/L) – 2
 - Musculus rectus inferior (R/L) – 2
 - Musculus rectus medialis (R/L) – 2
@@ -15,12 +17,14 @@
 - **Subtotal: 14**
 
 **1B. Epicranial & Scalp Muscles (6)**
+scalp and eyelid movement
 - Musculus frontalis (R/L) – 2
 - Musculus occipitalis (R/L) – 2
 - Musculus temporoparietalis (R/L) – 2
 - **Subtotal: 6**
 
 **1C. Facial (Mimetic) Muscles (44)**
+facial expression
 - Musculus procerus (R/L) – 2
 - Musculus nasalis – pars transversa (R/L) – 2
 - Musculus nasalis – pars alaris (R/L) – 2
@@ -46,6 +50,7 @@
 - **Subtotal: 44**
 
 **1D. Auricular Muscles (Extrinsic + Intrinsic) (22)**
+movement near the ear
 - Musculus auricularis anterior (R/L) – 2
 - Musculus auricularis superior (R/L) – 2
 - Musculus auricularis posterior (R/L) – 2
@@ -60,6 +65,7 @@
 - **Subtotal: 22**
 
 **1E. Muscles of Auditory Ossicles (4)**
+muscles near ear bones
 - Tensor tympani (R/L) – 2
 - Musculus stapedius (R/L) – 2
 - **Subtotal: 4**
