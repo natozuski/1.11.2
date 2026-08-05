@@ -1,0 +1,18 @@
+{
+  "id": "L side 2x skull_353,111,613",
+  "name": "L side 2x skull",
+  "icon": "waypoint-normal.png",
+  "x": 353,
+  "y": 111,
+  "z": 613,
+  "r": 0,
+  "g": 255,
+  "b": 42,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}
