@@ -73,3 +73,14 @@ java.net.UnknownHostException: widget.mcf.li
 	at java.lang.Thread.run(Unknown Source) [?:1.8.0_491]
 [12:37:22] [Client thread/DEBUG] [JourneymapClient] postInitialize EXIT, elapsed§8 count §r1§8 avg §r701.85§8ms§r
 [12:37:39] [Client thread/INFO] [ColorManager] Loaded color palette for 1484 blockstates in 108ms
+[12:44:58] [Client thread/INFO] [TopoRenderer] Loading journeymap.topo.config
+[12:44:58] [Client thread/INFO] [WaypointStore] Loaded 7 waypoints from C:\Users\USER\Desktop\MultiMC\instances\1.11.2\.minecraft\journeymap\data\sp\New World\waypoints
+[12:44:58] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\USER\Desktop\MultiMC\instances\1.11.2\.minecraft\journeymap\data\sp\New World\DIM0. Memory: 637MB total, 216MB free 
+[12:44:58] [Client thread/INFO] [ChatLog] JourneyMap: Press [GRAVE]
+[13:17:34] [Client thread/INFO] [StatTimer] TileDrawStep.updateRegionTexture hit max count, 1000000
+[13:17:35] [Client thread/INFO] [StatTimer] TileDrawStep.draw(low) hit max count, 1000000
+[13:39:20] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\USER\Desktop\MultiMC\instances\1.11.2\.minecraft\journeymap\data\sp\New World\DIM0
+[13:40:23] [Client thread/INFO] [TopoRenderer] Loading journeymap.topo.config
+[13:40:23] [Client thread/INFO] [WaypointStore] Loaded 9 waypoints from C:\Users\USER\Desktop\MultiMC\instances\1.11.2\.minecraft\journeymap\data\sp\New World\waypoints
+[13:40:23] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\USER\Desktop\MultiMC\instances\1.11.2\.minecraft\journeymap\data\sp\New World\DIM0. Memory: 1009MB total, 454MB free 
+[14:34:01] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\USER\Desktop\MultiMC\instances\1.11.2\.minecraft\journeymap\data\sp\New World\DIM0
