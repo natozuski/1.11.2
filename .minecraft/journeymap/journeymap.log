@@ -1,6 +1,6 @@
-[15:59:01] [Client thread/INFO] [JMLogger] JourneyMap log initialized.
-[15:59:01] [Client thread/INFO] [JourneymapClient] initialize ENTER
-[15:59:01] [Client thread/INFO] [?] Version: JourneyMap 1.11.2-5.5.2, built with Forge 13.20.1.2386
+[12:23:28] [Client thread/INFO] [JMLogger] JourneyMap log initialized.
+[12:23:28] [Client thread/INFO] [JourneymapClient] initialize ENTER
+[12:23:28] [Client thread/INFO] [?] Version: JourneyMap 1.11.2-5.5.2, built with Forge 13.20.1.2386
 Forge: 13.20.1.2588
 Environment: os.name, os.arch, java.version, user.country, user.language=null, game language=en_us, locale=en_us
 Features: 
@@ -17,26 +17,26 @@ FullMapProperties{state=Valid, file=journeymap.fullmap.config, configVersion=5.5
 WaypointProperties{state=Valid, file=journeymap.waypoint.config, configVersion=5.5.2, createDeathpoints=true, showName=true, maxDistance=0, autoHideLabel=true, showStaticBeam=true, minDistance=4, boldLabel=false, textureSmall=true, showDistance=true, showRotatingBeam=true, fontScale=2, showTexture=true, managerEnabled=true, beaconEnabled=true}
 WebMapProperties{state=Valid, file=journeymap.webmap.config, configVersion=5.5.2, zoomLevel=0, showWaypoints=true, showCaves=true, showSelf=true, port=8080, showGrid=true, showEntityNames=true, enabled=false, googleMapApiDomain=.com, preferredMapType=day}
 CoreProperties{state=Valid, file=journeymap.core.config, configVersion=5.5.2, verboseColorPalette=false, maxPlayersData=32, mapSurfaceAboveCaves=true, optionsManagerViewed=5.5.2, announceMod=true, colorPassive=#bbbbbb, renderOverlayEventTypeName=ALL, mapBlendWater=false, renderDistanceSurfaceMax=7, radarVerticalDistance=16, mapBlendGrass=true, recordCacheStats=false, hideSneakingEntities=true, revealShape=Circle, alwaysMapSurface=false, colorVillager=#88e188, mapPlants=false, colorPet=#0077ff, radarLateralDistance=64, mapBathymetry=false, mapCrops=true, maxMobsData=32, mapPlantShadows=false, alwaysMapCaves=false, checkUpdates=true, browserPoll=2000, mapBlendFoliage=true, mappingEnabled=true, colorPlayer=#ffffff, tileHighDisplayQuality=true, cacheVillagersData=2200, logLevel=INFO, maxVillagersData=32, maxAnimalsData=32, mapTransparency=true, tileRenderType=1, caveIgnoreGlass=true, mapTopography=true, renderDistanceCaveMax=3, mapAntialiasing=true, colorSelf=#0000ff, cachePlayersData=2000, cacheMobsData=3000, cachePlayerData=1000, splashViewed=5.5.2, colorHostile=#ff0000, cacheAnimalsData=3100, themeName=OceanMonument, mapCaveLighting=true, renderDelay=2, renderOverlayPreEvent=true, autoMapPoll=2000}
-[15:59:01] [Client thread/INFO] [ClientAPI] [ClientAPI] built with JourneyMap API 1.4
-[15:59:01] [Client thread/INFO] [PluginHelper] Initializing plugins with Client API: journeymap.client.api.impl.ClientAPI
-[15:59:01] [Client thread/INFO] [JourneymapClient] initialize EXIT, elapsed count 0 avg �ms
-[15:59:01] [Client thread/TRACE] [LoadController] Sent event FMLInitializationEvent to mod journeymap
-[15:59:03] [Client thread/TRACE] [LoadController] Sending event IMCEvent to mod journeymap
-[15:59:03] [Client thread/TRACE] [LoadController] Sent event IMCEvent to mod journeymap
-[15:59:03] [Client thread/TRACE] [LoadController] Sending event FMLPostInitializationEvent to mod journeymap
-[15:59:03] [Client thread/DEBUG] [JourneymapClient] postInitialize ENTER
-[15:59:03] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.KeyEventHandler
-[15:59:03] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.ChatEventHandler
-[15:59:03] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.StateTickHandler
-[15:59:03] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.WorldEventHandler
-[15:59:03] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.WaypointBeaconHandler
-[15:59:03] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.TextureAtlasHandler
-[15:59:03] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.MiniMapOverlayHandler
-[15:59:03] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.world.ChunkMonitor
-[15:59:03] [Client thread/INFO] [IconSetFileHandler] Added entity icons from journeymap:icon/entity. Success: false
-[15:59:03] [Client thread/TRACE] [ThemeLoader] Initializing themes ...
-[15:59:04] [Client thread/INFO] [ThemeLoader] Preloaded theme textures: 71
-[15:59:04] [JM-VersionCheck-1/ERROR] [VersionCheck$1] Could not check version URL
+[12:23:28] [Client thread/INFO] [ClientAPI] [ClientAPI] built with JourneyMap API 1.4
+[12:23:28] [Client thread/INFO] [PluginHelper] Initializing plugins with Client API: journeymap.client.api.impl.ClientAPI
+[12:23:28] [Client thread/INFO] [JourneymapClient] initialize EXIT, elapsed count 0 avg �ms
+[12:23:28] [Client thread/TRACE] [LoadController] Sent event FMLInitializationEvent to mod journeymap
+[12:23:31] [Client thread/TRACE] [LoadController] Sending event IMCEvent to mod journeymap
+[12:23:31] [Client thread/TRACE] [LoadController] Sent event IMCEvent to mod journeymap
+[12:23:31] [Client thread/TRACE] [LoadController] Sending event FMLPostInitializationEvent to mod journeymap
+[12:23:31] [Client thread/DEBUG] [JourneymapClient] postInitialize ENTER
+[12:23:31] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.KeyEventHandler
+[12:23:31] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.ChatEventHandler
+[12:23:31] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.StateTickHandler
+[12:23:31] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.WorldEventHandler
+[12:23:31] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.WaypointBeaconHandler
+[12:23:31] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.TextureAtlasHandler
+[12:23:31] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.MiniMapOverlayHandler
+[12:23:31] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.world.ChunkMonitor
+[12:23:31] [Client thread/INFO] [IconSetFileHandler] Added entity icons from journeymap:icon/entity. Success: false
+[12:23:31] [Client thread/TRACE] [ThemeLoader] Initializing themes ...
+[12:23:31] [Client thread/INFO] [ThemeLoader] Preloaded theme textures: 71
+[12:23:31] [JM-VersionCheck-1/ERROR] [VersionCheck$1] Could not check version URL
 java.net.UnknownHostException: widget.mcf.li
 	at java.net.AbstractPlainSocketImpl.connect(Unknown Source) ~[?:1.8.0_491]
 	at java.net.PlainSocketImpl.connect(Unknown Source) ~[?:1.8.0_491]
@@ -71,10 +71,10 @@ java.net.UnknownHostException: widget.mcf.li
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_491]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_491]
 	at java.lang.Thread.run(Unknown Source) [?:1.8.0_491]
-[15:59:04] [Client thread/DEBUG] [JourneymapClient] postInitialize EXIT, elapsed§8 count §r1§8 avg §r643.6§8ms§r
-[15:59:49] [Client thread/INFO] [ColorManager] Loaded color palette for 1484 blockstates in 154ms
-[15:59:55] [Client thread/INFO] [TopoRenderer] Loading journeymap.topo.config
-[15:59:55] [Client thread/INFO] [WaypointStore] Loaded 9 waypoints from C:\Users\USER\Desktop\MultiMC\instances\1.11.2\.minecraft\journeymap\data\sp\New World\waypoints
-[15:59:55] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\USER\Desktop\MultiMC\instances\1.11.2\.minecraft\journeymap\data\sp\New World\DIM0. Memory: 650MB total, 241MB free 
-[15:59:55] [Client thread/INFO] [ChatLog] JourneyMap: Press [GRAVE]
-[16:04:43] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\USER\Desktop\MultiMC\instances\1.11.2\.minecraft\journeymap\data\sp\New World\DIM0
+[12:23:32] [Client thread/DEBUG] [JourneymapClient] postInitialize EXIT, elapsed§8 count §r1§8 avg §r838.86§8ms§r
+[12:23:51] [Client thread/INFO] [ColorManager] Loaded color palette for 1484 blockstates in 295ms
+[12:23:59] [Client thread/INFO] [TopoRenderer] Loading journeymap.topo.config
+[12:24:00] [Client thread/INFO] [WaypointStore] Loaded 9 waypoints from C:\Users\USER\Desktop\MultiMC\instances\1.11.2\.minecraft\journeymap\data\sp\New World\waypoints
+[12:24:00] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\USER\Desktop\MultiMC\instances\1.11.2\.minecraft\journeymap\data\sp\New World\DIM0. Memory: 611MB total, 252MB free 
+[12:24:00] [Client thread/INFO] [ChatLog] JourneyMap: Press [GRAVE]
+[12:26:08] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\USER\Desktop\MultiMC\instances\1.11.2\.minecraft\journeymap\data\sp\New World\DIM0
