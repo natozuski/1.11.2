@@ -101,3 +101,80 @@ mandible
 hyoid bone.
 
 lets think about the muscles in the head now.
+
+in total we have,
+from the epicranium,
+frontalis muscles
+occipitalis muscles
+temporoparietalis muscles
+from the face - the mimetic muscles,
+procerus muscles
+transerve nasalis muscles
+alar nasalis muscles
+depressor septi nasi muscles
+palpebral orbicularis oculi muscles
+orbital orbicularis oculi muscles
+profound palepbral obricularis oculi muscles
+corrugator supercilii muscles
+depressor supercilli muscles
+marginal orbicularis oculi muscles
+labial orbicularis oculi muscles
+depressor anguli oris muscles
+transverse menti muscles
+risorius muscles
+major zygomaticus muscles
+minor zygomaticus muscles
+levator labii superioris muscles
+levator nasolabialis muscles (LLSAN?)
+depressor labii inferioris muscles
+levator anguli oris muscles
+bucinator muscles
+mentalis muscles
+from the eyes,
+rectus superior muscles
+rectus inferior muscles
+rectus medialis muscles
+rectus lateralis muscles
+obliquus superior muscles
+obliquus inferior muscles
+levator palpebrae superioris muscles
+from the ear,
+auricularis anterior muscles
+auricularis superior muscles
+auricularis posterior muscles
+helicis major muscles
+helicis minor muscles
+tragicus muscles
+antitragicus muscles
+transverse auriculae muscles
+obliquus auriculae muscles
+pyramidalis auriculae muscles
+incisurae terminalis muscles
+from the inner ear,
+tensor tympani muscles
+and the stapedius muscles
+from the soft palate,
+levator veli palatini muscles
+tensor veli palatini muscles
+uvulae muscles
+palatoglossus muscles
+anterior fascicle palatopharyngeus muscles
+posterior fascicle palatopharyngeus muscles
+the masticatory muscles,
+superficial masseter muscles
+profound masseter muscles
+temporalis muscles
+superior head lateral pterygoidus muscles
+inferior head lateral pterygoidus muscles
+profound head medial pterygoidus muscles
+superficial head medial pterygoidus muscles
+from the tongue,
+genioglossus muscles
+hyoglossus muscles
+chondroglossus muscles
+ceratoglossus muscles
+styloglossus muscles
+inferior longitudinal lingual muscles
+superior longitudinal lingual muscles
+transverse lingual muscles
+vertical lingual muscles
