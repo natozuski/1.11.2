@@ -99,16 +99,53 @@ inferior nasal chonchae
 vomer
 mandible
 hyoid bone.
-
 lets think about the muscles in the head now.
 covering the whole top of the head we have the epicranial aponeurosis which is like a sheet of tendinous material covering the whole top of the head back round to the occipital. and on that sheet we have the frontalis muscles at the front above the eyelids, the occipitalis muscles at the back-bottom at the occipital bone, and the tempororoparietalis muscles at the side from the side of the frontalis muscles where they stop to the ear.
 underneath the tempororopareitalis muscle you have the temporalis muscle which stretches from the edge of the mandible by the upper teeth up and fans out into the side of the head. mind you at the side of the head there you got the temporal bone, sphenoid bone (greater wing), then some frontal bone and some pareital bone. dont forget that.
-there are a few muscles that go on top of that temporalis muscle. we have the temporopareitalis like we said. but we also have the []
+there are a few muscles that go on top of that temporalis muscle. we have the temporopareitalis like we said. but that temporopareitalis muscle sits above the the auricular muscles.
+we have the auricularis superior coming upwards like a fan from behind the ear. remember the ear comes out pointing backwards from the earhole. then we have the smaller auricularis anterior coming out from the top lil lobe of the ear pointing forwards. and we have the smaller  auricularis posterior coming out backwards from the middle of the main flap of the ear.
+on the ridge of the ear we have a few little muscles, the helicus major at the top inbetween the auricular superior and auricularis anterior. and then we have the helicus minor beneath that beneath the auricularis anterior.
+then we have the tragicus in the lil ridge right by the earhole. and we have the antitragicus opposite it in another luh ridge.
+then we got the pyramidalis auricular muscle in the luh bean by the earhole.
+we have the obliquus auricular muscle facing upwards connecting the luh top two luh bumps within the ear.
+we have the transversus auricular muscle facing sideways connecting the luh inner and outer lumps of the ear.
+the incisurae terminalis muscle is a rare luh muscle in the luh bean above the earhole. cheers.
+anyway we mentioned the temporalis muscle, so we might aswell look at the other masticatory muscles.
+we spoke about the temporalis. big ahh muscle with a big ahh tendon thats gon pull the mandible up — the jaw.
+at the back connecting the maxilla and mandible we have the profound masseter muscle, and then slightly overlapping it and a bit forward we have the superficial masseter muscle.
+now imagine the skull turned upside down. what u gonna see?
+behind the maxilla's teeth u gonna see the later and medial pterygoid plates right? the lateral pterygoid plate stretches outwards right?
+and then u gonna see where the mandible is coming up to meet the temporal bone right?
+now u gon see two muscles one is a big sheet one a smaller sheet connecting them together. the big sheet is the inferior head of the lateral pterygoid muscle and the thinner sheet is the superior head of the lateral pterygoid muscle and its slightly more towards forward of the head.
+they both at the back of the lateral pterygoid.
+coming from the front of the lateral pterygoid muscles to the back of the mandible, the ridge, is the deep medial pterygoid muscle. the name is confusing because its not connected to the medial pterygoid, its just a medial muscle i guess.
+anyway coming from the back of the maxilla next to the back teeth and a little bit of the palatine bone you have the superifical medial pterygoid muscle and it merges completely with the deep medial pterygoid muscles. thats why u call them two heads of the same muscle.
+anyway lets move on to the facial, mimetic, muscles.
 in total we have,
-from the epicranium,
-frontalis muscles
-occipitalis muscles
-temporoparietalis muscles
+[x] from the epicranium,
+[x] frontalis muscles
+[x] occipitalis muscles
+[x] temporoparietalis muscles
+from the ear,
+[x] auricularis anterior muscles
+[x] auricularis superior muscles
+[x] auricularis posterior muscles
+[x] helicis major muscles
+[x] helicis minor muscles
+[x] tragicus muscles
+[x] antitragicus muscles
+[x] transverse auriculae muscles
+[x] obliquus auriculae muscles
+[x] pyramidalis auriculae muscles
+[x] incisurae terminalis muscles
+the masticatory muscles,
+[x] superficial masseter muscles
+[x] profound masseter muscles
+[x] temporalis muscles
+[x] superior head lateral pterygoidus muscles
+[x] inferior head lateral pterygoidus muscles
+[x] profound head medial pterygoidus muscles
+[x] superficial head medial pterygoidus muscles
 from the face - the mimetic muscles,
 procerus muscles
 transerve nasalis muscles
@@ -117,15 +154,15 @@ depressor septi nasi muscles
 palpebral orbicularis oculi muscles
 orbital orbicularis oculi muscles
 profound palepbral obricularis oculi muscles
-corrugator supercilii muscles
-depressor supercilli muscles
+[ ] corrugator supercilii muscles
+[ ] depressor supercilli muscles
 marginal orbicularis oculi muscles
 labial orbicularis oculi muscles
 depressor anguli oris muscles
 transverse menti muscles
-risorius muscles
-major zygomaticus muscles
-minor zygomaticus muscles
+[ ] risorius muscles
+[ ] major zygomaticus muscles
+[ ] minor zygomaticus muscles
 levator labii superioris muscles which is also known as the LLS
 levator nasolabialis muscles which is also known as the LLSAN (levator labii superioris alaque nasi)
 depressor labii inferioris muscles
@@ -140,18 +177,6 @@ rectus lateralis muscles
 obliquus superior muscles
 obliquus inferior muscles
 levator palpebrae superioris muscles
-from the ear,
-auricularis anterior muscles
-auricularis superior muscles
-auricularis posterior muscles
-helicis major muscles
-helicis minor muscles
-tragicus muscles
-antitragicus muscles
-transverse auriculae muscles
-obliquus auriculae muscles
-pyramidalis auriculae muscles
-incisurae terminalis muscles
 from the inner ear,
 tensor tympani muscles
 and the stapedius muscles
@@ -162,14 +187,6 @@ uvulae muscles
 palatoglossus muscles
 anterior fascicle palatopharyngeus muscles
 posterior fascicle palatopharyngeus muscles
-the masticatory muscles,
-superficial masseter muscles
-profound masseter muscles
-temporalis muscles
-superior head lateral pterygoidus muscles
-inferior head lateral pterygoidus muscles
-profound head medial pterygoidus muscles
-superficial head medial pterygoidus muscles
 from the tongue,
 genioglossus muscles
 hyoglossus muscles
@@ -180,11 +197,12 @@ inferior longitudinal lingual muscles
 superior longitudinal lingual muscles
 transverse lingual muscles
 vertical lingual muscles
-
+lets think about the innervation in the head now.
 
 notes
-| Corrugator supercilii | **Superficial** (Lies deep to the frontalis, but *superficial* to the orbital bone; it crosses obliquely over the orbicularis oculi to pull the brow down and in). |
-| Depressor supercilii | **Superficial** (A superficial slip of the orbicularis that pulls the brow medially). |
-| Zygomaticus major | **Superficial** (Runs diagonally across the cheek, *over* the buccinator and levator anguli, to insert into the modiolus). |
-| Zygomaticus minor | **Superficial** (Runs diagonally, *over* the levator labii superioris, to insert into the upper lip skin). |
-| Risorius | **Superficial** (Runs horizontally from the cheek fascia, *over* the buccinator, to insert into the modiolus and skin). |
+
+Corrugator supercilii ======== Lies deep to the frontalis, but *superficial* to the orbital bone; it crosses obliquely over the orbicularis oculi to pull the brow down and in).
+Depressor supercilii ======== A superficial slip of the orbicularis that pulls the brow medially).
+Zygomaticus major ======== Runs diagonally across the cheek, *over* the buccinator and levator anguli, to insert into the modiolus).
+Zygomaticus minor ======== Runs diagonally, *over* the levator labii superioris, to insert into the upper lip skin).
+Risorius ======== Runs horizontally from the cheek fascia, *over* the buccinator, to insert into the modiolus and skin).
