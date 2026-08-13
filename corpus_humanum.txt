@@ -180,3 +180,11 @@ inferior longitudinal lingual muscles
 superior longitudinal lingual muscles
 transverse lingual muscles
 vertical lingual muscles
+
+
+notes
+| Corrugator supercilii | **Superficial** (Lies deep to the frontalis, but *superficial* to the orbital bone; it crosses obliquely over the orbicularis oculi to pull the brow down and in). |
+| Depressor supercilii | **Superficial** (A superficial slip of the orbicularis that pulls the brow medially). |
+| Zygomaticus major | **Superficial** (Runs diagonally across the cheek, *over* the buccinator and levator anguli, to insert into the modiolus). |
+| Zygomaticus minor | **Superficial** (Runs diagonally, *over* the levator labii superioris, to insert into the upper lip skin). |
+| Risorius | **Superficial** (Runs horizontally from the cheek fascia, *over* the buccinator, to insert into the modiolus and skin). |
