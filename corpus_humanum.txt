@@ -121,6 +121,11 @@ they both at the back of the lateral pterygoid.
 coming from the front of the lateral pterygoid muscles to the back of the mandible, the ridge, is the deep medial pterygoid muscle. the name is confusing because its not connected to the medial pterygoid, its just a medial muscle i guess.
 anyway coming from the back of the maxilla next to the back teeth and a little bit of the palatine bone you have the superifical medial pterygoid muscle and it merges completely with the deep medial pterygoid muscles. thats why u call them two heads of the same muscle.
 anyway lets move on to the facial, mimetic, muscles.
+the corrugator supercilii muscle starts where the inner corner of the eyebrow and goes upwards under the frontalis muscle and crossing and blending with the orbicularis oculi to pull the brow down and in
+the depressor supercilii muscle is underneath and interweaved with the orbicularis oculi starting from the inner corner of the eyebrow and pulls the eyebrow down
+the zygomaticus major runs diagonally across the cheek, over the buccinator and levator anguli, to insert into the modiolus.
+the zygomaticus minor runs diagonally, over the levator labii superioris, to insert into the upper lip skin.
+the risorius runs horizontally from the cheek fascia, over the buccinator, to insert into the modiolus and skin.
 
 in total we have,
 [x] from the epicranium,
@@ -155,15 +160,15 @@ depressor septi nasi muscles
 palpebral orbicularis oculi muscles
 orbital orbicularis oculi muscles
 profound palepbral obricularis oculi muscles
-[ ] corrugator supercilii muscles
-[ ] depressor supercilli muscles
+[x] corrugator supercilii muscles
+[x] depressor supercilli muscles
 marginal orbicularis oculi muscles
 labial orbicularis oculi muscles
 depressor anguli oris muscles
 transverse menti muscles
-[ ] risorius muscles
-[ ] major zygomaticus muscles
-[ ] minor zygomaticus muscles
+[x] risorius muscles
+[x] major zygomaticus muscles
+[x] minor zygomaticus muscles
 levator labii superioris muscles which is also known as the LLS
 levator nasolabialis muscles which is also known as the LLSAN (levator labii superioris alaque nasi)
 depressor labii inferioris muscles
@@ -199,11 +204,3 @@ superior longitudinal lingual muscles
 transverse lingual muscles
 vertical lingual muscles
 lets think about the innervation in the head now.
-
-notes
-
-Corrugator supercilii ======== Lies deep to the frontalis, but *superficial* to the orbital bone; it crosses obliquely over the orbicularis oculi to pull the brow down and in).
-Depressor supercilii ======== A superficial slip of the orbicularis that pulls the brow medially).
-Zygomaticus major ======== Runs diagonally across the cheek, *over* the buccinator and levator anguli, to insert into the modiolus).
-Zygomaticus minor ======== Runs diagonally, *over* the levator labii superioris, to insert into the upper lip skin).
-Risorius ======== Runs horizontally from the cheek fascia, *over* the buccinator, to insert into the modiolus and skin).
