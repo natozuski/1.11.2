@@ -164,7 +164,7 @@ profound palepbral obricularis oculi muscles
 [x] depressor supercilli muscles
 marginal orbicularis oculi muscles
 labial orbicularis oculi muscles
-depressor anguli oris muscles
+depressor anguli oris muscles which are also known as the DAO
 transverse menti muscles
 [x] risorius muscles
 [x] major zygomaticus muscles
@@ -172,7 +172,7 @@ transverse menti muscles
 levator labii superioris muscles which is also known as the LLS
 levator nasolabialis muscles which is also known as the LLSAN (levator labii superioris alaque nasi)
 depressor labii inferioris muscles
-levator anguli oris muscles
+levator anguli oris muscles which is also known as the LAO
 bucinator muscles
 mentalis muscles
 from the eyes,
