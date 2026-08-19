@@ -147,7 +147,18 @@ the zygomaticus minor runs diagonally, over the levator labii superioris, to ins
 the risorius runs horizontally from the cheek fascia, over the buccinator, to insert into the modiolus and skin.
 the modiolus is the corner of the mouth.
 next we have the muscles in the eye, they are in the eye's hallway.
-
+the eyeball goes in the eye's hallway, and it has muscles associated with it's movement.
+the rectus superior goes above the eye and runs into the hallway. the rectus inferior goes below the eye and runs into the hallway.
+they pull the eye up and down.
+the rectus lateralis goes on the lateral side of the eye, running into the hallway
+and the rectus medialis goes on the medial side of the eye, running into the hallway
+and they pull the eye laterally and medially.
+the obliquus inferior goes below the eye and runs obliquely from the bottom of the eye to the lateral side of the eye.
+it pulls the eye.
+the obliquus superior goes above the eye and runs obliquely from the top of the, and is pulled round a loop called the trochlea at the medial top corner of the eye's hallway.
+it pulls the eye.
+there is a small muscle above the rectus superior that goes right into the eyelid called the levator palpebrae superioris. it goes into the hallway.
+it's not strictly responsible for opening the eyelid. thats the frontalis. its just a minor muscle.
 in total we have,
 [x] from the epicranium,
 [x] frontalis muscles
@@ -197,32 +208,32 @@ from the face - the mimetic muscles,
 [x] bucinator muscles
 [x] mentalis muscles
 from the eyes,
-[ ] rectus superior muscles
-[ ] rectus inferior muscles
-[ ] rectus medialis muscles
-[ ] rectus lateralis muscles
-[ ] obliquus superior muscles
-[ ] obliquus inferior muscles
-[ ] levator palpebrae superioris muscles
+[x] rectus superior muscles
+[x] rectus inferior muscles
+[x] rectus medialis muscles
+[x] rectus lateralis muscles
+[x] obliquus superior muscles
+[x] obliquus inferior muscles
+[x] levator palpebrae superioris muscles
 from the inner ear,
-tensor tympani muscles
-and the stapedius muscles
+[ ] tensor tympani muscles
+[ ] and the stapedius muscles
 from the soft palate,
-levator veli palatini muscles
-tensor veli palatini muscles
-uvulae muscles
-palatoglossus muscles
-anterior fascicle palatopharyngeus muscles
-posterior fascicle palatopharyngeus muscles
+[ ] levator veli palatini muscles
+[ ] tensor veli palatini muscles
+[ ] uvulae muscles
+[ ] palatoglossus muscles
+[ ] anterior fascicle palatopharyngeus muscles
+[ ] posterior fascicle palatopharyngeus muscles
 from the tongue,
-genioglossus muscles
-hyoglossus muscles
-chondroglossus muscles
-ceratoglossus muscles
-styloglossus muscles
-inferior longitudinal lingual muscles
-superior longitudinal lingual muscles
-transverse lingual muscles
-vertical lingual muscles
+[ ] genioglossus muscles
+[ ] hyoglossus muscles
+[ ] chondroglossus muscles
+[ ] ceratoglossus muscles
+[ ] styloglossus muscles
+[ ] inferior longitudinal lingual muscles
+[ ] superior longitudinal lingual muscles
+[ ] transverse lingual muscles
+[ ] vertical lingual muscles
 
 now that we've done the bones and muscles, lets think about veins and nerves as a whole. for the most part the nerves aren't really visible. but some of the veins are because they are quite thick. so lets go over them.
