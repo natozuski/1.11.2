@@ -159,81 +159,107 @@ the obliquus superior goes above the eye and runs obliquely from the top of the,
 it pulls the eye.
 there is a small muscle above the rectus superior that goes right into the eyelid called the levator palpebrae superioris. it goes into the hallway.
 it's not strictly responsible for opening the eyelid. thats the frontalis. its just a minor muscle.
+going to the inner ear now,
+in the inner ear we have the tensor tympani muscle which is tiny and pulls the eardrum
+and the stapedius muscle which is tiny and connects some of the inner ear bones
+lets look at the inner ear in more detail shall we? theres three bones in there.
+cheers.
+lets look at the soft palate now.
+the muscles in the soft palate all centre around the palatine aponeurosis, and kind of spider out from there down to the tongue and around in the head.
+the palatoglossus muscles are the front legs coming down to round the centre of the tongue
+the anterior and posterior palatopharyngeus muscles are the back legs coming into the pharynx behind the hyoglossus. the anterior is thicker.
+the uvula has a pair of muscles that moves it during swallowing
+the tensor vali palatini bends around the pterygoid hamulus which is a loop and the muscles go upward to the eustacian tube. tensing the soft palate and opening the eustacian tubes.
+the levator vali palatini go upward to the eustacian tube and are responsible for moving the soft palate upwards. 
+lets look at the tongue now.
+the way to visualise the tongue is like this.
+the tongue is like a italian dish; its like a lasagne; and a very long lasagna.
+in the lasagne we have the lasagne sheets which is the lingual aponeurosis
+then we have three layers of meat inside (with a dividing wall of aponeurosis in the middle)
+the top layer of meat is the superior longitudinal lingual muscles
+the middle layer of meat is the transverse and verticle lingual muscles, which overlap with each other
+the bottom layer is the inferior longitudinal lingual muscles
+underneath the main tongue is the styloglossus; underneath the lasagne; which pulls it back all and upward all the way to the condyle.
+the condyle ball is where the mandible meets the maxilla btw. should have mentioned that earlier.
+underneath that we have the thick genioglossus which holds the lasagna pulling it forward towards the lower mandible.
+and above and laterally to the sides of that theres the thick hyoglossus muscles which holds the lasagna pulling it backwards and down towards the hyoid bone
+the back part of the hyglossus is the ceratoglossus.
+the chrondroglossus are slightly smaller muscles that does the same function, pulling the tongue towards the front parts of the hyoid.
 in total we have,
-[x] from the epicranium,
-[x] frontalis muscles
-[x] occipitalis muscles
-[x] temporoparietalis muscles
+from the epicranium,
+frontalis muscles
+occipitalis muscles
+temporoparietalis muscles
 from the ear,
-[x] auricularis anterior muscles
-[x] auricularis superior muscles
-[x] auricularis posterior muscles
-[x] helicis major muscles
-[x] helicis minor muscles
-[x] tragicus muscles
-[x] antitragicus muscles
-[x] transverse auriculae muscles
-[x] obliquus auriculae muscles
-[x] pyramidalis auriculae muscles
-[x] incisurae terminalis muscles
+auricularis anterior muscles
+auricularis superior muscles
+auricularis posterior muscles
+helicis major muscles
+helicis minor muscles
+tragicus muscles
+antitragicus muscles
+transverse auriculae muscles
+obliquus auriculae muscles
+pyramidalis auriculae muscles
+incisurae terminalis muscles
 the masticatory muscles,
-[x] superficial masseter muscles
-[x] profound masseter muscles
-[x] temporalis muscles
-[x] superior head lateral pterygoidus muscles
-[x] inferior head lateral pterygoidus muscles
-[x] profound head medial pterygoidus muscles
-[x] superficial head medial pterygoidus muscles
+superficial masseter muscles
+profound masseter muscles
+temporalis muscles
+superior head lateral pterygoidus muscles
+inferior head lateral pterygoidus muscles
+profound head medial pterygoidus muscles
+superficial head medial pterygoidus muscles
 from the face - the mimetic muscles,
-[x] procerus muscles
-[x] transerve nasalis muscles
-[x] alar nasalis muscles
-[x] depressor septi nasi muscles
-[x] palpebral orbicularis oculi muscles
-[x] orbital orbicularis oculi muscles
-[x] profound palepbral obricularis oculi muscles
-[x] corrugator supercilii muscles
-[x] depressor supercilli muscles
-[x] marginal orbicularis oculi muscles
-[x] labial orbicularis oculi muscles
-[x] depressor anguli oris muscles which are also known as the DAO
-[x] transverse menti muscles
-[x] risorius muscles
-[x] major zygomaticus muscles
-[x] minor zygomaticus muscles
-[x] levator labii superioris muscles which is also known as the LLS
-[x] levator nasolabialis muscles which is also known as the LLSAN (levator labii superioris alaque nasi)
-[x] depressor labii inferioris muscles
-[x] levator anguli oris muscles which is also known as the LAO
-[x] bucinator muscles
-[x] mentalis muscles
+procerus muscles
+transerve nasalis muscles
+alar nasalis muscles
+depressor septi nasi muscles
+palpebral orbicularis oculi muscles
+orbital orbicularis oculi muscles
+profound palepbral obricularis oculi muscles
+corrugator supercilii muscles
+depressor supercilli muscles
+marginal orbicularis oculi muscles
+labial orbicularis oculi muscles
+depressor anguli oris muscles which are also known as the DAO
+transverse menti muscles
+risorius muscles
+major zygomaticus muscles
+minor zygomaticus muscles
+levator labii superioris muscles which is also known as the LLS
+levator nasolabialis muscles which is also known as the LLSAN (levator labii superioris alaque nasi)
+depressor labii inferioris muscles
+levator anguli oris muscles which is also known as the LAO
+bucinator muscles
+mentalis muscles
 from the eyes,
-[x] rectus superior muscles
-[x] rectus inferior muscles
-[x] rectus medialis muscles
-[x] rectus lateralis muscles
-[x] obliquus superior muscles
-[x] obliquus inferior muscles
-[x] levator palpebrae superioris muscles
+rectus superior muscles
+rectus inferior muscles
+rectus medialis muscles
+rectus lateralis muscles
+obliquus superior muscles
+obliquus inferior muscles
+levator palpebrae superioris muscles
 from the inner ear,
-[ ] tensor tympani muscles
-[ ] and the stapedius muscles
+tensor tympani muscles
+and the stapedius muscles
 from the soft palate,
-[ ] levator veli palatini muscles
-[ ] tensor veli palatini muscles
-[ ] uvulae muscles
-[ ] palatoglossus muscles
-[ ] anterior fascicle palatopharyngeus muscles
-[ ] posterior fascicle palatopharyngeus muscles
+levator veli palatini muscles
+tensor veli palatini muscles
+uvulae muscles
+palatoglossus muscles
+anterior fascicle palatopharyngeus muscles
+posterior fascicle palatopharyngeus muscles
 from the tongue,
-[ ] genioglossus muscles
-[ ] hyoglossus muscles
-[ ] chondroglossus muscles
-[ ] ceratoglossus muscles
-[ ] styloglossus muscles
-[ ] inferior longitudinal lingual muscles
-[ ] superior longitudinal lingual muscles
-[ ] transverse lingual muscles
-[ ] vertical lingual muscles
+genioglossus muscles
+hyoglossus muscles
+chondroglossus muscles
+ceratoglossus muscles
+styloglossus muscles
+inferior longitudinal lingual muscles
+superior longitudinal lingual muscles
+transverse lingual muscles
+vertical lingual muscles
 
 now that we've done the bones and muscles, lets think about veins and nerves as a whole. for the most part the nerves aren't really visible. but some of the veins are because they are quite thick. so lets go over them.
