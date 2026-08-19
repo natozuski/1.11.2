@@ -121,12 +121,33 @@ they both at the back of the lateral pterygoid.
 coming from the front of the lateral pterygoid muscles to the back of the mandible, the ridge, is the deep medial pterygoid muscle. the name is confusing because its not connected to the medial pterygoid, its just a medial muscle i guess.
 anyway coming from the back of the maxilla next to the back teeth and a little bit of the palatine bone you have the superifical medial pterygoid muscle and it merges completely with the deep medial pterygoid muscles. thats why u call them two heads of the same muscle.
 anyway lets move on to the facial, mimetic, muscles.
+in the middle of the forehead we have the procerus that comes out like a fan from between the eyebrows onto the forehead.
+on the ridge of the nose we have the transverse nasalis muscles that covers the top long part of the ridge of the nose from the sides of the nose, and underneath that covering the bottom shorter part of the ridge of the nose we have the alar nasalis muscles.
+underneath the nose coming outwards like how the septum does we have the depressor septi nasi muscles.
+now going to the orbit; the eyes; we have
+the orbicular oculi orbitalis muscles which are like thick circular bands of muscles around the orbit. a sphincter
+the orbicular oculi palpebralis is another circular band of muscles around the orbit split into two half moons and are thinner.
+the orbicular oculi palpebralis profunda is a little arc around the rim of the eye.
+now switching to the oris; the mouth; we have
+the orbicular oris labialis which is a thinner band of muscle towards the edge of the lips, and the orbicular oris marginalis which is a thicker band of muscle behind that. these are two circular bands of muscle. a sphincter.
+running alongside the oris covering the cheeks is the buccinator muscles, and covering those slightly more towards the oris are the levator angular oris (LAO), which as they go down towards the chin become the depressor angular oris (DAO).
+the rest of the mimetic muscles are like bands that run from somewhere in the fact either towards the oris or the orbit, like roads to rome.
+at the chin running up towards the oris (but not making it, staying at the chin) are the mentalis muscles
+running across those are the transverse menti, but they are rare in humans.
+just above the mentalis and inside the DAO line coming into the oris we have the depressor labii inferioris.
+coming from the side of the nose coming into the oris straight down we have the LLSAN.
+lateral to the LLSAN coming from the maxilla, lower down than the LLSAN, we have the LLS.
+the LLSAN and the LLS come to the oris marginalis, but they dont reach the labialis.
+same with the depressor labii inferioris.
+the rest of the muscles kind of interweave with other muscles.
 the corrugator supercilii muscle starts where the inner corner of the eyebrow and goes upwards under the frontalis muscle and crossing and blending with the orbicularis oculi to pull the brow down and in
 the depressor supercilii muscle is underneath and interweaved with the orbicularis oculi starting from the inner corner of the eyebrow and pulls the eyebrow down
 the zygomaticus major runs diagonally across the cheek, over the buccinator and levator anguli, to insert into the modiolus.
 the zygomaticus minor runs diagonally, over the levator labii superioris, to insert into the upper lip skin.
 the risorius runs horizontally from the cheek fascia, over the buccinator, to insert into the modiolus and skin.
 the modiolus is the corner of the mouth.
+next we have the muscles in the eye, they are in the eye's hallway.
+
 in total we have,
 [x] from the epicranium,
 [x] frontalis muscles
@@ -153,36 +174,36 @@ the masticatory muscles,
 [x] profound head medial pterygoidus muscles
 [x] superficial head medial pterygoidus muscles
 from the face - the mimetic muscles,
-procerus muscles
-transerve nasalis muscles
-alar nasalis muscles
-depressor septi nasi muscles
-palpebral orbicularis oculi muscles
-orbital orbicularis oculi muscles
-profound palepbral obricularis oculi muscles
+[x] procerus muscles
+[x] transerve nasalis muscles
+[x] alar nasalis muscles
+[x] depressor septi nasi muscles
+[x] palpebral orbicularis oculi muscles
+[x] orbital orbicularis oculi muscles
+[x] profound palepbral obricularis oculi muscles
 [x] corrugator supercilii muscles
 [x] depressor supercilli muscles
-marginal orbicularis oculi muscles
-labial orbicularis oculi muscles
-depressor anguli oris muscles which are also known as the DAO
-transverse menti muscles
+[x] marginal orbicularis oculi muscles
+[x] labial orbicularis oculi muscles
+[x] depressor anguli oris muscles which are also known as the DAO
+[x] transverse menti muscles
 [x] risorius muscles
 [x] major zygomaticus muscles
 [x] minor zygomaticus muscles
-levator labii superioris muscles which is also known as the LLS
-levator nasolabialis muscles which is also known as the LLSAN (levator labii superioris alaque nasi)
-depressor labii inferioris muscles
-levator anguli oris muscles which is also known as the LAO
-bucinator muscles
-mentalis muscles
+[x] levator labii superioris muscles which is also known as the LLS
+[x] levator nasolabialis muscles which is also known as the LLSAN (levator labii superioris alaque nasi)
+[x] depressor labii inferioris muscles
+[x] levator anguli oris muscles which is also known as the LAO
+[x] bucinator muscles
+[x] mentalis muscles
 from the eyes,
-rectus superior muscles
-rectus inferior muscles
-rectus medialis muscles
-rectus lateralis muscles
-obliquus superior muscles
-obliquus inferior muscles
-levator palpebrae superioris muscles
+[ ] rectus superior muscles
+[ ] rectus inferior muscles
+[ ] rectus medialis muscles
+[ ] rectus lateralis muscles
+[ ] obliquus superior muscles
+[ ] obliquus inferior muscles
+[ ] levator palpebrae superioris muscles
 from the inner ear,
 tensor tympani muscles
 and the stapedius muscles
@@ -203,4 +224,5 @@ inferior longitudinal lingual muscles
 superior longitudinal lingual muscles
 transverse lingual muscles
 vertical lingual muscles
-lets think about the innervation in the head now.
+
+now that we've done the bones and muscles, lets think about veins and nerves as a whole. for the most part the nerves aren't really visible. but some of the veins are because they are quite thick. so lets go over them.
