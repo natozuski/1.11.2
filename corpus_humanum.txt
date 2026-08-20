@@ -266,7 +266,49 @@ now let's look at the neck.
 the bones in the neck are the bones C1 to C7 from the spine. 
 they look like small cylinders with wings that span backwards.
 C1 is specially called the atlas and C2 is called the axis seperating them nomically from the rest.
+altas
+axis
+c3
+c4
+c5
+c6
+c7
 now. as far the muscles are concerned.
+the pharynx is the throat.
 
+the larynx is the voicebox.
+in total its
+[ ] the pharyngeal muscles,
+superior pharyngis constrictor muscles and its 4 parts
+medius pharyngis contrictor muscles and its 2 parts
+inferior pharyngis constrictor muscles and its 2 parts
+stylopharyngeus muscles
+salpingopharyngeus muscles
+[ ] the laryngeal muscles,
+cricothyreodideus muscles and its parts
+posterior cricoarytenoideus muscles and its parts
+lateral cricoarytenoideus muscles and its parts
+thyreoarytenoideus muscles and its parts
+vocalis muscles
+oblique arytenoideus muscles
+transverse arytenoideus muscles
+[ ] the superficial neck and platysma muscles,
+platysma muscles
+sternocleidomastoideus muscles and its parts
+[ ] the suprahyoid muscles,
+digastricus muscles and its parts
+stylohyoideus muscles
+mylohyoideus muscles
+geniohyoideus muscles
+[ ] the infrahyoid muscles,
+sternohyoideus muscles
+omohyoideus muscles and its parts
+sternothyreoideus muscles
+thyreohyoideus muscles
+[ ] the prevertebral neck muscles, they come before the rest of the spine
+colli longus muscles
+capitis longus muscles
+anterior rectus capitis muscles
+lateralis rectus capitis muscles
 
 now that we've done the bones and muscles, lets think about veins and nerves as a whole. for the most part the nerves aren't really visible. but some of the veins are because they are quite thick. so lets go over them.
