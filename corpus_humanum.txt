@@ -276,15 +276,20 @@ c7
 now. as far the muscles are concerned.
 the pharynx is the throat.
 the larynx is the voicebox.
-
+the pharyngeal muscles form the muscular wall of the pharynx, a cone-shaped tube located in the neck, positioned posterior to the nasal and oral cavities and extending down to the larynx and esophagus. this muscular layer is composed of three paired, overlapping constrictor muscles—the superior, middle, and inferior pharyngeal constrictors—which are arranged like stacked cups. these constrictors anchor anteriorly to various bony and cartilaginous structures of the skull base, mandible, hyoid bone, and thyroid and cricoid cartilages, wrapping posteriorly to meet at a fibrous midline seam called the pharyngeal raphe. their primary action is sequential, wavelike contraction that propels a bolus of food or liquid downward from the pharynx into the esophagus during swallowing, a process known as peristalsis. complementing them are the longitudinal pharyngeal muscles—the stylopharyngeus, palatopharyngeus, and salpingopharyngeus—which originate from the styloid process, palate, and auditory tube, respectively. these muscles primarily function to elevate and shorten the pharynx and larynx during swallowing and speech, helping to open the esophageal sphincter and protect the airway. collectively, this intricate muscular sleeve in the throat serves the vital roles of facilitating swallowing, enabling vocalization, and assisting in respiration by coordinating with the soft palate and epiglottis to direct food away from the nasal cavity and trachea.
+the laryngeal muscles are a complex group of intrinsic and extrinsic muscles located in the anterior neck, forming the structural framework of the voice box, or larynx, which sits at the level of the c3 to c6 vertebrae. the extrinsic muscles connect the laryngeal cartilages to external structures like the hyoid bone above and the sternum below; they function primarily to elevate or depress the entire larynx during swallowing and vocal pitch changes. in contrast, the intrinsic muscles have both their origins and insertions entirely within the larynx itself, connecting various cartilages—such as the thyroid, cricoid, and arytenoid cartilages—to one another. these intrinsic muscles are the fine-tuners of the voice, precisely adjusting the tension, length, and position of the vocal folds (vocal cords) to modulate pitch and volume, while also adducting and abducting the folds to close the airway for sound production or open it for breathing, respectively.
+here is a paragraph describing the platysma and sternocleidomastoideus muscles:
+located in the anterior region of the neck, the platysma and sternocleidomastoideus are superficial muscles with distinctly different functions and connective points. the platysma is a broad, thin sheet of muscle that lies just beneath the skin across the front of the neck. it originates from the fascia covering the upper portions of the pectoralis major and deltoid muscles, and its fibers sweep upward and medially to insert onto the lower border of the mandible and the skin and fascia of the lower face. its primary action is to depress the mandible and lower lip, while also tensing the skin of the neck, an action that is visible during forceful expiration or expressions of tension, fear, or effort. in stark contrast, the sternocleidomastoideus is a thick, prominent strap-like muscle that forms a distinctive "v" shape on each side of the neck, running diagonally from the mastoid process of the temporal bone (just behind the ear) down to attach to the manubrium of the sternum and the medial third of the clavicle. as the major superficial muscle of the anterolateral neck, its bilateral contraction flexes the cervical spine, drawing the chin toward the chest, while unilateral contraction laterally flexes the head to the same side and rotates it to the opposite side, making it essential for movements like looking over your shoulder.
+the suprahyoid muscles are a quartet of paired muscles—the digastric, stylohyoid, mylohyoid, and geniohyoid—located in the anterior region of the neck, superior to the hyoid bone. as their name implies, they form a sling-like muscular floor from the mandible down to the hyoid bone, connecting this u-shaped bone to various bony landmarks of the skull and tongue: the digastric attaches from the mastoid process of the temporal bone to the mandible (with its intermediate tendon looping through the hyoid), the stylohyoid runs from the styloid process to the hyoid, the mylohyoid forms a muscular diaphragm from the mylohyoid line of the mandible to the hyoid, and the geniohyoid extends from the inferior mental spine of the mandible to the hyoid. collectively, their primary actions are to elevate the hyoid bone and the floor of the mouth, which is a critical movement during swallowing (as they help propel the bolus into the pharynx) and during speech for tongue positioning; additionally, when the hyoid is fixed, they assist in depressing the mandible to open the jaw.
+the infrahyoid muscles are a group of four paired strap-like muscles located in the anterior triangle of the neck, inferior to the hyoid bone. this group consists of the sternohyoid, sternothyroid, thyrohyoid, and omohyoid muscles. as their names suggest, they form a muscular sling that connects the hyoid bone superiorly to the sternum and clavicle inferiorly, with the sternothyroid specifically linking the sternum to the thyroid cartilage. collectively, they function as the primary depressors of the hyoid bone and larynx, acting as antagonists to the suprahyoid muscles. their key actions are to lower and stabilize the hyoid bone during swallowing and speaking, and to pull the larynx downward following elevation, which is essential for the final phases of deglutition and for phonation.
 in total its
-[ ] the pharyngeal muscles,
+the pharyngeal muscles,
 superior pharyngis constrictor muscles and its 4 parts
 medius pharyngis contrictor muscles and its 2 parts
 inferior pharyngis constrictor muscles and its 2 parts
 stylopharyngeus muscles
 salpingopharyngeus muscles
-[ ] the laryngeal muscles,
+the laryngeal muscles,
 cricothyreodideus muscles and its parts
 posterior cricoarytenoideus muscles and its parts
 lateral cricoarytenoideus muscles and its parts
@@ -292,23 +297,162 @@ thyreoarytenoideus muscles and its parts
 vocalis muscles
 oblique arytenoideus muscles
 transverse arytenoideus muscles
-[ ] the superficial neck and platysma muscles,
+the superficial neck and platysma muscles,
 platysma muscles
 sternocleidomastoideus muscles and its parts
-[ ] the suprahyoid muscles,
+the suprahyoid muscles,
 digastricus muscles and its parts
 stylohyoideus muscles
 mylohyoideus muscles
 geniohyoideus muscles
-[ ] the infrahyoid muscles,
+the infrahyoid muscles,
 sternohyoideus muscles
 omohyoideus muscles and its parts
 sternothyreoideus muscles
 thyreohyoideus muscles
-[ ] the prevertebral neck muscles, they come before the rest of the spine
+the prevertebral neck muscles, they come before the rest of the spine
 colli longus muscles
 capitis longus muscles
 anterior rectus capitis muscles
 lateralis rectus capitis muscles
+
+now lets look at the back.
+the bones in the back are the rest of the spinal bones. c1-c7 are in the neck. then for the back we have:
+t1-t12
+L1-L5
+the sacrum. its 1 bone but it looks like 5 fused bones
+the coccyx. its 1 bone but it looks like 4 fused bones.
+as far as the muscles are concerned
+nestled deep in the back of the neck, just below the base of the skull, lies a complex of four small but vital muscles known as the suboccipital group. this intricate quartet—comprising the rectus capitis posterior major and minor, and the obliquus capitis superior and inferior—forms a functional triangle that connects the skull (specifically the occipital bone) to the first two vertebrae of the spine (the atlas and axis). their primary role is to govern the fine, precise movements of the head, enabling subtle extensions, rotations, and lateral flexions that allow for actions like nodding, tilting, and shaking your head "no." beyond movement, these muscles are packed with a high density of muscle spindles, making them exceptionally sensitive proprioceptors that constantly relay information to the brain about the head's position in space. however, this constant vigilance makes them prone to tension and spasm, often becoming a significant source of suboccipital headache and pain, particularly for those who sustain poor posture or forward head position for extended periods.
+the superficial back muscles form a broad, layered network of powerful straps and sheets that anchor the axial skeleton to the upper limb. occupying the entirety of the back, from the base of the skull to the lower ribs and iliac crest, this group is dominated by the trapezius, a large, diamond-shaped muscle that descends from the occipital bone and cervical/thoracic spinous processes to the clavicle and scapular spine, functioning to elevate, retract, and rotate the scapula. deep to its lower fibers lies the latissimus dorsi, a broad, expansive "swimmer's muscle" that sweeps from the lower thoracic spinous processes, thoracolumbar fascia, and iliac crest, converging to insert on the humerus, where it powerfully extends, adducts, and internally rotates the arm. nestled beneath the trapezius in the upper neck and between the scapulae are the smaller, deeper stabilizers: the levator scapulae, which runs from the transverse processes of the upper cervical vertebrae to the superior angle of the scapula, acting to elevate and downwardly rotate the scapula; and the rhomboid minor (originating from the lower cervical spinous processes) and rhomboid major (originating from the upper thoracic spinous processes), which both insert onto the medial border of the scapula, functioning together to retract the scapula towards the spine and brace it against the thoracic wall.
+these are the most superficial back muscles, but even within themselves theres a layer order. the trapezius sits on top of the levator scapulae and rhomboid muscles, and overlaps the latissimus dorsi which it sits higher than.
+the serratus posterior and superior are intermediate back muscles which means they are both underneath the superficial back muscles but they are above all the other back muscles.
+at the top is the splenius as the most superficial. bearing in mind all muscles are both neighbouring and overlapping in the body.
+the splenius is superficial to the errector spinae which come downwards, although the splenius is generally higher than the erector spinae.
+the errector spinae are superficial to the transversospinal muscles, which are involved with fine tuning of the spine.
+the interspinales and intertransversarii muscles are deepest and are on the spinal column itself.
+in total we have
+the suboccipital muscles,
+musculus rectus posterior major capitis
+musculus rectus posterior minor capitis
+musculus obliquus superior capitis
+musculus obliquus inferior capitis
+the superficial back muscles,
+musculus trapezius muscles
+musculus latissimus dorsi
+musculus rhomboideus major
+musculus rhomboideus minor
+levator scapulae
+the intermediate back muscles,
+musculus serratus posterior inferior
+musculus serratus posterior superior
+the erector spinae muscles,
+musculus iliocostalis lumborum
+musculus iliocostalis thoracis
+musculus iliocostalis colli
+musculus longissimus thoracis – pars lumbalis
+musculus longissimus thoracis
+musculus longissimus colli
+musculus longissimus capitis
+musculus spinalis thoracis
+musculus spinalis colli
+musculus spinalis capitis
+the splenius muscles,
+musculus splenius capitis
+musculus splenius colli, more commonly known as splenius cervicus
+the transversospinal muscles,
+musculus semispinalis thoracis
+musculus semispinalis colli, more commonly known as cervicus
+musculus semispinalis capitis
+musculus multifidus lumborum
+musculus multifidus thoracis
+musculus multifidus colli, more commonly known as cervicus
+rotatores longi thoracis
+rotatores breves thoracis
+rotatores lumborum
+rotatores colli, more commonly known as cervicus
+intertransversarii and interspinales, or segmental, muscles,
+musculi interspinales lumborum
+musculi interspinales thoracis
+musculi interspinales colli
+musculi intertransversarii mediales lumborum
+musculi intertransversarii laterales lumborum – partes dorsales
+musculi intertransversarii laterales lumborum – partes ventrales
+musculi intertransversarii thoracis
+musculi intertransversarii anteriores colli
+musculi intertransversarii posteriores laterales colli
+musculi intertransversarii posteriores mediales colli
+
+now lets look at the trunk.
+the trunk can be though of as the thorax, the abdomen and the pelvis and perineum.
+the thorax is the upper chest area where the chest and lungs are.
+the abdomen is the middle section with the stomache and digestive organs
+the pelvis is the lower body area where the bladder and genetalia are at bussomhole.
+the perineum is the goochal area.
+the bones for the trunk are the ribcage and sternum, and also the pelvic girdle which is two bones.
+here is a description of the thoracic muscles and the diaphragm.
+the thoracic muscles are a complex group of muscles that occupy the region of the torso between the neck and the abdomen, encasing the rib cage. they can be broadly divided into those that connect the upper limb to the trunk and those that form the walls of the thoracic cavity itself. the primary extrinsic muscles, such as the pectoralis major and latissimus dorsi, connect the humerus (upper arm bone) to the sternum, clavicle, and the vertebrae of the lower spine, respectively, and are primarily responsible for powerful movements of the arm like pushing, pulling, and rotation. the intrinsic thoracic muscles, however, are the intercostals and the transversus thoracis. these muscles connect directly from one rib to another (the intercostals) or from the sternum to the inner ribs, filling the spaces between the ribs and forming the structural integrity of the chest wall. their primary functions are to actively and passively move the rib cage during breathing, elevating and depressing the ribs to change the volume of the thoracic cavity, while also providing support and protection for the vital organs housed within.
+the diaphragm is a single, large, dome-shaped muscle that forms the muscular floor of the thoracic cavity, separating it completely from the abdominal cavity below. it is shaped like a parachute or a muscular partition, with its peripheral muscle fibers attaching to the lower margin of the rib cage, the xiphoid process of the sternum, and the upper lumbar vertebrae, while its central portion converges into a tough, fibrous central tendon. as the primary muscle of respiration, its singular and critical function is to power breathing. when it contracts, it flattens and moves downward, increasing the vertical space in the chest, which creates negative pressure that draws air into the lungs (inhalation). when it relaxes, it returns to its domed shape, decreasing the volume of the thoracic cavity and forcing air out (exhalation). beyond respiration, the diaphragm also plays a crucial role in increasing intra-abdominal pressure for functions like childbirth, defecation, and vomiting, acting as a mechanical and functional boundary between the chest and the belly.
+from my understanding this is is how the abdominal muscles work.
+you have 4 layers.
+the most superficial layer is the external oblique which starts just below the serratus anterior and an upwards running slip of the latissumus dorsi on the lateral side which come after the pectoralis major at the top.
+the external oblique comes down into the centre which is called the linea alba. its at a diagonal; coming down into the centre.
+coming up into the centre, directly beneath that, is the internal oblique. and it runs up into the centre, so its perpendicular to the external oblique like a perfect criss cross. 
+underneath that is the transverse adbominis, which goes across stopping at the centre. the tendons meet to form the rectus sheath in the centre, which encloses the rectus abdominis beneath.
+so next is the rectus adbominis, which comes straight down.
+underneath that at the deepest is the transversalis fascia which covers the organs.
+at the bottom, on top of the rectus adbominis is the pyramidalis muscle. its a very small muscle that tenses the linea alba and is missing in 20% of people.
+connecting the top of the pelvis and the last ribs and lumbar vertebrae (L vertebrae) is the quadratus lumborum muscle which stabilises the spine.
+the cremaster is a continuation of the internal oblique and a little bit of the transversus abdominis that controls the ballsack.
+here is a paragraph describing the pelvic diaphragm muscles:
+the pelvic diaphragm is a broad, funnel-shaped sling of musculature and fascia that forms the muscular floor of the true pelvis, separating the pelvic cavity above from the perineal region below. it is primarily composed of two paired muscles: the levator ani and the coccygeus. the levator ani itself is a complex sheet made of three parts (puborectalis, pubococcygeus, and iliococcygeus) that originate from the inner surfaces of the bony pelvis—specifically the posterior aspect of the pubic bone, the obturator fascia (along a tendinous arch), and the ischial spine—and converge medially and posteriorly to insert into the coccyx, the anococcygeal ligament, and the central tendinous point of the perineum. the smaller coccygeus muscle lies directly behind the levator ani, originating from the ischial spine and inserting onto the lateral edges of the sacrum and coccyx. functionally, this muscular hammock provides essential tonic support to the pelvic viscera (the bladder, uterus in females, and rectum), resisting the downward pressure created by increases in intra-abdominal pressure during actions like coughing, lifting, or straining. furthermore, it plays a dynamic role in maintaining urinary and fecal continence by keeping the anorectal and urethral angles closed, and it actively relaxes to allow for the expulsion of waste and, in females, assists during childbirth by guiding the fetal head anteriorly.
+in total the muscles are:
+the muscles of the throax:
+the thoracic wall muscles,
+musculus pectoralis major – pars clavicularis
+musculus pectoralis major – pars sternocostalis
+musculus pectoralis minor
+musculus subclavius
+musculus serratus anterior
+the intercostal & thoracic muscles,
+levatores longi costarum
+levatores breves costarum
+musculi intercostales externi
+musculi intercostales interni
+musculi intercostales intimi
+musculi subcostales
+musculus transversus thoracis
+the diaphragm, which is just one singular muscle,
+the muscles of the abdomen.:
+the abdominal muscles,
+musculus obliquus externus abdominis
+musculus obliquus internus abdominis
+musculus transversus abdominis
+musculus rectus abdominis
+musculus pyramidalis
+cremaster
+musculus quadratus lumborum
+the muscles of the pelvis and perineum:
+the pelvic diaphragm,
+musculus iliococcygeus
+musculus pubococcygeus
+musculus puboanalis
+musculus puboperinealis
+musculus puboprostaticus ♂ (male only)
+musculus pubovaginalis ♀ (female only)
+musculus coccygeus
+the perineal muscles,
+musculus transversus superficialis perinei
+musculus ischiocavernosus
+musculus bulbospongiosus
+musculus transversus profundus perinei ♂ (male only)
+sphincter externus urethrae masculinae ♂ (male only)
+sphincter externus urethrae femininae ♀ (female only)
+compressor urethrae ♀ (female only)
+sphincter urethrovaginalis ♀ (female only)
+the external anal sphincter, which are three unpaired singular muscles.,
+sphincter externus ani – pars subcutanea
+sphincter externus ani – pars superficialis
+sphincter externus ani – pars profunda
 
 now that we've done the bones and muscles, lets think about veins and nerves as a whole. for the most part the nerves aren't really visible. but some of the veins are because they are quite thick. so lets go over them.
