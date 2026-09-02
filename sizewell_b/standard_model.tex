@@ -1,0 +1,71 @@
+\documentclass{article}
+\usepackage{amsmath, amssymb}
+% Allow the use of \cal as a shortcut for \mathcal
+\let\cal\mathcal
+\begin{document}
+
+% we are trying to understand the standard model
+% here are different renditions of it
+
+% referential
+\[
+{\cal L}_{SM}
+=
+{\cal L}_{gauge}
++
+{\cal L}_{fermions}
++
+{\cal L}_{Yukawa}
++
+{\cal L}_{Higgs}
+\]
+
+% expounded
+\[
+\mathcal{L} % lagrangian density
+\quad = \quad 
+-\frac{1}{4}F_{\mu\nu}^{\alpha}F^{\alpha\mu\nu} % kinetic term for gauge fields (electromagnetism/strong force)
+\quad + \quad
+i\overline{\psi}\gamma_{5}\psi + \text{h.c.} % fermion kinetic term (how matter particles move)
+\quad + \quad
+\overline{\psi_{L}}\gamma_{5}\psi_{R}\Phi + \text{h.c.} % yukawa coupling (gives particles mass via higgs)
+\quad + \quad
+|D_{\mu}\Phi|^{2} - V(\Phi) % higgs sector (spontaneous symmetry breaking)
+\]
+
+% full
+\begin{align*}
+\mathcal{L}_{\text{SM}}
+\quad &= \quad 
+-\frac{1}{4}G_{\mu\nu}^a G^{a\mu\nu} 
+\quad - \quad
+\frac{1}{4}W_{\mu\nu}^i W^{i\mu\nu}
+\quad - \quad
+\frac{1}{4}B_{\mu\nu}B^{\mu\nu} \\
+&+ \qquad 
+\overline{\psi}_L i\gamma^\mu D_\mu\psi_L 
+\quad + \quad
+\overline{\psi}_R i\gamma^\mu D_\mu\psi_R \\
+&+ \qquad
+- (y_{ij}\overline{\psi}_{L,i}\Phi\psi_{R,j} 
+\quad + \quad
+\text{h.c.}) \\
+&+ \qquad
+(D_\mu\Phi)^\dagger(D^\mu\Phi) 
+\quad - \quad
+\mu^2\Phi^\dagger\Phi 
+\quad - \quad 
+\lambda(\Phi^\dagger\Phi)^2 \\
+&+ \qquad 
+\text{gauge-fixing terms} 
+\: + \:
+\text{ghost terms} 
+\: + \:
+\theta\text{-terms} 
+\: + \:
+\text{neutrino mass terms (if included)}
+\end{align*}
+
+
+
+\end{document}
