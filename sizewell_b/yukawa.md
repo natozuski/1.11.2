@@ -1,10 +1,31 @@
+# index 
+
+## with excess terms
 wool          	35:
 glass			95:
 clay			82: 
 wood planks		5:
 stone			1:
 obsidian 		49
+mob: zombie
+mob: skeleton
+mob: zombie villager
+armour: gold (left-spin) armour
+armour: silver (right-spin) armour
+armour: diamond armour
+armour: netherite armour
+armour: leather armour
+weapon: gold (1st) sword
+weapon: silver (2nd) sword
+weapon: diamond (3rd) sword
+weapon: netherite sword
+weapon: wood sword
+handedness: up(right) handed
+handedness: down(left) handed
 
+# boson field.
+
+## game ticks
 imagine a minecraft cube. and its 1000x1000x1000, for example.
 its filled.
 now imagine its mostly filled, randomly with 8 different colours of wool block.
@@ -30,6 +51,7 @@ this field is different because at the "game tick decision" stage
 it doesnt check what the surrounding blocks are saying.
 so the block id is 49
 
+## calculations 
 relating this to the gauge terms:
 \mathcal{L}_{\text{gauge}}
 \enspace &= \enspace
@@ -47,7 +69,6 @@ relating this to the gauge terms:
 &- \enspace											%
 \frac{1}{4}(\partial_\mu B_\nu - \partial_\nu B_\mu)(\partial^\mu B^\nu - \partial^\nu B^\mu)
 
-
 you start with a specific field configuration. 
 this is called the initial state. 
 its a "storyboard"; an arrangement of blocks, a random one, for all of time from time 0 to time N.
@@ -64,9 +85,81 @@ instead of a guess lets call it a futurecast.
 the result is a single number, S. it represents the difference between the futurecast and the storyboard at the final tick.
 lets say its 42
 
-then you so e^(iS/h) (where h is reduced plank's constant; just a constant). and this gives you a new number called a phase.
+then you so e^(iS/hbar) (where hbar is reduced plank's constant; just a constant). and this gives you a new number called a phase.
 then you literally repeat this whole process with new random storyboards, for every single possible storyboard but keeping with the same reference block (so '500,500,500' from tick 0). which will give you all the possible phases.
 then you sum all the phases, to give you the 'total amplitude'.
 then you square that to give the probablility. which is the probability that at the final tick of your storyboard, block 500,500,500 will be what you thought it was.
 
 you can see why its a lagrangian😆 its like saying "whats the chance my plan will work and not be disuaded by the (FIXED) fluctuations of gauge fields" 
+
+# fermion field.
+
+## game ticks
+imagine the same 1000x1000x1000 minecraft cube from before
+superimposed, at each space, theres also a mob! so imagine mobs fit 1x1 space😄
+this is the fermion field.
+mobs are either zombies, or skeletons: quarks, or leptons.
+mobs have handedness. left handed mobs are called "down". right handed mobs are called "up".
+mobs either have gold or silver armour. gold armoured mobs are called "left-spin". silver armoured mobs are called "right-spin".
+mobs carry a sword either gold silver or diamond. gold is called "1st", silver is called "2nd", diamond is called "3rd".
+in each spot you have a mob.
+
+for every mob, for each game tick, the following is calculated:
+1. what are the surrounding blocks; from the boson field!
+2. where should it go next (whats the vector)
+then at the next game tick it makes a decision
+it never checks what mobs are around.
+
+## calculations
+relating this to the fermion terms:
+\overline{\psi}_L i\gamma^\mu D_\mu\psi_L 
+\quad + \quad 							
+\overline{\psi}_R i\gamma^\mu D_\mu\psi_R
+
+you start with a specific field configuration. 
+this is called the initial state. 
+its a "storyboard"; an arrangement of blocks, a random one, for all of time from time 0 to time N.
+what youre trying to figure out, is the "chance" that your storyboard will evolve from time 0's state to time N's state.
+from the initial tick's to the final tick's state.
+you pick a block from a specific point on that storyboard. so maybe block 500,500,500. from tick 0.
+then you calculate what will happen from tick 0 onwards, locally to that block, using all the fermion terms.
+then you get your "cloud of blocks", which is a 'guess' at what will happen to those surrounding blocks at the final tick.
+you are interested at what happens at the end of ticks.
+so youve calculated a guess at what will happen at the final tick.
+
+the process is pretty much the same as before
+u calculate S and then u get the probability the same way as before
+
+# higgs field
+
+## game ticks
+imagine the same 1000x1000x1000 minecraft cube from before
+superimposed, at each space, theres also a sponge! block 19:0
+this is wet sponge
+this is the higgs field.
+this field does not change, ever.
+and it wants to be wet sponge.
+
+but heres the thing
+if, for some reason, in some space there is dry sponge; block 19:1
+for each of those blocks the following is calculated:
+1. what are the other 19 blocks saying (all of them)
+2. should i change to 19:0
+it will change based on a combination of those two things
+
+when there is a change of block, thats an excitation of the higgs field
+
+## calculations
+relating this to the higgs terms
+(D_\mu\Phi)^\dagger(D^\mu\Phi)  
+\quad - \quad 				
+\mu^2\Phi^\dagger\Phi 		
+\quad - \quad  				
+\lambda(\Phi^\dagger\Phi)^2 
+
+and yukawa coupling
+- (y_{ij}\overline{\psi}_{L,i}\Phi\psi_{R,j}  
+\quad + \quad 								
+\text{h.c.})
+
+the more a mob reacts with the higgs field necessarily is how much mass it has
